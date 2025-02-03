@@ -1,0 +1,130 @@
+[19:20:39.426] === Game Started at 2025-01-16_19-20-39 ===
+[19:20:39.427] Game initialized with 2 players
+[19:20:39.427] Board size: 10
+[19:20:39.427] Obstacle density: 0.05
+[19:20:39.427] Max turns: 1000
+[19:20:39.427] Player Bot2 starting at position (0,0) facing SOUTH
+[19:20:39.427] Player Bot3 starting at position (9,9) facing SOUTH
+[19:20:39.427] Obstacles at positions: (2,5) (3,6) (6,9) (7,2) (9,8)
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.427] Bot2 rotated left to face EAST
+[19:20:39.427] Bot2 executed ROTATE_LEFT
+[19:20:39.427] Bot2 moved forward to (0,1)
+[19:20:39.427] Bot2 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot3
+[19:20:39.427] Bot3 rotated right to face WEST
+[19:20:39.427] Bot3 executed ROTATE_RIGHT
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.427] Bot2 rotated right to face SOUTH
+[19:20:39.427] Bot2 executed ROTATE_RIGHT
+[19:20:39.427] Bot2 moved forward to (1,1)
+[19:20:39.427] Bot2 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot3
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.427] Bot2 rotated left to face EAST
+[19:20:39.427] Bot2 executed ROTATE_LEFT
+[19:20:39.427] Bot2 moved forward to (1,2)
+[19:20:39.427] Bot2 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot3
+[19:20:39.427] Bot3 rotated right to face NORTH
+[19:20:39.427] Bot3 executed ROTATE_RIGHT
+[19:20:39.427] Bot3 moved forward to (8,9)
+[19:20:39.427] Bot3 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.427] Bot2 rotated right to face SOUTH
+[19:20:39.427] Bot2 executed ROTATE_RIGHT
+[19:20:39.427] Bot2 moved forward to (2,2)
+[19:20:39.427] Bot2 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot3
+[19:20:39.427] Bot3 rotated left to face WEST
+[19:20:39.427] Bot3 executed ROTATE_LEFT
+[19:20:39.427] Bot3 moved forward to (8,8)
+[19:20:39.427] Bot3 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.427] Bot2 rotated left to face EAST
+[19:20:39.427] Bot2 executed ROTATE_LEFT
+[19:20:39.427] Bot2 moved forward to (2,3)
+[19:20:39.427] Bot2 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot3
+[19:20:39.427] Bot3 moved forward to (8,7)
+[19:20:39.427] Bot3 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.427] Bot2 rotated right to face SOUTH
+[19:20:39.427] Bot2 executed ROTATE_RIGHT
+[19:20:39.427] Bot2 moved forward to (3,3)
+[19:20:39.427] Bot2 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot3
+[19:20:39.427] Bot3 rotated right to face NORTH
+[19:20:39.427] Bot3 executed ROTATE_RIGHT
+[19:20:39.427] Bot3 moved forward to (7,7)
+[19:20:39.427] Bot3 executed MOVE_FORWARD
+[19:20:39.427] Starting turn for Bot2
+[19:20:39.428] Bot2 rotated left to face EAST
+[19:20:39.428] Bot2 executed ROTATE_LEFT
+[19:20:39.428] Bot2 moved forward to (3,4)
+[19:20:39.428] Bot2 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 rotated left to face WEST
+[19:20:39.428] Bot3 executed ROTATE_LEFT
+[19:20:39.428] Bot3 moved forward to (7,6)
+[19:20:39.428] Bot3 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 rotated right to face SOUTH
+[19:20:39.428] Bot2 executed ROTATE_RIGHT
+[19:20:39.428] Bot2 moved forward to (4,4)
+[19:20:39.428] Bot2 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 rotated right to face NORTH
+[19:20:39.428] Bot3 executed ROTATE_RIGHT
+[19:20:39.428] Bot3 moved forward to (6,6)
+[19:20:39.428] Bot3 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 rotated left to face EAST
+[19:20:39.428] Bot2 executed ROTATE_LEFT
+[19:20:39.428] Bot2 moved forward to (4,5)
+[19:20:39.428] Bot2 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 rotated left to face WEST
+[19:20:39.428] Bot3 executed ROTATE_LEFT
+[19:20:39.428] Bot3 moved forward to (6,5)
+[19:20:39.428] Bot3 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 rotated right to face SOUTH
+[19:20:39.428] Bot2 executed ROTATE_RIGHT
+[19:20:39.428] Bot2 moved forward to (5,5)
+[19:20:39.428] Bot2 executed MOVE_FORWARD
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 rotated right to face NORTH
+[19:20:39.428] Bot3 executed ROTATE_RIGHT
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 shooting in direction SOUTH
+[19:20:39.428] Bot2 hit Bot3 for 25 damage (health: 100 -> 75)
+[19:20:39.428] Bot2 executed SHOOT
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 shooting in direction NORTH
+[19:20:39.428] Bot3 hit Bot2 for 25 damage (health: 100 -> 75)
+[19:20:39.428] Bot3 executed SHOOT
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 shooting in direction SOUTH
+[19:20:39.428] Bot2 hit Bot3 for 25 damage (health: 75 -> 50)
+[19:20:39.428] Bot2 executed SHOOT
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 shooting in direction NORTH
+[19:20:39.428] Bot3 hit Bot2 for 25 damage (health: 75 -> 50)
+[19:20:39.428] Bot3 executed SHOOT
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 shooting in direction SOUTH
+[19:20:39.428] Bot2 hit Bot3 for 25 damage (health: 50 -> 25)
+[19:20:39.428] Bot2 executed SHOOT
+[19:20:39.428] Starting turn for Bot3
+[19:20:39.428] Bot3 shooting in direction NORTH
+[19:20:39.428] Bot3 hit Bot2 for 25 damage (health: 50 -> 25)
+[19:20:39.428] Bot3 executed SHOOT
+[19:20:39.428] Starting turn for Bot2
+[19:20:39.428] Bot2 shooting in direction SOUTH
+[19:20:39.428] Bot2 hit Bot3 for 25 damage (health: 25 -> 0)
+[19:20:39.428] Bot3 was destroyed!
+[19:20:39.428] Bot2 is the last tank standing!
+[19:20:39.428] Bot2 executed SHOOT
+[19:20:39.428] Game Over! Bot2 wins!
+[19:20:39.428] === Game Ended ===
