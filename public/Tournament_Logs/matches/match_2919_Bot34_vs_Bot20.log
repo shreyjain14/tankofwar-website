@@ -1,0 +1,183 @@
+[14:36:07.658] === Game Started at 2025-02-04_14-36-07 ===
+[14:36:07.658] Game initialized with 2 players
+[14:36:07.658] Board size: 10
+[14:36:07.658] Obstacle density: 0.05
+[14:36:07.658] Max turns: 1000
+[14:36:07.658] Player Bot34 starting at position (0,0) facing EAST
+[14:36:07.658] Player Bot20 starting at position (9,9) facing SOUTH
+[14:36:07.658] Obstacles at positions: (1,4) (2,0) (2,3) (5,3) (8,8)
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 moved forward to (0,1)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face WEST
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Bot20 moved forward to (9,8)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated right to face SOUTH
+[14:36:07.658] Bot34 executed ROTATE_RIGHT
+[14:36:07.658] Bot34 moved forward to (1,1)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face EAST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (1,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated right to face SOUTH
+[14:36:07.658] Bot34 executed ROTATE_RIGHT
+[14:36:07.658] Bot34 moved forward to (2,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face EAST
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Bot20 moved forward to (9,9)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face EAST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated left to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 rotated left to face WEST
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 moved forward to (9,8)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face NORTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (1,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face WEST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 rotated left to face SOUTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (2,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face EAST
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Bot20 moved forward to (9,9)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face EAST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated left to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 rotated left to face WEST
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 moved forward to (9,8)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face NORTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (1,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face WEST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 rotated left to face SOUTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (2,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face EAST
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Bot20 moved forward to (9,9)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face EAST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated left to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 rotated left to face WEST
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 moved forward to (9,8)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face NORTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (1,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face WEST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 rotated left to face SOUTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (2,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face EAST
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Bot20 moved forward to (9,9)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face EAST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated left to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 rotated left to face WEST
+[14:36:07.658] Bot20 executed ROTATE_LEFT
+[14:36:07.658] Bot20 moved forward to (9,8)
+[14:36:07.658] Bot20 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face NORTH
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face NORTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (1,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Starting turn for Bot34
+[14:36:07.658] Bot34 rotated left to face WEST
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 rotated left to face SOUTH
+[14:36:07.658] Bot34 executed ROTATE_LEFT
+[14:36:07.658] Bot34 moved forward to (2,2)
+[14:36:07.658] Bot34 executed MOVE_FORWARD
+[14:36:07.658] Starting turn for Bot20
+[14:36:07.658] Bot20 rotated right to face EAST
+[14:36:07.658] Bot20 executed ROTATE_RIGHT
+[14:36:07.658] Bot20 moved forward to (9,9)
+[14:36:07.659] Bot20 executed MOVE_FORWARD
+[14:36:07.659] Starting turn for Bot34
+[14:36:07.659] Bot34 rotated left to face EAST
+[14:36:07.659] Bot34 executed ROTATE_LEFT
+[14:36:07.659] Starting turn for Bot20
+[14:36:07.659] Bot20 rotated left to face NORTH
+[14:36:07.659] Bot20 executed ROTATE_LEFT
+[14:36:07.659] Bot20 rotated left to face WEST
+[14:36:07.659] Bot20 executed ROTATE_LEFT
+[14:36:07.659] Bot20 moved forward to (9,8)
+[14:36:07.659] Bot20 executed MOVE_FORWARD
+[14:36:07.659] Starting turn for Bot34
+[14:36:07.659] Starting turn for Bot20
+[14:36:07.659] Stalemate detected: State repeated 10 times, unchanged for 2 turns
+[14:36:07.659] Game Over! Stalemate detected!
+[14:36:07.659] Stalemate detected: State repeated 10 times, unchanged for 2 turns

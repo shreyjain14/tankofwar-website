@@ -1,0 +1,139 @@
+[14:35:57.148] === Game Started at 2025-02-04_14-35-57 ===
+[14:35:57.148] Game initialized with 2 players
+[14:35:57.148] Board size: 10
+[14:35:57.148] Obstacle density: 0.05
+[14:35:57.148] Max turns: 1000
+[14:35:57.148] Player Bot16 starting at position (0,0) facing SOUTH
+[14:35:57.148] Player Bot11 starting at position (9,9) facing WEST
+[14:35:57.148] Obstacles at positions: (1,2) (1,8) (3,9) (4,2) (5,0)
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face EAST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (0,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 moved forward to (9,8)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated right to face SOUTH
+[14:35:57.148] Bot16 executed ROTATE_RIGHT
+[14:35:57.148] Bot16 moved forward to (1,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated right to face NORTH
+[14:35:57.148] Bot11 executed ROTATE_RIGHT
+[14:35:57.148] Bot11 moved forward to (8,8)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face EAST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated left to face WEST
+[14:35:57.148] Bot11 executed ROTATE_LEFT
+[14:35:57.148] Bot11 moved forward to (8,7)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated right to face NORTH
+[14:35:57.148] Bot11 executed ROTATE_RIGHT
+[14:35:57.148] Bot11 moved forward to (7,7)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face NORTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (0,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated left to face WEST
+[14:35:57.148] Bot11 executed ROTATE_LEFT
+[14:35:57.148] Bot11 moved forward to (7,6)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face WEST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 rotated left to face SOUTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (1,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated right to face NORTH
+[14:35:57.148] Bot11 executed ROTATE_RIGHT
+[14:35:57.148] Bot11 moved forward to (6,6)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face EAST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated left to face WEST
+[14:35:57.148] Bot11 executed ROTATE_LEFT
+[14:35:57.148] Bot11 moved forward to (6,5)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Bot11 rotated right to face NORTH
+[14:35:57.148] Bot11 executed ROTATE_RIGHT
+[14:35:57.148] Bot11 moved forward to (5,5)
+[14:35:57.148] Bot11 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face NORTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (0,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face WEST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 rotated left to face SOUTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (1,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face EAST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face NORTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (0,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face WEST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 rotated left to face SOUTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (1,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face EAST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face NORTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (0,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.148] Starting turn for Bot16
+[14:35:57.148] Bot16 rotated left to face WEST
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 rotated left to face SOUTH
+[14:35:57.148] Bot16 executed ROTATE_LEFT
+[14:35:57.148] Bot16 moved forward to (1,1)
+[14:35:57.148] Bot16 executed MOVE_FORWARD
+[14:35:57.148] Starting turn for Bot11
+[14:35:57.149] Starting turn for Bot16
+[14:35:57.149] Bot16 rotated left to face EAST
+[14:35:57.149] Bot16 executed ROTATE_LEFT
+[14:35:57.149] Starting turn for Bot11
+[14:35:57.149] Starting turn for Bot16
+[14:35:57.149] Starting turn for Bot11
+[14:35:57.149] Stalemate detected: State repeated 10 times, unchanged for 3 turns
+[14:35:57.149] Game Over! Stalemate detected!
+[14:35:57.149] Stalemate detected: State repeated 10 times, unchanged for 3 turns

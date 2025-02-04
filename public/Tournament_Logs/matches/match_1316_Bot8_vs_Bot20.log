@@ -1,0 +1,122 @@
+[14:35:53.124] === Game Started at 2025-02-04_14-35-53 ===
+[14:35:53.124] Game initialized with 2 players
+[14:35:53.125] Board size: 10
+[14:35:53.125] Obstacle density: 0.05
+[14:35:53.125] Max turns: 1000
+[14:35:53.125] Player Bot8 starting at position (0,0) facing EAST
+[14:35:53.125] Player Bot20 starting at position (9,9) facing NORTH
+[14:35:53.125] Obstacles at positions: (0,4) (3,6) (4,8) (5,7) (8,0)
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 moved forward to (0,1)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated left to face WEST
+[14:35:53.125] Bot20 executed ROTATE_LEFT
+[14:35:53.125] Bot20 moved forward to (9,8)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated right to face SOUTH
+[14:35:53.125] Bot8 executed ROTATE_RIGHT
+[14:35:53.125] Bot8 moved forward to (1,1)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated right to face NORTH
+[14:35:53.125] Bot20 executed ROTATE_RIGHT
+[14:35:53.125] Bot20 moved forward to (8,8)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated left to face EAST
+[14:35:53.125] Bot8 executed ROTATE_LEFT
+[14:35:53.125] Bot8 moved forward to (1,2)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated left to face WEST
+[14:35:53.125] Bot20 executed ROTATE_LEFT
+[14:35:53.125] Bot20 moved forward to (8,7)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated right to face SOUTH
+[14:35:53.125] Bot8 executed ROTATE_RIGHT
+[14:35:53.125] Bot8 moved forward to (2,2)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated right to face NORTH
+[14:35:53.125] Bot20 executed ROTATE_RIGHT
+[14:35:53.125] Bot20 moved forward to (7,7)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated left to face EAST
+[14:35:53.125] Bot8 executed ROTATE_LEFT
+[14:35:53.125] Bot8 moved forward to (2,3)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated left to face WEST
+[14:35:53.125] Bot20 executed ROTATE_LEFT
+[14:35:53.125] Bot20 moved forward to (7,6)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated right to face SOUTH
+[14:35:53.125] Bot8 executed ROTATE_RIGHT
+[14:35:53.125] Bot8 moved forward to (3,3)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated right to face NORTH
+[14:35:53.125] Bot20 executed ROTATE_RIGHT
+[14:35:53.125] Bot20 moved forward to (6,6)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated left to face EAST
+[14:35:53.125] Bot8 executed ROTATE_LEFT
+[14:35:53.125] Bot8 moved forward to (3,4)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated left to face WEST
+[14:35:53.125] Bot20 executed ROTATE_LEFT
+[14:35:53.125] Bot20 moved forward to (6,5)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated right to face SOUTH
+[14:35:53.125] Bot8 executed ROTATE_RIGHT
+[14:35:53.125] Bot8 moved forward to (4,4)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 rotated right to face NORTH
+[14:35:53.125] Bot20 executed ROTATE_RIGHT
+[14:35:53.125] Bot20 moved forward to (5,5)
+[14:35:53.125] Bot20 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated left to face EAST
+[14:35:53.125] Bot8 executed ROTATE_LEFT
+[14:35:53.125] Bot8 moved forward to (4,5)
+[14:35:53.125] Bot8 executed MOVE_FORWARD
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 shooting in direction NORTH
+[14:35:53.125] Bot20 hit Bot8 for 25 damage (health: 100 -> 75)
+[14:35:53.125] Bot20 executed SHOOT
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 rotated right to face SOUTH
+[14:35:53.125] Bot8 executed ROTATE_RIGHT
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 shooting in direction NORTH
+[14:35:53.125] Bot20 hit Bot8 for 25 damage (health: 75 -> 50)
+[14:35:53.125] Bot20 executed SHOOT
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 shooting in direction SOUTH
+[14:35:53.125] Bot8 hit Bot20 for 25 damage (health: 100 -> 75)
+[14:35:53.125] Bot8 executed SHOOT
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 shooting in direction NORTH
+[14:35:53.125] Bot20 hit Bot8 for 25 damage (health: 50 -> 25)
+[14:35:53.125] Bot20 executed SHOOT
+[14:35:53.125] Starting turn for Bot8
+[14:35:53.125] Bot8 shooting in direction SOUTH
+[14:35:53.125] Bot8 hit Bot20 for 25 damage (health: 75 -> 50)
+[14:35:53.125] Bot8 executed SHOOT
+[14:35:53.125] Starting turn for Bot20
+[14:35:53.125] Bot20 shooting in direction NORTH
+[14:35:53.125] Bot20 hit Bot8 for 25 damage (health: 25 -> 0)
+[14:35:53.125] Bot8 was destroyed!
+[14:35:53.125] Bot20 is the last tank standing!
+[14:35:53.125] Bot20 executed SHOOT
+[14:35:53.125] Game Over! Bot20 wins!
+[14:35:53.125] === Game Ended ===

@@ -1,0 +1,130 @@
+[14:36:04.873] === Game Started at 2025-02-04_14-36-04 ===
+[14:36:04.873] Game initialized with 2 players
+[14:36:04.873] Board size: 10
+[14:36:04.873] Obstacle density: 0.05
+[14:36:04.873] Max turns: 1000
+[14:36:04.873] Player Bot33 starting at position (0,0) facing EAST
+[14:36:04.873] Player Bot17 starting at position (9,9) facing EAST
+[14:36:04.873] Obstacles at positions: (1,4) (1,5) (4,2) (5,3) (7,6)
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 moved forward to (0,1)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated left to face NORTH
+[14:36:04.873] Bot17 executed ROTATE_LEFT
+[14:36:04.873] Bot17 rotated left to face WEST
+[14:36:04.873] Bot17 executed ROTATE_LEFT
+[14:36:04.873] Bot17 moved forward to (9,8)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated right to face SOUTH
+[14:36:04.873] Bot33 executed ROTATE_RIGHT
+[14:36:04.873] Bot33 moved forward to (1,1)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated right to face NORTH
+[14:36:04.873] Bot17 executed ROTATE_RIGHT
+[14:36:04.873] Bot17 moved forward to (8,8)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated left to face EAST
+[14:36:04.873] Bot33 executed ROTATE_LEFT
+[14:36:04.873] Bot33 moved forward to (1,2)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated left to face WEST
+[14:36:04.873] Bot17 executed ROTATE_LEFT
+[14:36:04.873] Bot17 moved forward to (8,7)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated right to face SOUTH
+[14:36:04.873] Bot33 executed ROTATE_RIGHT
+[14:36:04.873] Bot33 moved forward to (2,2)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated right to face NORTH
+[14:36:04.873] Bot17 executed ROTATE_RIGHT
+[14:36:04.873] Bot17 moved forward to (7,7)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated left to face EAST
+[14:36:04.873] Bot33 executed ROTATE_LEFT
+[14:36:04.873] Bot33 moved forward to (2,3)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated left to face WEST
+[14:36:04.873] Bot17 executed ROTATE_LEFT
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated right to face SOUTH
+[14:36:04.873] Bot33 executed ROTATE_RIGHT
+[14:36:04.873] Bot33 moved forward to (3,3)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated left to face EAST
+[14:36:04.873] Bot33 executed ROTATE_LEFT
+[14:36:04.873] Bot33 moved forward to (3,4)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated right to face NORTH
+[14:36:04.873] Bot17 executed ROTATE_RIGHT
+[14:36:04.873] Bot17 moved forward to (6,7)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated right to face SOUTH
+[14:36:04.873] Bot33 executed ROTATE_RIGHT
+[14:36:04.873] Bot33 moved forward to (4,4)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated left to face WEST
+[14:36:04.873] Bot17 executed ROTATE_LEFT
+[14:36:04.873] Bot17 moved forward to (6,6)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated left to face EAST
+[14:36:04.873] Bot33 executed ROTATE_LEFT
+[14:36:04.873] Bot33 moved forward to (4,5)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 moved forward to (6,5)
+[14:36:04.873] Bot17 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 rotated right to face SOUTH
+[14:36:04.873] Bot33 executed ROTATE_RIGHT
+[14:36:04.873] Bot33 moved forward to (5,5)
+[14:36:04.873] Bot33 executed MOVE_FORWARD
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 rotated right to face NORTH
+[14:36:04.873] Bot17 executed ROTATE_RIGHT
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 shooting in direction SOUTH
+[14:36:04.873] Bot33 hit Bot17 for 25 damage (health: 100 -> 75)
+[14:36:04.873] Bot33 executed SHOOT
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.873] Bot17 shooting in direction NORTH
+[14:36:04.873] Bot17 hit Bot33 for 25 damage (health: 100 -> 75)
+[14:36:04.873] Bot17 executed SHOOT
+[14:36:04.873] Starting turn for Bot33
+[14:36:04.873] Bot33 shooting in direction SOUTH
+[14:36:04.873] Bot33 hit Bot17 for 25 damage (health: 75 -> 50)
+[14:36:04.873] Bot33 executed SHOOT
+[14:36:04.873] Starting turn for Bot17
+[14:36:04.874] Bot17 shooting in direction NORTH
+[14:36:04.874] Bot17 hit Bot33 for 25 damage (health: 75 -> 50)
+[14:36:04.874] Bot17 executed SHOOT
+[14:36:04.874] Starting turn for Bot33
+[14:36:04.874] Bot33 shooting in direction SOUTH
+[14:36:04.874] Bot33 hit Bot17 for 25 damage (health: 50 -> 25)
+[14:36:04.874] Bot33 executed SHOOT
+[14:36:04.874] Starting turn for Bot17
+[14:36:04.874] Bot17 shooting in direction NORTH
+[14:36:04.874] Bot17 hit Bot33 for 25 damage (health: 50 -> 25)
+[14:36:04.874] Bot17 executed SHOOT
+[14:36:04.874] Starting turn for Bot33
+[14:36:04.874] Bot33 shooting in direction SOUTH
+[14:36:04.874] Bot33 hit Bot17 for 25 damage (health: 25 -> 0)
+[14:36:04.874] Bot17 was destroyed!
+[14:36:04.874] Bot33 is the last tank standing!
+[14:36:04.874] Bot33 executed SHOOT
+[14:36:04.874] Game Over! Bot33 wins!
+[14:36:04.874] === Game Ended ===

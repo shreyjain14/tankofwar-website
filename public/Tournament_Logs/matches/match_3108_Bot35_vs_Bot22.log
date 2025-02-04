@@ -1,0 +1,154 @@
+[14:36:09.211] === Game Started at 2025-02-04_14-36-09 ===
+[14:36:09.212] Game initialized with 2 players
+[14:36:09.212] Board size: 10
+[14:36:09.212] Obstacle density: 0.05
+[14:36:09.212] Max turns: 1000
+[14:36:09.212] Player Bot35 starting at position (0,0) facing NORTH
+[14:36:09.212] Player Bot22 starting at position (9,9) facing NORTH
+[14:36:09.212] Obstacles at positions: (0,6) (6,2) (7,3) (7,7) (8,9)
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated right to face EAST
+[14:36:09.212] Bot35 executed ROTATE_RIGHT
+[14:36:09.212] Bot35 moved forward to (0,1)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated left to face WEST
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 moved forward to (9,8)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated right to face SOUTH
+[14:36:09.212] Bot35 executed ROTATE_RIGHT
+[14:36:09.212] Bot35 moved forward to (1,1)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Bot22 moved forward to (8,8)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated left to face EAST
+[14:36:09.212] Bot35 executed ROTATE_LEFT
+[14:36:09.212] Bot35 moved forward to (1,2)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated left to face WEST
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 moved forward to (8,7)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated right to face SOUTH
+[14:36:09.212] Bot35 executed ROTATE_RIGHT
+[14:36:09.212] Bot35 moved forward to (2,2)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated left to face EAST
+[14:36:09.212] Bot35 executed ROTATE_LEFT
+[14:36:09.212] Bot35 moved forward to (2,3)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated right to face SOUTH
+[14:36:09.212] Bot35 executed ROTATE_RIGHT
+[14:36:09.212] Bot35 moved forward to (3,3)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face EAST
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Bot22 moved forward to (8,8)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated left to face EAST
+[14:36:09.212] Bot35 executed ROTATE_LEFT
+[14:36:09.212] Bot35 moved forward to (3,4)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated left to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 rotated left to face WEST
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 moved forward to (8,7)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated right to face SOUTH
+[14:36:09.212] Bot35 executed ROTATE_RIGHT
+[14:36:09.212] Bot35 moved forward to (4,4)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated left to face EAST
+[14:36:09.212] Bot35 executed ROTATE_LEFT
+[14:36:09.212] Bot35 moved forward to (4,5)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Bot35 rotated right to face SOUTH
+[14:36:09.212] Bot35 executed ROTATE_RIGHT
+[14:36:09.212] Bot35 moved forward to (5,5)
+[14:36:09.212] Bot35 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face EAST
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Bot22 moved forward to (8,8)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated left to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 rotated left to face WEST
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 moved forward to (8,7)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face EAST
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Bot22 moved forward to (8,8)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated left to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 rotated left to face WEST
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 moved forward to (8,7)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face EAST
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Bot22 moved forward to (8,8)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated left to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 rotated left to face WEST
+[14:36:09.212] Bot22 executed ROTATE_LEFT
+[14:36:09.212] Bot22 moved forward to (8,7)
+[14:36:09.212] Bot22 executed MOVE_FORWARD
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Starting turn for Bot22
+[14:36:09.212] Bot22 rotated right to face NORTH
+[14:36:09.212] Bot22 executed ROTATE_RIGHT
+[14:36:09.212] Starting turn for Bot35
+[14:36:09.212] Stalemate detected: State repeated 10 times, unchanged for 1 turns
+[14:36:09.212] Game Over! Stalemate detected!
+[14:36:09.212] Stalemate detected: State repeated 10 times, unchanged for 1 turns

@@ -1,0 +1,145 @@
+[14:35:46.641] === Game Started at 2025-02-04_14-35-46 ===
+[14:35:46.641] Game initialized with 2 players
+[14:35:46.641] Board size: 10
+[14:35:46.641] Obstacle density: 0.05
+[14:35:46.641] Max turns: 1000
+[14:35:46.641] Player Bot31 starting at position (0,0) facing NORTH
+[14:35:46.641] Player Bot4 starting at position (9,9) facing NORTH
+[14:35:46.641] Obstacles at positions: (1,6) (2,2) (4,2) (4,8) (8,1)
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated right to face EAST
+[14:35:46.641] Bot31 executed ROTATE_RIGHT
+[14:35:46.641] Bot31 moved forward to (0,1)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated left to face WEST
+[14:35:46.641] Bot4 executed ROTATE_LEFT
+[14:35:46.641] Bot4 moved forward to (9,8)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated right to face SOUTH
+[14:35:46.641] Bot31 executed ROTATE_RIGHT
+[14:35:46.641] Bot31 moved forward to (1,1)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated right to face NORTH
+[14:35:46.641] Bot4 executed ROTATE_RIGHT
+[14:35:46.641] Bot4 moved forward to (8,8)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face EAST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (1,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated left to face WEST
+[14:35:46.641] Bot4 executed ROTATE_LEFT
+[14:35:46.641] Bot4 moved forward to (8,7)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated right to face SOUTH
+[14:35:46.641] Bot31 executed ROTATE_RIGHT
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated right to face NORTH
+[14:35:46.641] Bot4 executed ROTATE_RIGHT
+[14:35:46.641] Bot4 moved forward to (7,7)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated left to face WEST
+[14:35:46.641] Bot4 executed ROTATE_LEFT
+[14:35:46.641] Bot4 moved forward to (7,6)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face EAST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face NORTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (0,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated right to face NORTH
+[14:35:46.641] Bot4 executed ROTATE_RIGHT
+[14:35:46.641] Bot4 moved forward to (6,6)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face WEST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face SOUTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (1,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated left to face WEST
+[14:35:46.641] Bot4 executed ROTATE_LEFT
+[14:35:46.641] Bot4 moved forward to (6,5)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Bot4 rotated right to face NORTH
+[14:35:46.641] Bot4 executed ROTATE_RIGHT
+[14:35:46.641] Bot4 moved forward to (5,5)
+[14:35:46.641] Bot4 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face EAST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face NORTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (0,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face WEST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face SOUTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (1,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face EAST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face NORTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (0,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face WEST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face SOUTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (1,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face EAST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face NORTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (0,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Bot31 rotated left to face WEST
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 rotated left to face SOUTH
+[14:35:46.641] Bot31 executed ROTATE_LEFT
+[14:35:46.641] Bot31 moved forward to (1,2)
+[14:35:46.641] Bot31 executed MOVE_FORWARD
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Starting turn for Bot31
+[14:35:46.641] Starting turn for Bot4
+[14:35:46.641] Stalemate detected: State repeated 10 times, unchanged for 1 turns
+[14:35:46.641] Game Over! Stalemate detected!
+[14:35:46.641] Stalemate detected: State repeated 10 times, unchanged for 1 turns

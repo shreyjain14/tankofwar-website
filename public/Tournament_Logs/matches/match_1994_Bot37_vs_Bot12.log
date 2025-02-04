@@ -1,0 +1,163 @@
+[14:35:59.113] === Game Started at 2025-02-04_14-35-59 ===
+[14:35:59.113] Game initialized with 2 players
+[14:35:59.113] Board size: 10
+[14:35:59.113] Obstacle density: 0.05
+[14:35:59.113] Max turns: 1000
+[14:35:59.113] Player Bot37 starting at position (0,0) facing WEST
+[14:35:59.113] Player Bot12 starting at position (9,9) facing WEST
+[14:35:59.113] Obstacles at positions: (1,2) (2,7) (5,7) (6,1) (8,8)
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face SOUTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 rotated left to face EAST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (0,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 moved forward to (9,8)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated right to face SOUTH
+[14:35:59.113] Bot37 executed ROTATE_RIGHT
+[14:35:59.113] Bot37 moved forward to (1,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face EAST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face EAST
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Bot12 moved forward to (9,9)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face NORTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (0,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated left to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 rotated left to face WEST
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 moved forward to (9,8)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face WEST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 rotated left to face SOUTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (1,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face EAST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face EAST
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Bot12 moved forward to (9,9)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face NORTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (0,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated left to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 rotated left to face WEST
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 moved forward to (9,8)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face WEST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 rotated left to face SOUTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (1,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face EAST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face EAST
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Bot12 moved forward to (9,9)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face NORTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (0,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated left to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 rotated left to face WEST
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 moved forward to (9,8)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face WEST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 rotated left to face SOUTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (1,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face EAST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face EAST
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Bot12 moved forward to (9,9)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face NORTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (0,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated left to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 rotated left to face WEST
+[14:35:59.113] Bot12 executed ROTATE_LEFT
+[14:35:59.113] Bot12 moved forward to (9,8)
+[14:35:59.113] Bot12 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face WEST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 rotated left to face SOUTH
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Bot37 moved forward to (1,1)
+[14:35:59.113] Bot37 executed MOVE_FORWARD
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Bot12 rotated right to face NORTH
+[14:35:59.113] Bot12 executed ROTATE_RIGHT
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Bot37 rotated left to face EAST
+[14:35:59.113] Bot37 executed ROTATE_LEFT
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Starting turn for Bot37
+[14:35:59.113] Starting turn for Bot12
+[14:35:59.113] Stalemate detected: State repeated 10 times, unchanged for 1 turns
+[14:35:59.113] Game Over! Stalemate detected!
+[14:35:59.113] Stalemate detected: State repeated 10 times, unchanged for 1 turns

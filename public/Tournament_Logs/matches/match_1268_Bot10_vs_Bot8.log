@@ -1,0 +1,153 @@
+[14:35:52.593] === Game Started at 2025-02-04_14-35-52 ===
+[14:35:52.593] Game initialized with 2 players
+[14:35:52.593] Board size: 10
+[14:35:52.593] Obstacle density: 0.05
+[14:35:52.593] Max turns: 1000
+[14:35:52.593] Player Bot10 starting at position (0,0) facing NORTH
+[14:35:52.593] Player Bot8 starting at position (9,9) facing EAST
+[14:35:52.593] Obstacles at positions: (0,4) (2,3) (4,0) (4,7) (5,9)
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated right to face EAST
+[14:35:52.593] Bot10 executed ROTATE_RIGHT
+[14:35:52.593] Bot10 moved forward to (0,1)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated left to face NORTH
+[14:35:52.593] Bot8 executed ROTATE_LEFT
+[14:35:52.593] Bot8 rotated left to face WEST
+[14:35:52.593] Bot8 executed ROTATE_LEFT
+[14:35:52.593] Bot8 moved forward to (9,8)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated right to face SOUTH
+[14:35:52.593] Bot10 executed ROTATE_RIGHT
+[14:35:52.593] Bot10 moved forward to (1,1)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated right to face NORTH
+[14:35:52.593] Bot8 executed ROTATE_RIGHT
+[14:35:52.593] Bot8 moved forward to (8,8)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face EAST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (1,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated left to face WEST
+[14:35:52.593] Bot8 executed ROTATE_LEFT
+[14:35:52.593] Bot8 moved forward to (8,7)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated right to face SOUTH
+[14:35:52.593] Bot10 executed ROTATE_RIGHT
+[14:35:52.593] Bot10 moved forward to (2,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated right to face NORTH
+[14:35:52.593] Bot8 executed ROTATE_RIGHT
+[14:35:52.593] Bot8 moved forward to (7,7)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face EAST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated left to face WEST
+[14:35:52.593] Bot8 executed ROTATE_LEFT
+[14:35:52.593] Bot8 moved forward to (7,6)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated right to face NORTH
+[14:35:52.593] Bot8 executed ROTATE_RIGHT
+[14:35:52.593] Bot8 moved forward to (6,6)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face NORTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (1,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated left to face WEST
+[14:35:52.593] Bot8 executed ROTATE_LEFT
+[14:35:52.593] Bot8 moved forward to (6,5)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face WEST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 rotated left to face SOUTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (2,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Bot8 rotated right to face NORTH
+[14:35:52.593] Bot8 executed ROTATE_RIGHT
+[14:35:52.593] Bot8 moved forward to (5,5)
+[14:35:52.593] Bot8 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face EAST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face NORTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (1,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face WEST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 rotated left to face SOUTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (2,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face EAST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face NORTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (1,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face WEST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 rotated left to face SOUTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (2,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face EAST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face NORTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (1,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face WEST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 rotated left to face SOUTH
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Bot10 moved forward to (2,2)
+[14:35:52.593] Bot10 executed MOVE_FORWARD
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Starting turn for Bot10
+[14:35:52.593] Bot10 rotated left to face EAST
+[14:35:52.593] Bot10 executed ROTATE_LEFT
+[14:35:52.593] Starting turn for Bot8
+[14:35:52.593] Stalemate detected: State repeated 10 times, unchanged for 1 turns
+[14:35:52.593] Game Over! Stalemate detected!
+[14:35:52.593] Stalemate detected: State repeated 10 times, unchanged for 1 turns

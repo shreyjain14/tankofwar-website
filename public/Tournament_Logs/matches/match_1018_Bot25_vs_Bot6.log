@@ -1,0 +1,145 @@
+[14:35:50.064] === Game Started at 2025-02-04_14-35-50 ===
+[14:35:50.065] Game initialized with 2 players
+[14:35:50.065] Board size: 10
+[14:35:50.065] Obstacle density: 0.05
+[14:35:50.065] Max turns: 1000
+[14:35:50.065] Player Bot25 starting at position (0,0) facing WEST
+[14:35:50.065] Player Bot6 starting at position (9,9) facing WEST
+[14:35:50.065] Obstacles at positions: (0,5) (0,7) (1,4) (2,2) (8,6)
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face EAST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (0,1)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 moved forward to (9,8)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated right to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_RIGHT
+[14:35:50.065] Bot25 moved forward to (1,1)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated right to face NORTH
+[14:35:50.065] Bot6 executed ROTATE_RIGHT
+[14:35:50.065] Bot6 moved forward to (8,8)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face EAST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (1,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated left to face WEST
+[14:35:50.065] Bot6 executed ROTATE_LEFT
+[14:35:50.065] Bot6 moved forward to (8,7)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated right to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_RIGHT
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated right to face NORTH
+[14:35:50.065] Bot6 executed ROTATE_RIGHT
+[14:35:50.065] Bot6 moved forward to (7,7)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated left to face WEST
+[14:35:50.065] Bot6 executed ROTATE_LEFT
+[14:35:50.065] Bot6 moved forward to (7,6)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face EAST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face NORTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (0,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated right to face NORTH
+[14:35:50.065] Bot6 executed ROTATE_RIGHT
+[14:35:50.065] Bot6 moved forward to (6,6)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face WEST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (1,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated left to face WEST
+[14:35:50.065] Bot6 executed ROTATE_LEFT
+[14:35:50.065] Bot6 moved forward to (6,5)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Bot6 rotated right to face NORTH
+[14:35:50.065] Bot6 executed ROTATE_RIGHT
+[14:35:50.065] Bot6 moved forward to (5,5)
+[14:35:50.065] Bot6 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face EAST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face NORTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (0,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face WEST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (1,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face EAST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face NORTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (0,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face WEST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (1,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face EAST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face NORTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (0,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Bot25 rotated left to face WEST
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 rotated left to face SOUTH
+[14:35:50.065] Bot25 executed ROTATE_LEFT
+[14:35:50.065] Bot25 moved forward to (1,2)
+[14:35:50.065] Bot25 executed MOVE_FORWARD
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Starting turn for Bot25
+[14:35:50.065] Starting turn for Bot6
+[14:35:50.065] Stalemate detected: State repeated 10 times, unchanged for 1 turns
+[14:35:50.065] Game Over! Stalemate detected!
+[14:35:50.065] Stalemate detected: State repeated 10 times, unchanged for 1 turns
