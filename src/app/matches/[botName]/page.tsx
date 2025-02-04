@@ -31,8 +31,10 @@ async function getMatchesForBot(botName: string): Promise<MatchFile[]> {
 }
 
 export default async function BotMatches({ params }: { params: { botName: string } }) {
-  const botName = decodeURIComponent(params.botName);
-  const matches = await getMatchesForBot(botName);
+  
+  const { botName } = await params;
+  const decodedBotName = decodeURIComponent(botName);
+  const matches = await getMatchesForBot(decodedBotName);
 
   return (
     <div className="min-h-screen bg-gray-900 text-white pt-16">
