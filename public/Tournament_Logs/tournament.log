@@ -1,32 +1,3902 @@
-[19:20:39.294] === Game Started at 2025-01-16_19-20-39 ===
-[19:20:39.330] [1/30] Bot1 vs Bot2: Bot2 won
-[19:20:39.342] [2/30] Bot2 vs Bot1: Bot1 won
-[19:20:39.353] [3/30] Bot2 vs Bot1: Draw
-[19:20:39.362] [4/30] Bot1 vs Bot3: Draw
-[19:20:39.372] [5/30] Bot3 vs Bot1: Draw
-[19:20:39.380] [6/30] Bot3 vs Bot1: Bot1 won
-[19:20:39.389] [7/30] Bot1 vs Bot4: Draw
-[19:20:39.396] [8/30] Bot4 vs Bot1: Bot1 won
-[19:20:39.404] [9/30] Bot4 vs Bot1: Bot4 won
-[19:20:39.412] [10/30] Bot1 vs Bot5: Draw
-[19:20:39.419] [11/30] Bot5 vs Bot1: Bot1 won
-[19:20:39.426] [12/30] Bot5 vs Bot1: Draw
-[19:20:39.433] [13/30] Bot2 vs Bot3: Bot2 won
-[19:20:39.441] [14/30] Bot3 vs Bot2: Draw
-[19:20:39.447] [15/30] Bot3 vs Bot2: Draw
-[19:20:39.454] [16/30] Bot2 vs Bot4: Bot4 won
-[19:20:39.461] [17/30] Bot4 vs Bot2: Draw
-[19:20:39.468] [18/30] Bot4 vs Bot2: Draw
-[19:20:39.474] [19/30] Bot2 vs Bot5: Draw
-[19:20:39.480] [20/30] Bot5 vs Bot2: Draw
-[19:20:39.487] [21/30] Bot5 vs Bot2: Draw
-[19:20:39.493] [22/30] Bot3 vs Bot4: Bot4 won
-[19:20:39.499] [23/30] Bot4 vs Bot3: Bot3 won
-[19:20:39.506] [24/30] Bot4 vs Bot3: Draw
-[19:20:39.512] [25/30] Bot3 vs Bot5: Bot5 won
-[19:20:39.518] [26/30] Bot5 vs Bot3: Bot3 won
-[19:20:39.525] [27/30] Bot5 vs Bot3: Draw
-[19:20:39.532] [28/30] Bot4 vs Bot5: Draw
-[19:20:39.538] [29/30] Bot5 vs Bot4: Bot4 won
-[19:20:39.545] [30/30] Bot5 vs Bot4: Draw
-[19:20:39.545] === Game Ended ===
+[14:35:38.842] === Game Started at 2025-02-04_14-35-38 ===
+[14:35:38.881] [1/3900] Bot1 vs Bot2: Bot2 won
+[14:35:38.897] [2/3900] Bot1 vs Bot2: Draw
+[14:35:38.908] [3/3900] Bot2 vs Bot1: Bot1 won
+[14:35:38.921] [4/3900] Bot2 vs Bot1: Bot1 won
+[14:35:38.933] [5/3900] Bot2 vs Bot1: Draw
+[14:35:38.944] [6/3900] Bot1 vs Bot3: Draw
+[14:35:38.952] [7/3900] Bot1 vs Bot3: Bot3 won
+[14:35:38.964] [8/3900] Bot3 vs Bot1: Draw
+[14:35:38.972] [9/3900] Bot3 vs Bot1: Bot1 won
+[14:35:38.980] [10/3900] Bot3 vs Bot1: Draw
+[14:35:38.994] [11/3900] Bot1 vs Bot4: Draw
+[14:35:39.002] [12/3900] Bot1 vs Bot4: Draw
+[14:35:39.013] [13/3900] Bot4 vs Bot1: Bot4 won
+[14:35:39.019] [14/3900] Bot4 vs Bot1: Draw
+[14:35:39.027] [15/3900] Bot4 vs Bot1: Draw
+[14:35:39.033] [16/3900] Bot1 vs Bot5: Bot5 won
+[14:35:39.040] [17/3900] Bot1 vs Bot5: Bot5 won
+[14:35:39.046] [18/3900] Bot5 vs Bot1: Bot1 won
+[14:35:39.053] [19/3900] Bot5 vs Bot1: Draw
+[14:35:39.060] [20/3900] Bot5 vs Bot1: Draw
+[14:35:39.100] [21/3900] Bot1 vs Bot6: Bot6 won
+[14:35:39.107] [22/3900] Bot1 vs Bot6: Bot6 won
+[14:35:39.116] [23/3900] Bot6 vs Bot1: Bot1 won
+[14:35:39.122] [24/3900] Bot6 vs Bot1: Bot1 won
+[14:35:39.129] [25/3900] Bot6 vs Bot1: Draw
+[14:35:39.135] [26/3900] Bot1 vs Bot7: Draw
+[14:35:39.142] [27/3900] Bot1 vs Bot7: Draw
+[14:35:39.150] [28/3900] Bot7 vs Bot1: Bot1 won
+[14:35:39.157] [29/3900] Bot7 vs Bot1: Bot1 won
+[14:35:39.163] [30/3900] Bot7 vs Bot1: Bot7 won
+[14:35:39.168] [31/3900] Bot1 vs Bot8: Bot8 won
+[14:35:39.246] [32/3900] Bot1 vs Bot8: Bot8 won
+[14:35:39.252] [33/3900] Bot8 vs Bot1: Bot1 won
+[14:35:39.259] [34/3900] Bot8 vs Bot1: Bot1 won
+[14:35:39.266] [35/3900] Bot8 vs Bot1: Bot1 won
+[14:35:39.272] [36/3900] Bot1 vs Bot9: Bot9 won
+[14:35:39.279] [37/3900] Bot1 vs Bot9: Bot9 won
+[14:35:39.285] [38/3900] Bot9 vs Bot1: Bot9 won
+[14:35:39.293] [39/3900] Bot9 vs Bot1: Draw
+[14:35:39.299] [40/3900] Bot9 vs Bot1: Bot1 won
+[14:35:39.306] [41/3900] Bot1 vs Bot10: Bot10 won
+[14:35:39.313] [42/3900] Bot1 vs Bot10: Draw
+[14:35:39.319] [43/3900] Bot10 vs Bot1: Draw
+[14:35:39.326] [44/3900] Bot10 vs Bot1: Draw
+[14:35:39.402] [45/3900] Bot10 vs Bot1: Draw
+[14:35:39.409] [46/3900] Bot1 vs Bot11: Bot11 won
+[14:35:39.415] [47/3900] Bot1 vs Bot11: Draw
+[14:35:39.421] [48/3900] Bot11 vs Bot1: Draw
+[14:35:39.427] [49/3900] Bot11 vs Bot1: Draw
+[14:35:39.433] [50/3900] Bot11 vs Bot1: Bot1 won
+[14:35:39.438] [51/3900] Bot1 vs Bot12: Draw
+[14:35:39.444] [52/3900] Bot1 vs Bot12: Bot1 won
+[14:35:39.450] [53/3900] Bot12 vs Bot1: Draw
+[14:35:39.456] [54/3900] Bot12 vs Bot1: Draw
+[14:35:39.462] [55/3900] Bot12 vs Bot1: Draw
+[14:35:39.538] [56/3900] Bot1 vs Bot13: Bot13 won
+[14:35:39.545] [57/3900] Bot1 vs Bot13: Bot13 won
+[14:35:39.551] [58/3900] Bot13 vs Bot1: Bot13 won
+[14:35:39.557] [59/3900] Bot13 vs Bot1: Bot1 won
+[14:35:39.564] [60/3900] Bot13 vs Bot1: Draw
+[14:35:39.570] [61/3900] Bot1 vs Bot14: Draw
+[14:35:39.575] [62/3900] Bot1 vs Bot14: Bot14 won
+[14:35:39.582] [63/3900] Bot14 vs Bot1: Draw
+[14:35:39.588] [64/3900] Bot14 vs Bot1: Draw
+[14:35:39.593] [65/3900] Bot14 vs Bot1: Draw
+[14:35:39.599] [66/3900] Bot1 vs Bot15: Bot15 won
+[14:35:39.605] [67/3900] Bot1 vs Bot15: Bot15 won
+[14:35:39.612] [68/3900] Bot15 vs Bot1: Bot15 won
+[14:35:39.617] [69/3900] Bot15 vs Bot1: Draw
+[14:35:39.693] [70/3900] Bot15 vs Bot1: Draw
+[14:35:39.699] [71/3900] Bot1 vs Bot16: Draw
+[14:35:39.705] [72/3900] Bot1 vs Bot16: Bot16 won
+[14:35:39.711] [73/3900] Bot16 vs Bot1: Bot1 won
+[14:35:39.717] [74/3900] Bot16 vs Bot1: Bot1 won
+[14:35:39.723] [75/3900] Bot16 vs Bot1: Bot1 won
+[14:35:39.728] [76/3900] Bot1 vs Bot17: Draw
+[14:35:39.733] [77/3900] Bot1 vs Bot17: Bot1 won
+[14:35:39.741] [78/3900] Bot17 vs Bot1: Draw
+[14:35:39.746] [79/3900] Bot17 vs Bot1: Bot1 won
+[14:35:39.752] [80/3900] Bot17 vs Bot1: Bot17 won
+[14:35:39.760] [81/3900] Bot1 vs Bot18: Bot18 won
+[14:35:39.767] [82/3900] Bot1 vs Bot18: Draw
+[14:35:39.773] [83/3900] Bot18 vs Bot1: Draw
+[14:35:39.779] [84/3900] Bot18 vs Bot1: Draw
+[14:35:39.785] [85/3900] Bot18 vs Bot1: Bot1 won
+[14:35:39.792] [86/3900] Bot1 vs Bot19: Bot19 won
+[14:35:39.799] [87/3900] Bot1 vs Bot19: Bot19 won
+[14:35:39.805] [88/3900] Bot19 vs Bot1: Draw
+[14:35:39.813] [89/3900] Bot19 vs Bot1: Draw
+[14:35:39.818] [90/3900] Bot19 vs Bot1: Bot1 won
+[14:35:39.824] [91/3900] Bot1 vs Bot20: Bot20 won
+[14:35:39.830] [92/3900] Bot1 vs Bot20: Draw
+[14:35:39.836] [93/3900] Bot20 vs Bot1: Draw
+[14:35:39.846] [94/3900] Bot20 vs Bot1: Bot1 won
+[14:35:39.853] [95/3900] Bot20 vs Bot1: Draw
+[14:35:39.858] [96/3900] Bot1 vs Bot21: Bot1 won
+[14:35:39.864] [97/3900] Bot1 vs Bot21: Draw
+[14:35:39.870] [98/3900] Bot21 vs Bot1: Draw
+[14:35:39.875] [99/3900] Bot21 vs Bot1: Bot1 won
+[14:35:39.881] [100/3900] Bot21 vs Bot1: Draw
+[14:35:39.887] [101/3900] Bot1 vs Bot22: Bot22 won
+[14:35:39.893] [102/3900] Bot1 vs Bot22: Draw
+[14:35:39.898] [103/3900] Bot22 vs Bot1: Bot1 won
+[14:35:39.904] [104/3900] Bot22 vs Bot1: Draw
+[14:35:39.910] [105/3900] Bot22 vs Bot1: Bot1 won
+[14:35:39.915] [106/3900] Bot1 vs Bot23: Bot1 won
+[14:35:39.920] [107/3900] Bot1 vs Bot23: Bot23 won
+[14:35:39.925] [108/3900] Bot23 vs Bot1: Draw
+[14:35:39.930] [109/3900] Bot23 vs Bot1: Bot1 won
+[14:35:39.935] [110/3900] Bot23 vs Bot1: Bot23 won
+[14:35:39.941] [111/3900] Bot1 vs Bot24: Draw
+[14:35:39.946] [112/3900] Bot1 vs Bot24: Bot1 won
+[14:35:40.023] [113/3900] Bot24 vs Bot1: Bot1 won
+[14:35:40.029] [114/3900] Bot24 vs Bot1: Bot1 won
+[14:35:40.034] [115/3900] Bot24 vs Bot1: Draw
+[14:35:40.040] [116/3900] Bot1 vs Bot25: Bot25 won
+[14:35:40.046] [117/3900] Bot1 vs Bot25: Draw
+[14:35:40.051] [118/3900] Bot25 vs Bot1: Bot1 won
+[14:35:40.057] [119/3900] Bot25 vs Bot1: Draw
+[14:35:40.062] [120/3900] Bot25 vs Bot1: Bot1 won
+[14:35:40.068] [121/3900] Bot1 vs Bot26: Bot26 won
+[14:35:40.073] [122/3900] Bot1 vs Bot26: Bot26 won
+[14:35:40.078] [123/3900] Bot26 vs Bot1: Bot26 won
+[14:35:40.084] [124/3900] Bot26 vs Bot1: Bot26 won
+[14:35:40.089] [125/3900] Bot26 vs Bot1: Bot1 won
+[14:35:40.095] [126/3900] Bot1 vs Bot27: Bot27 won
+[14:35:40.101] [127/3900] Bot1 vs Bot27: Draw
+[14:35:40.106] [128/3900] Bot27 vs Bot1: Bot1 won
+[14:35:40.182] [129/3900] Bot27 vs Bot1: Bot1 won
+[14:35:40.188] [130/3900] Bot27 vs Bot1: Bot27 won
+[14:35:40.194] [131/3900] Bot1 vs Bot28: Draw
+[14:35:40.199] [132/3900] Bot1 vs Bot28: Draw
+[14:35:40.205] [133/3900] Bot28 vs Bot1: Draw
+[14:35:40.211] [134/3900] Bot28 vs Bot1: Bot1 won
+[14:35:40.217] [135/3900] Bot28 vs Bot1: Draw
+[14:35:40.223] [136/3900] Bot1 vs Bot29: Draw
+[14:35:40.229] [137/3900] Bot1 vs Bot29: Draw
+[14:35:40.235] [138/3900] Bot29 vs Bot1: Bot1 won
+[14:35:40.241] [139/3900] Bot29 vs Bot1: Bot1 won
+[14:35:40.247] [140/3900] Bot29 vs Bot1: Draw
+[14:35:40.253] [141/3900] Bot1 vs Bot30: Bot30 won
+[14:35:40.259] [142/3900] Bot1 vs Bot30: Draw
+[14:35:40.265] [143/3900] Bot30 vs Bot1: Bot1 won
+[14:35:40.341] [144/3900] Bot30 vs Bot1: Bot1 won
+[14:35:40.346] [145/3900] Bot30 vs Bot1: Bot1 won
+[14:35:40.352] [146/3900] Bot1 vs Bot31: Bot1 won
+[14:35:40.360] [147/3900] Bot1 vs Bot31: Bot31 won
+[14:35:40.365] [148/3900] Bot31 vs Bot1: Bot1 won
+[14:35:40.371] [149/3900] Bot31 vs Bot1: Draw
+[14:35:40.378] [150/3900] Bot31 vs Bot1: Draw
+[14:35:40.383] [151/3900] Bot1 vs Bot32: Bot32 won
+[14:35:40.388] [152/3900] Bot1 vs Bot32: Bot32 won
+[14:35:40.394] [153/3900] Bot32 vs Bot1: Draw
+[14:35:40.399] [154/3900] Bot32 vs Bot1: Bot1 won
+[14:35:40.405] [155/3900] Bot32 vs Bot1: Draw
+[14:35:40.409] [156/3900] Bot1 vs Bot33: Draw
+[14:35:40.415] [157/3900] Bot1 vs Bot33: Bot33 won
+[14:35:40.421] [158/3900] Bot33 vs Bot1: Bot1 won
+[14:35:40.427] [159/3900] Bot33 vs Bot1: Draw
+[14:35:40.435] [160/3900] Bot33 vs Bot1: Bot33 won
+[14:35:40.441] [161/3900] Bot1 vs Bot34: Bot34 won
+[14:35:40.447] [162/3900] Bot1 vs Bot34: Bot1 won
+[14:35:40.454] [163/3900] Bot34 vs Bot1: Bot1 won
+[14:35:40.460] [164/3900] Bot34 vs Bot1: Bot1 won
+[14:35:40.467] [165/3900] Bot34 vs Bot1: Draw
+[14:35:40.473] [166/3900] Bot1 vs Bot35: Draw
+[14:35:40.479] [167/3900] Bot1 vs Bot35: Draw
+[14:35:40.486] [168/3900] Bot35 vs Bot1: Draw
+[14:35:40.492] [169/3900] Bot35 vs Bot1: Draw
+[14:35:40.499] [170/3900] Bot35 vs Bot1: Draw
+[14:35:40.505] [171/3900] Bot1 vs Bot36: Bot36 won
+[14:35:40.511] [172/3900] Bot1 vs Bot36: Draw
+[14:35:40.588] [173/3900] Bot36 vs Bot1: Bot1 won
+[14:35:40.594] [174/3900] Bot36 vs Bot1: Draw
+[14:35:40.600] [175/3900] Bot36 vs Bot1: Draw
+[14:35:40.607] [176/3900] Bot1 vs Bot37: Draw
+[14:35:40.617] [177/3900] Bot1 vs Bot37: Bot37 won
+[14:35:40.625] [178/3900] Bot37 vs Bot1: Bot37 won
+[14:35:40.630] [179/3900] Bot37 vs Bot1: Bot1 won
+[14:35:40.636] [180/3900] Bot37 vs Bot1: Draw
+[14:35:40.641] [181/3900] Bot1 vs Bot38: Bot38 won
+[14:35:40.647] [182/3900] Bot1 vs Bot38: Bot38 won
+[14:35:40.652] [183/3900] Bot38 vs Bot1: Bot1 won
+[14:35:40.658] [184/3900] Bot38 vs Bot1: Bot1 won
+[14:35:40.662] [185/3900] Bot38 vs Bot1: Bot38 won
+[14:35:40.668] [186/3900] Bot1 vs Bot39: Draw
+[14:35:40.673] [187/3900] Bot1 vs Bot39: Draw
+[14:35:40.679] [188/3900] Bot39 vs Bot1: Bot1 won
+[14:35:40.684] [189/3900] Bot39 vs Bot1: Bot1 won
+[14:35:40.689] [190/3900] Bot39 vs Bot1: Draw
+[14:35:40.695] [191/3900] Bot1 vs Bot40: Draw
+[14:35:40.700] [192/3900] Bot1 vs Bot40: Bot40 won
+[14:35:40.706] [193/3900] Bot40 vs Bot1: Bot1 won
+[14:35:40.712] [194/3900] Bot40 vs Bot1: Draw
+[14:35:40.717] [195/3900] Bot40 vs Bot1: Bot40 won
+[14:35:40.722] [196/3900] Bot2 vs Bot3: Bot3 won
+[14:35:40.727] [197/3900] Bot2 vs Bot3: Draw
+[14:35:40.804] [198/3900] Bot3 vs Bot2: Draw
+[14:35:40.810] [199/3900] Bot3 vs Bot2: Draw
+[14:35:40.815] [200/3900] Bot3 vs Bot2: Draw
+[14:35:40.820] [201/3900] Bot2 vs Bot4: Draw
+[14:35:40.826] [202/3900] Bot2 vs Bot4: Draw
+[14:35:40.831] [203/3900] Bot4 vs Bot2: Bot2 won
+[14:35:40.837] [204/3900] Bot4 vs Bot2: Bot2 won
+[14:35:40.842] [205/3900] Bot4 vs Bot2: Draw
+[14:35:40.848] [206/3900] Bot2 vs Bot5: Bot5 won
+[14:35:40.854] [207/3900] Bot2 vs Bot5: Draw
+[14:35:40.859] [208/3900] Bot5 vs Bot2: Draw
+[14:35:40.865] [209/3900] Bot5 vs Bot2: Bot2 won
+[14:35:40.942] [210/3900] Bot5 vs Bot2: Bot2 won
+[14:35:40.946] [211/3900] Bot2 vs Bot6: Draw
+[14:35:40.952] [212/3900] Bot2 vs Bot6: Draw
+[14:35:40.957] [213/3900] Bot6 vs Bot2: Bot2 won
+[14:35:40.963] [214/3900] Bot6 vs Bot2: Draw
+[14:35:40.969] [215/3900] Bot6 vs Bot2: Bot2 won
+[14:35:40.974] [216/3900] Bot2 vs Bot7: Draw
+[14:35:40.979] [217/3900] Bot2 vs Bot7: Draw
+[14:35:41.055] [218/3900] Bot7 vs Bot2: Draw
+[14:35:41.061] [219/3900] Bot7 vs Bot2: Bot2 won
+[14:35:41.067] [220/3900] Bot7 vs Bot2: Draw
+[14:35:41.072] [221/3900] Bot2 vs Bot8: Draw
+[14:35:41.078] [222/3900] Bot2 vs Bot8: Bot8 won
+[14:35:41.083] [223/3900] Bot8 vs Bot2: Bot2 won
+[14:35:41.089] [224/3900] Bot8 vs Bot2: Draw
+[14:35:41.095] [225/3900] Bot8 vs Bot2: Draw
+[14:35:41.101] [226/3900] Bot2 vs Bot9: Draw
+[14:35:41.106] [227/3900] Bot2 vs Bot9: Draw
+[14:35:41.183] [228/3900] Bot9 vs Bot2: Draw
+[14:35:41.188] [229/3900] Bot9 vs Bot2: Bot2 won
+[14:35:41.193] [230/3900] Bot9 vs Bot2: Bot2 won
+[14:35:41.198] [231/3900] Bot2 vs Bot10: Draw
+[14:35:41.204] [232/3900] Bot2 vs Bot10: Bot10 won
+[14:35:41.209] [233/3900] Bot10 vs Bot2: Draw
+[14:35:41.215] [234/3900] Bot10 vs Bot2: Draw
+[14:35:41.220] [235/3900] Bot10 vs Bot2: Bot10 won
+[14:35:41.225] [236/3900] Bot2 vs Bot11: Bot11 won
+[14:35:41.230] [237/3900] Bot2 vs Bot11: Draw
+[14:35:41.235] [238/3900] Bot11 vs Bot2: Bot2 won
+[14:35:41.240] [239/3900] Bot11 vs Bot2: Bot2 won
+[14:35:41.316] [240/3900] Bot11 vs Bot2: Draw
+[14:35:41.321] [241/3900] Bot2 vs Bot12: Draw
+[14:35:41.327] [242/3900] Bot2 vs Bot12: Bot12 won
+[14:35:41.332] [243/3900] Bot12 vs Bot2: Draw
+[14:35:41.338] [244/3900] Bot12 vs Bot2: Bot12 won
+[14:35:41.343] [245/3900] Bot12 vs Bot2: Bot2 won
+[14:35:41.348] [246/3900] Bot2 vs Bot13: Bot13 won
+[14:35:41.353] [247/3900] Bot2 vs Bot13: Bot13 won
+[14:35:41.358] [248/3900] Bot13 vs Bot2: Draw
+[14:35:41.363] [249/3900] Bot13 vs Bot2: Draw
+[14:35:41.368] [250/3900] Bot13 vs Bot2: Bot2 won
+[14:35:41.444] [251/3900] Bot2 vs Bot14: Bot14 won
+[14:35:41.449] [252/3900] Bot2 vs Bot14: Draw
+[14:35:41.455] [253/3900] Bot14 vs Bot2: Draw
+[14:35:41.461] [254/3900] Bot14 vs Bot2: Draw
+[14:35:41.466] [255/3900] Bot14 vs Bot2: Bot2 won
+[14:35:41.472] [256/3900] Bot2 vs Bot15: Draw
+[14:35:41.477] [257/3900] Bot2 vs Bot15: Bot2 won
+[14:35:41.482] [258/3900] Bot15 vs Bot2: Bot2 won
+[14:35:41.488] [259/3900] Bot15 vs Bot2: Draw
+[14:35:41.493] [260/3900] Bot15 vs Bot2: Bot2 won
+[14:35:41.569] [261/3900] Bot2 vs Bot16: Bot16 won
+[14:35:41.574] [262/3900] Bot2 vs Bot16: Bot2 won
+[14:35:41.580] [263/3900] Bot16 vs Bot2: Bot2 won
+[14:35:41.586] [264/3900] Bot16 vs Bot2: Bot2 won
+[14:35:41.592] [265/3900] Bot16 vs Bot2: Draw
+[14:35:41.600] [266/3900] Bot2 vs Bot17: Draw
+[14:35:41.606] [267/3900] Bot2 vs Bot17: Bot17 won
+[14:35:41.612] [268/3900] Bot17 vs Bot2: Bot2 won
+[14:35:41.618] [269/3900] Bot17 vs Bot2: Draw
+[14:35:41.624] [270/3900] Bot17 vs Bot2: Draw
+[14:35:41.629] [271/3900] Bot2 vs Bot18: Draw
+[14:35:41.705] [272/3900] Bot2 vs Bot18: Draw
+[14:35:41.711] [273/3900] Bot18 vs Bot2: Draw
+[14:35:41.716] [274/3900] Bot18 vs Bot2: Bot2 won
+[14:35:41.721] [275/3900] Bot18 vs Bot2: Draw
+[14:35:41.726] [276/3900] Bot2 vs Bot19: Bot2 won
+[14:35:41.732] [277/3900] Bot2 vs Bot19: Bot2 won
+[14:35:41.738] [278/3900] Bot19 vs Bot2: Bot2 won
+[14:35:41.743] [279/3900] Bot19 vs Bot2: Bot19 won
+[14:35:41.748] [280/3900] Bot19 vs Bot2: Bot2 won
+[14:35:41.753] [281/3900] Bot2 vs Bot20: Bot20 won
+[14:35:41.838] [282/3900] Bot2 vs Bot20: Bot20 won
+[14:35:41.844] [283/3900] Bot20 vs Bot2: Bot2 won
+[14:35:41.849] [284/3900] Bot20 vs Bot2: Draw
+[14:35:41.855] [285/3900] Bot20 vs Bot2: Draw
+[14:35:41.861] [286/3900] Bot2 vs Bot21: Draw
+[14:35:41.866] [287/3900] Bot2 vs Bot21: Bot21 won
+[14:35:41.872] [288/3900] Bot21 vs Bot2: Draw
+[14:35:41.877] [289/3900] Bot21 vs Bot2: Bot2 won
+[14:35:41.883] [290/3900] Bot21 vs Bot2: Draw
+[14:35:41.889] [291/3900] Bot2 vs Bot22: Bot22 won
+[14:35:41.894] [292/3900] Bot2 vs Bot22: Bot22 won
+[14:35:41.970] [293/3900] Bot22 vs Bot2: Bot2 won
+[14:35:41.976] [294/3900] Bot22 vs Bot2: Bot2 won
+[14:35:41.982] [295/3900] Bot22 vs Bot2: Bot22 won
+[14:35:41.987] [296/3900] Bot2 vs Bot23: Draw
+[14:35:41.992] [297/3900] Bot2 vs Bot23: Draw
+[14:35:41.998] [298/3900] Bot23 vs Bot2: Bot2 won
+[14:35:42.004] [299/3900] Bot23 vs Bot2: Draw
+[14:35:42.010] [300/3900] Bot23 vs Bot2: Draw
+[14:35:42.018] [301/3900] Bot2 vs Bot24: Bot24 won
+[14:35:42.022] [302/3900] Bot2 vs Bot24: Draw
+[14:35:42.027] [303/3900] Bot24 vs Bot2: Draw
+[14:35:42.104] [304/3900] Bot24 vs Bot2: Draw
+[14:35:42.108] [305/3900] Bot24 vs Bot2: Draw
+[14:35:42.115] [306/3900] Bot2 vs Bot25: Bot25 won
+[14:35:42.120] [307/3900] Bot2 vs Bot25: Bot25 won
+[14:35:42.125] [308/3900] Bot25 vs Bot2: Draw
+[14:35:42.130] [309/3900] Bot25 vs Bot2: Bot2 won
+[14:35:42.136] [310/3900] Bot25 vs Bot2: Bot2 won
+[14:35:42.141] [311/3900] Bot2 vs Bot26: Bot26 won
+[14:35:42.146] [312/3900] Bot2 vs Bot26: Bot26 won
+[14:35:42.152] [313/3900] Bot26 vs Bot2: Draw
+[14:35:42.228] [314/3900] Bot26 vs Bot2: Draw
+[14:35:42.233] [315/3900] Bot26 vs Bot2: Bot2 won
+[14:35:42.239] [316/3900] Bot2 vs Bot27: Draw
+[14:35:42.245] [317/3900] Bot2 vs Bot27: Bot27 won
+[14:35:42.250] [318/3900] Bot27 vs Bot2: Draw
+[14:35:42.255] [319/3900] Bot27 vs Bot2: Draw
+[14:35:42.261] [320/3900] Bot27 vs Bot2: Bot27 won
+[14:35:42.266] [321/3900] Bot2 vs Bot28: Bot2 won
+[14:35:42.271] [322/3900] Bot2 vs Bot28: Bot28 won
+[14:35:42.277] [323/3900] Bot28 vs Bot2: Bot2 won
+[14:35:42.283] [324/3900] Bot28 vs Bot2: Draw
+[14:35:42.288] [325/3900] Bot28 vs Bot2: Draw
+[14:35:42.364] [326/3900] Bot2 vs Bot29: Draw
+[14:35:42.370] [327/3900] Bot2 vs Bot29: Bot29 won
+[14:35:42.375] [328/3900] Bot29 vs Bot2: Draw
+[14:35:42.381] [329/3900] Bot29 vs Bot2: Draw
+[14:35:42.386] [330/3900] Bot29 vs Bot2: Bot2 won
+[14:35:42.392] [331/3900] Bot2 vs Bot30: Bot30 won
+[14:35:42.397] [332/3900] Bot2 vs Bot30: Draw
+[14:35:42.402] [333/3900] Bot30 vs Bot2: Draw
+[14:35:42.408] [334/3900] Bot30 vs Bot2: Draw
+[14:35:42.413] [335/3900] Bot30 vs Bot2: Bot2 won
+[14:35:42.490] [336/3900] Bot2 vs Bot31: Draw
+[14:35:42.496] [337/3900] Bot2 vs Bot31: Bot31 won
+[14:35:42.501] [338/3900] Bot31 vs Bot2: Draw
+[14:35:42.506] [339/3900] Bot31 vs Bot2: Draw
+[14:35:42.512] [340/3900] Bot31 vs Bot2: Draw
+[14:35:42.517] [341/3900] Bot2 vs Bot32: Draw
+[14:35:42.522] [342/3900] Bot2 vs Bot32: Bot32 won
+[14:35:42.528] [343/3900] Bot32 vs Bot2: Draw
+[14:35:42.534] [344/3900] Bot32 vs Bot2: Bot32 won
+[14:35:42.539] [345/3900] Bot32 vs Bot2: Draw
+[14:35:42.545] [346/3900] Bot2 vs Bot33: Bot33 won
+[14:35:42.621] [347/3900] Bot2 vs Bot33: Bot33 won
+[14:35:42.627] [348/3900] Bot33 vs Bot2: Bot2 won
+[14:35:42.632] [349/3900] Bot33 vs Bot2: Bot2 won
+[14:35:42.638] [350/3900] Bot33 vs Bot2: Draw
+[14:35:42.643] [351/3900] Bot2 vs Bot34: Draw
+[14:35:42.649] [352/3900] Bot2 vs Bot34: Bot34 won
+[14:35:42.655] [353/3900] Bot34 vs Bot2: Bot2 won
+[14:35:42.660] [354/3900] Bot34 vs Bot2: Draw
+[14:35:42.666] [355/3900] Bot34 vs Bot2: Bot2 won
+[14:35:42.671] [356/3900] Bot2 vs Bot35: Draw
+[14:35:42.677] [357/3900] Bot2 vs Bot35: Draw
+[14:35:42.682] [358/3900] Bot35 vs Bot2: Draw
+[14:35:42.691] [359/3900] Bot35 vs Bot2: Draw
+[14:35:42.766] [360/3900] Bot35 vs Bot2: Bot2 won
+[14:35:42.771] [361/3900] Bot2 vs Bot36: Draw
+[14:35:42.776] [362/3900] Bot2 vs Bot36: Draw
+[14:35:42.781] [363/3900] Bot36 vs Bot2: Bot2 won
+[14:35:42.786] [364/3900] Bot36 vs Bot2: Bot2 won
+[14:35:42.791] [365/3900] Bot36 vs Bot2: Draw
+[14:35:42.796] [366/3900] Bot2 vs Bot37: Bot37 won
+[14:35:42.801] [367/3900] Bot2 vs Bot37: Bot37 won
+[14:35:42.806] [368/3900] Bot37 vs Bot2: Draw
+[14:35:42.813] [369/3900] Bot37 vs Bot2: Draw
+[14:35:42.818] [370/3900] Bot37 vs Bot2: Draw
+[14:35:42.823] [371/3900] Bot2 vs Bot38: Bot2 won
+[14:35:42.899] [372/3900] Bot2 vs Bot38: Draw
+[14:35:42.905] [373/3900] Bot38 vs Bot2: Draw
+[14:35:42.910] [374/3900] Bot38 vs Bot2: Draw
+[14:35:42.915] [375/3900] Bot38 vs Bot2: Draw
+[14:35:42.920] [376/3900] Bot2 vs Bot39: Bot39 won
+[14:35:42.925] [377/3900] Bot2 vs Bot39: Bot39 won
+[14:35:42.930] [378/3900] Bot39 vs Bot2: Bot2 won
+[14:35:42.935] [379/3900] Bot39 vs Bot2: Bot2 won
+[14:35:42.941] [380/3900] Bot39 vs Bot2: Draw
+[14:35:42.945] [381/3900] Bot2 vs Bot40: Draw
+[14:35:43.021] [382/3900] Bot2 vs Bot40: Bot40 won
+[14:35:43.027] [383/3900] Bot40 vs Bot2: Draw
+[14:35:43.033] [384/3900] Bot40 vs Bot2: Draw
+[14:35:43.039] [385/3900] Bot40 vs Bot2: Bot2 won
+[14:35:43.044] [386/3900] Bot3 vs Bot4: Bot4 won
+[14:35:43.050] [387/3900] Bot3 vs Bot4: Draw
+[14:35:43.055] [388/3900] Bot4 vs Bot3: Draw
+[14:35:43.060] [389/3900] Bot4 vs Bot3: Bot3 won
+[14:35:43.066] [390/3900] Bot4 vs Bot3: Draw
+[14:35:43.071] [391/3900] Bot3 vs Bot5: Bot5 won
+[14:35:43.077] [392/3900] Bot3 vs Bot5: Draw
+[14:35:43.154] [393/3900] Bot5 vs Bot3: Draw
+[14:35:43.162] [394/3900] Bot5 vs Bot3: Bot3 won
+[14:35:43.167] [395/3900] Bot5 vs Bot3: Draw
+[14:35:43.172] [396/3900] Bot3 vs Bot6: Bot6 won
+[14:35:43.177] [397/3900] Bot3 vs Bot6: Bot3 won
+[14:35:43.182] [398/3900] Bot6 vs Bot3: Bot3 won
+[14:35:43.187] [399/3900] Bot6 vs Bot3: Draw
+[14:35:43.193] [400/3900] Bot6 vs Bot3: Draw
+[14:35:43.198] [401/3900] Bot3 vs Bot7: Bot7 won
+[14:35:43.273] [402/3900] Bot3 vs Bot7: Draw
+[14:35:43.279] [403/3900] Bot7 vs Bot3: Bot3 won
+[14:35:43.284] [404/3900] Bot7 vs Bot3: Draw
+[14:35:43.289] [405/3900] Bot7 vs Bot3: Bot3 won
+[14:35:43.295] [406/3900] Bot3 vs Bot8: Draw
+[14:35:43.300] [407/3900] Bot3 vs Bot8: Bot8 won
+[14:35:43.305] [408/3900] Bot8 vs Bot3: Draw
+[14:35:43.310] [409/3900] Bot8 vs Bot3: Bot3 won
+[14:35:43.316] [410/3900] Bot8 vs Bot3: Bot3 won
+[14:35:43.321] [411/3900] Bot3 vs Bot9: Bot9 won
+[14:35:43.326] [412/3900] Bot3 vs Bot9: Bot9 won
+[14:35:43.332] [413/3900] Bot9 vs Bot3: Bot3 won
+[14:35:43.408] [414/3900] Bot9 vs Bot3: Bot3 won
+[14:35:43.413] [415/3900] Bot9 vs Bot3: Draw
+[14:35:43.418] [416/3900] Bot3 vs Bot10: Bot10 won
+[14:35:43.423] [417/3900] Bot3 vs Bot10: Draw
+[14:35:43.429] [418/3900] Bot10 vs Bot3: Bot10 won
+[14:35:43.434] [419/3900] Bot10 vs Bot3: Bot3 won
+[14:35:43.439] [420/3900] Bot10 vs Bot3: Draw
+[14:35:43.445] [421/3900] Bot3 vs Bot11: Draw
+[14:35:43.450] [422/3900] Bot3 vs Bot11: Draw
+[14:35:43.455] [423/3900] Bot11 vs Bot3: Draw
+[14:35:43.531] [424/3900] Bot11 vs Bot3: Bot3 won
+[14:35:43.539] [425/3900] Bot11 vs Bot3: Draw
+[14:35:43.544] [426/3900] Bot3 vs Bot12: Draw
+[14:35:43.549] [427/3900] Bot3 vs Bot12: Bot12 won
+[14:35:43.554] [428/3900] Bot12 vs Bot3: Bot3 won
+[14:35:43.560] [429/3900] Bot12 vs Bot3: Bot12 won
+[14:35:43.564] [430/3900] Bot12 vs Bot3: Bot12 won
+[14:35:43.569] [431/3900] Bot3 vs Bot13: Draw
+[14:35:43.575] [432/3900] Bot3 vs Bot13: Draw
+[14:35:43.580] [433/3900] Bot13 vs Bot3: Bot3 won
+[14:35:43.585] [434/3900] Bot13 vs Bot3: Draw
+[14:35:43.660] [435/3900] Bot13 vs Bot3: Bot3 won
+[14:35:43.664] [436/3900] Bot3 vs Bot14: Draw
+[14:35:43.669] [437/3900] Bot3 vs Bot14: Bot14 won
+[14:35:43.675] [438/3900] Bot14 vs Bot3: Draw
+[14:35:43.680] [439/3900] Bot14 vs Bot3: Draw
+[14:35:43.684] [440/3900] Bot14 vs Bot3: Bot3 won
+[14:35:43.689] [441/3900] Bot3 vs Bot15: Draw
+[14:35:43.694] [442/3900] Bot3 vs Bot15: Bot15 won
+[14:35:43.699] [443/3900] Bot15 vs Bot3: Bot3 won
+[14:35:43.710] [444/3900] Bot15 vs Bot3: Draw
+[14:35:43.716] [445/3900] Bot15 vs Bot3: Bot3 won
+[14:35:43.721] [446/3900] Bot3 vs Bot16: Bot16 won
+[14:35:43.726] [447/3900] Bot3 vs Bot16: Bot16 won
+[14:35:43.802] [448/3900] Bot16 vs Bot3: Draw
+[14:35:43.806] [449/3900] Bot16 vs Bot3: Draw
+[14:35:43.812] [450/3900] Bot16 vs Bot3: Draw
+[14:35:43.818] [451/3900] Bot3 vs Bot17: Bot17 won
+[14:35:43.823] [452/3900] Bot3 vs Bot17: Bot17 won
+[14:35:43.828] [453/3900] Bot17 vs Bot3: Bot3 won
+[14:35:43.833] [454/3900] Bot17 vs Bot3: Bot3 won
+[14:35:43.837] [455/3900] Bot17 vs Bot3: Draw
+[14:35:43.842] [456/3900] Bot3 vs Bot18: Bot18 won
+[14:35:43.848] [457/3900] Bot3 vs Bot18: Bot18 won
+[14:35:43.853] [458/3900] Bot18 vs Bot3: Draw
+[14:35:43.858] [459/3900] Bot18 vs Bot3: Draw
+[14:35:43.863] [460/3900] Bot18 vs Bot3: Bot3 won
+[14:35:43.939] [461/3900] Bot3 vs Bot19: Draw
+[14:35:43.945] [462/3900] Bot3 vs Bot19: Bot19 won
+[14:35:43.950] [463/3900] Bot19 vs Bot3: Draw
+[14:35:43.955] [464/3900] Bot19 vs Bot3: Draw
+[14:35:43.960] [465/3900] Bot19 vs Bot3: Draw
+[14:35:43.965] [466/3900] Bot3 vs Bot20: Bot20 won
+[14:35:43.970] [467/3900] Bot3 vs Bot20: Bot20 won
+[14:35:43.976] [468/3900] Bot20 vs Bot3: Draw
+[14:35:43.981] [469/3900] Bot20 vs Bot3: Draw
+[14:35:43.986] [470/3900] Bot20 vs Bot3: Draw
+[14:35:43.991] [471/3900] Bot3 vs Bot21: Draw
+[14:35:43.996] [472/3900] Bot3 vs Bot21: Bot21 won
+[14:35:44.001] [473/3900] Bot21 vs Bot3: Draw
+[14:35:44.078] [474/3900] Bot21 vs Bot3: Draw
+[14:35:44.084] [475/3900] Bot21 vs Bot3: Draw
+[14:35:44.089] [476/3900] Bot3 vs Bot22: Bot22 won
+[14:35:44.094] [477/3900] Bot3 vs Bot22: Draw
+[14:35:44.099] [478/3900] Bot22 vs Bot3: Draw
+[14:35:44.105] [479/3900] Bot22 vs Bot3: Bot3 won
+[14:35:44.111] [480/3900] Bot22 vs Bot3: Draw
+[14:35:44.116] [481/3900] Bot3 vs Bot23: Bot23 won
+[14:35:44.121] [482/3900] Bot3 vs Bot23: Draw
+[14:35:44.126] [483/3900] Bot23 vs Bot3: Draw
+[14:35:44.134] [484/3900] Bot23 vs Bot3: Bot3 won
+[14:35:44.139] [485/3900] Bot23 vs Bot3: Draw
+[14:35:44.144] [486/3900] Bot3 vs Bot24: Draw
+[14:35:44.149] [487/3900] Bot3 vs Bot24: Draw
+[14:35:44.225] [488/3900] Bot24 vs Bot3: Draw
+[14:35:44.229] [489/3900] Bot24 vs Bot3: Bot24 won
+[14:35:44.235] [490/3900] Bot24 vs Bot3: Bot3 won
+[14:35:44.239] [491/3900] Bot3 vs Bot25: Bot3 won
+[14:35:44.245] [492/3900] Bot3 vs Bot25: Bot25 won
+[14:35:44.250] [493/3900] Bot25 vs Bot3: Draw
+[14:35:44.254] [494/3900] Bot25 vs Bot3: Draw
+[14:35:44.259] [495/3900] Bot25 vs Bot3: Bot3 won
+[14:35:44.265] [496/3900] Bot3 vs Bot26: Bot26 won
+[14:35:44.269] [497/3900] Bot3 vs Bot26: Bot26 won
+[14:35:44.275] [498/3900] Bot26 vs Bot3: Draw
+[14:35:44.280] [499/3900] Bot26 vs Bot3: Draw
+[14:35:44.285] [500/3900] Bot26 vs Bot3: Draw
+[14:35:44.290] [501/3900] Bot3 vs Bot27: Bot27 won
+[14:35:44.366] [502/3900] Bot3 vs Bot27: Draw
+[14:35:44.371] [503/3900] Bot27 vs Bot3: Bot3 won
+[14:35:44.376] [504/3900] Bot27 vs Bot3: Bot3 won
+[14:35:44.380] [505/3900] Bot27 vs Bot3: Bot3 won
+[14:35:44.385] [506/3900] Bot3 vs Bot28: Draw
+[14:35:44.391] [507/3900] Bot3 vs Bot28: Draw
+[14:35:44.396] [508/3900] Bot28 vs Bot3: Draw
+[14:35:44.401] [509/3900] Bot28 vs Bot3: Draw
+[14:35:44.406] [510/3900] Bot28 vs Bot3: Bot3 won
+[14:35:44.411] [511/3900] Bot3 vs Bot29: Bot3 won
+[14:35:44.416] [512/3900] Bot3 vs Bot29: Draw
+[14:35:44.421] [513/3900] Bot29 vs Bot3: Draw
+[14:35:44.427] [514/3900] Bot29 vs Bot3: Draw
+[14:35:44.432] [515/3900] Bot29 vs Bot3: Bot3 won
+[14:35:44.437] [516/3900] Bot3 vs Bot30: Bot30 won
+[14:35:44.442] [517/3900] Bot3 vs Bot30: Draw
+[14:35:44.519] [518/3900] Bot30 vs Bot3: Draw
+[14:35:44.524] [519/3900] Bot30 vs Bot3: Bot3 won
+[14:35:44.532] [520/3900] Bot30 vs Bot3: Draw
+[14:35:44.537] [521/3900] Bot3 vs Bot31: Bot31 won
+[14:35:44.542] [522/3900] Bot3 vs Bot31: Bot31 won
+[14:35:44.548] [523/3900] Bot31 vs Bot3: Bot3 won
+[14:35:44.553] [524/3900] Bot31 vs Bot3: Bot3 won
+[14:35:44.558] [525/3900] Bot31 vs Bot3: Draw
+[14:35:44.563] [526/3900] Bot3 vs Bot32: Draw
+[14:35:44.566] [527/3900] Bot3 vs Bot32: Bot32 won
+[14:35:44.571] [528/3900] Bot32 vs Bot3: Bot3 won
+[14:35:44.577] [529/3900] Bot32 vs Bot3: Draw
+[14:35:44.653] [530/3900] Bot32 vs Bot3: Draw
+[14:35:44.659] [531/3900] Bot3 vs Bot33: Bot3 won
+[14:35:44.664] [532/3900] Bot3 vs Bot33: Bot33 won
+[14:35:44.669] [533/3900] Bot33 vs Bot3: Draw
+[14:35:44.675] [534/3900] Bot33 vs Bot3: Draw
+[14:35:44.679] [535/3900] Bot33 vs Bot3: Bot3 won
+[14:35:44.684] [536/3900] Bot3 vs Bot34: Draw
+[14:35:44.689] [537/3900] Bot3 vs Bot34: Bot3 won
+[14:35:44.695] [538/3900] Bot34 vs Bot3: Bot3 won
+[14:35:44.700] [539/3900] Bot34 vs Bot3: Bot3 won
+[14:35:44.705] [540/3900] Bot34 vs Bot3: Bot3 won
+[14:35:44.711] [541/3900] Bot3 vs Bot35: Bot3 won
+[14:35:44.715] [542/3900] Bot3 vs Bot35: Bot35 won
+[14:35:44.720] [543/3900] Bot35 vs Bot3: Draw
+[14:35:44.726] [544/3900] Bot35 vs Bot3: Bot3 won
+[14:35:44.731] [545/3900] Bot35 vs Bot3: Draw
+[14:35:44.807] [546/3900] Bot3 vs Bot36: Draw
+[14:35:44.813] [547/3900] Bot3 vs Bot36: Bot36 won
+[14:35:44.818] [548/3900] Bot36 vs Bot3: Bot3 won
+[14:35:44.823] [549/3900] Bot36 vs Bot3: Draw
+[14:35:44.828] [550/3900] Bot36 vs Bot3: Draw
+[14:35:44.833] [551/3900] Bot3 vs Bot37: Bot37 won
+[14:35:44.838] [552/3900] Bot3 vs Bot37: Bot37 won
+[14:35:44.844] [553/3900] Bot37 vs Bot3: Bot37 won
+[14:35:44.849] [554/3900] Bot37 vs Bot3: Bot3 won
+[14:35:44.854] [555/3900] Bot37 vs Bot3: Bot3 won
+[14:35:44.860] [556/3900] Bot3 vs Bot38: Bot38 won
+[14:35:44.865] [557/3900] Bot3 vs Bot38: Bot38 won
+[14:35:44.870] [558/3900] Bot38 vs Bot3: Bot3 won
+[14:35:44.875] [559/3900] Bot38 vs Bot3: Bot3 won
+[14:35:44.952] [560/3900] Bot38 vs Bot3: Bot3 won
+[14:35:44.957] [561/3900] Bot3 vs Bot39: Bot39 won
+[14:35:44.962] [562/3900] Bot3 vs Bot39: Draw
+[14:35:44.968] [563/3900] Bot39 vs Bot3: Bot3 won
+[14:35:44.973] [564/3900] Bot39 vs Bot3: Bot3 won
+[14:35:44.978] [565/3900] Bot39 vs Bot3: Draw
+[14:35:44.990] [566/3900] Bot3 vs Bot40: Draw
+[14:35:44.994] [567/3900] Bot3 vs Bot40: Draw
+[14:35:44.999] [568/3900] Bot40 vs Bot3: Draw
+[14:35:45.004] [569/3900] Bot40 vs Bot3: Bot3 won
+[14:35:45.009] [570/3900] Bot40 vs Bot3: Draw
+[14:35:45.014] [571/3900] Bot4 vs Bot5: Bot5 won
+[14:35:45.019] [572/3900] Bot4 vs Bot5: Bot5 won
+[14:35:45.025] [573/3900] Bot5 vs Bot4: Draw
+[14:35:45.030] [574/3900] Bot5 vs Bot4: Draw
+[14:35:45.034] [575/3900] Bot5 vs Bot4: Bot4 won
+[14:35:45.111] [576/3900] Bot4 vs Bot6: Bot6 won
+[14:35:45.116] [577/3900] Bot4 vs Bot6: Bot6 won
+[14:35:45.120] [578/3900] Bot6 vs Bot4: Bot4 won
+[14:35:45.126] [579/3900] Bot6 vs Bot4: Draw
+[14:35:45.131] [580/3900] Bot6 vs Bot4: Draw
+[14:35:45.135] [581/3900] Bot4 vs Bot7: Bot7 won
+[14:35:45.140] [582/3900] Bot4 vs Bot7: Draw
+[14:35:45.145] [583/3900] Bot7 vs Bot4: Bot4 won
+[14:35:45.151] [584/3900] Bot7 vs Bot4: Draw
+[14:35:45.156] [585/3900] Bot7 vs Bot4: Bot4 won
+[14:35:45.161] [586/3900] Bot4 vs Bot8: Draw
+[14:35:45.237] [587/3900] Bot4 vs Bot8: Draw
+[14:35:45.242] [588/3900] Bot8 vs Bot4: Draw
+[14:35:45.247] [589/3900] Bot8 vs Bot4: Draw
+[14:35:45.253] [590/3900] Bot8 vs Bot4: Draw
+[14:35:45.258] [591/3900] Bot4 vs Bot9: Bot9 won
+[14:35:45.262] [592/3900] Bot4 vs Bot9: Bot9 won
+[14:35:45.268] [593/3900] Bot9 vs Bot4: Bot4 won
+[14:35:45.273] [594/3900] Bot9 vs Bot4: Bot4 won
+[14:35:45.278] [595/3900] Bot9 vs Bot4: Draw
+[14:35:45.283] [596/3900] Bot4 vs Bot10: Bot10 won
+[14:35:45.288] [597/3900] Bot4 vs Bot10: Bot10 won
+[14:35:45.293] [598/3900] Bot10 vs Bot4: Bot4 won
+[14:35:45.298] [599/3900] Bot10 vs Bot4: Draw
+[14:35:45.374] [600/3900] Bot10 vs Bot4: Bot4 won
+[14:35:45.380] [601/3900] Bot4 vs Bot11: Bot11 won
+[14:35:45.385] [602/3900] Bot4 vs Bot11: Bot11 won
+[14:35:45.390] [603/3900] Bot11 vs Bot4: Bot4 won
+[14:35:45.396] [604/3900] Bot11 vs Bot4: Bot4 won
+[14:35:45.401] [605/3900] Bot11 vs Bot4: Bot4 won
+[14:35:45.406] [606/3900] Bot4 vs Bot12: Draw
+[14:35:45.412] [607/3900] Bot4 vs Bot12: Bot12 won
+[14:35:45.417] [608/3900] Bot12 vs Bot4: Draw
+[14:35:45.493] [609/3900] Bot12 vs Bot4: Bot4 won
+[14:35:45.499] [610/3900] Bot12 vs Bot4: Draw
+[14:35:45.504] [611/3900] Bot4 vs Bot13: Bot13 won
+[14:35:45.509] [612/3900] Bot4 vs Bot13: Draw
+[14:35:45.514] [613/3900] Bot13 vs Bot4: Bot4 won
+[14:35:45.519] [614/3900] Bot13 vs Bot4: Bot13 won
+[14:35:45.525] [615/3900] Bot13 vs Bot4: Bot4 won
+[14:35:45.530] [616/3900] Bot4 vs Bot14: Draw
+[14:35:45.607] [617/3900] Bot4 vs Bot14: Draw
+[14:35:45.612] [618/3900] Bot14 vs Bot4: Draw
+[14:35:45.618] [619/3900] Bot14 vs Bot4: Draw
+[14:35:45.624] [620/3900] Bot14 vs Bot4: Draw
+[14:35:45.629] [621/3900] Bot4 vs Bot15: Draw
+[14:35:45.634] [622/3900] Bot4 vs Bot15: Bot15 won
+[14:35:45.639] [623/3900] Bot15 vs Bot4: Draw
+[14:35:45.646] [624/3900] Bot15 vs Bot4: Bot4 won
+[14:35:45.651] [625/3900] Bot15 vs Bot4: Draw
+[14:35:45.656] [626/3900] Bot4 vs Bot16: Draw
+[14:35:45.661] [627/3900] Bot4 vs Bot16: Draw
+[14:35:45.738] [628/3900] Bot16 vs Bot4: Bot4 won
+[14:35:45.745] [629/3900] Bot16 vs Bot4: Bot4 won
+[14:35:45.750] [630/3900] Bot16 vs Bot4: Draw
+[14:35:45.755] [631/3900] Bot4 vs Bot17: Draw
+[14:35:45.760] [632/3900] Bot4 vs Bot17: Draw
+[14:35:45.766] [633/3900] Bot17 vs Bot4: Bot4 won
+[14:35:45.770] [634/3900] Bot17 vs Bot4: Bot4 won
+[14:35:45.775] [635/3900] Bot17 vs Bot4: Draw
+[14:35:45.780] [636/3900] Bot4 vs Bot18: Draw
+[14:35:45.785] [637/3900] Bot4 vs Bot18: Bot4 won
+[14:35:45.860] [638/3900] Bot18 vs Bot4: Bot18 won
+[14:35:45.866] [639/3900] Bot18 vs Bot4: Draw
+[14:35:45.871] [640/3900] Bot18 vs Bot4: Draw
+[14:35:45.876] [641/3900] Bot4 vs Bot19: Draw
+[14:35:45.881] [642/3900] Bot4 vs Bot19: Bot4 won
+[14:35:45.886] [643/3900] Bot19 vs Bot4: Draw
+[14:35:45.895] [644/3900] Bot19 vs Bot4: Draw
+[14:35:45.903] [645/3900] Bot19 vs Bot4: Bot4 won
+[14:35:45.909] [646/3900] Bot4 vs Bot20: Bot20 won
+[14:35:45.984] [647/3900] Bot4 vs Bot20: Bot20 won
+[14:35:45.989] [648/3900] Bot20 vs Bot4: Bot4 won
+[14:35:45.994] [649/3900] Bot20 vs Bot4: Draw
+[14:35:45.999] [650/3900] Bot20 vs Bot4: Bot4 won
+[14:35:46.003] [651/3900] Bot4 vs Bot21: Bot21 won
+[14:35:46.009] [652/3900] Bot4 vs Bot21: Draw
+[14:35:46.014] [653/3900] Bot21 vs Bot4: Draw
+[14:35:46.019] [654/3900] Bot21 vs Bot4: Bot4 won
+[14:35:46.025] [655/3900] Bot21 vs Bot4: Draw
+[14:35:46.030] [656/3900] Bot4 vs Bot22: Bot22 won
+[14:35:46.035] [657/3900] Bot4 vs Bot22: Bot22 won
+[14:35:46.040] [658/3900] Bot22 vs Bot4: Draw
+[14:35:46.115] [659/3900] Bot22 vs Bot4: Draw
+[14:35:46.121] [660/3900] Bot22 vs Bot4: Draw
+[14:35:46.126] [661/3900] Bot4 vs Bot23: Bot23 won
+[14:35:46.131] [662/3900] Bot4 vs Bot23: Bot23 won
+[14:35:46.137] [663/3900] Bot23 vs Bot4: Bot4 won
+[14:35:46.142] [664/3900] Bot23 vs Bot4: Draw
+[14:35:46.147] [665/3900] Bot23 vs Bot4: Bot4 won
+[14:35:46.152] [666/3900] Bot4 vs Bot24: Bot24 won
+[14:35:46.157] [667/3900] Bot4 vs Bot24: Draw
+[14:35:46.233] [668/3900] Bot24 vs Bot4: Draw
+[14:35:46.239] [669/3900] Bot24 vs Bot4: Draw
+[14:35:46.244] [670/3900] Bot24 vs Bot4: Bot4 won
+[14:35:46.248] [671/3900] Bot4 vs Bot25: Bot25 won
+[14:35:46.254] [672/3900] Bot4 vs Bot25: Bot4 won
+[14:35:46.260] [673/3900] Bot25 vs Bot4: Bot4 won
+[14:35:46.265] [674/3900] Bot25 vs Bot4: Bot4 won
+[14:35:46.270] [675/3900] Bot25 vs Bot4: Draw
+[14:35:46.276] [676/3900] Bot4 vs Bot26: Draw
+[14:35:46.281] [677/3900] Bot4 vs Bot26: Draw
+[14:35:46.286] [678/3900] Bot26 vs Bot4: Bot4 won
+[14:35:46.291] [679/3900] Bot26 vs Bot4: Bot4 won
+[14:35:46.367] [680/3900] Bot26 vs Bot4: Draw
+[14:35:46.372] [681/3900] Bot4 vs Bot27: Bot4 won
+[14:35:46.378] [682/3900] Bot4 vs Bot27: Draw
+[14:35:46.383] [683/3900] Bot27 vs Bot4: Bot4 won
+[14:35:46.388] [684/3900] Bot27 vs Bot4: Bot4 won
+[14:35:46.394] [685/3900] Bot27 vs Bot4: Draw
+[14:35:46.399] [686/3900] Bot4 vs Bot28: Bot28 won
+[14:35:46.405] [687/3900] Bot4 vs Bot28: Bot28 won
+[14:35:46.410] [688/3900] Bot28 vs Bot4: Bot4 won
+[14:35:46.416] [689/3900] Bot28 vs Bot4: Bot4 won
+[14:35:46.421] [690/3900] Bot28 vs Bot4: Bot4 won
+[14:35:46.496] [691/3900] Bot4 vs Bot29: Bot4 won
+[14:35:46.502] [692/3900] Bot4 vs Bot29: Bot29 won
+[14:35:46.507] [693/3900] Bot29 vs Bot4: Draw
+[14:35:46.513] [694/3900] Bot29 vs Bot4: Draw
+[14:35:46.518] [695/3900] Bot29 vs Bot4: Draw
+[14:35:46.523] [696/3900] Bot4 vs Bot30: Bot4 won
+[14:35:46.528] [697/3900] Bot4 vs Bot30: Bot30 won
+[14:35:46.534] [698/3900] Bot30 vs Bot4: Bot4 won
+[14:35:46.539] [699/3900] Bot30 vs Bot4: Draw
+[14:35:46.615] [700/3900] Bot30 vs Bot4: Bot4 won
+[14:35:46.621] [701/3900] Bot4 vs Bot31: Draw
+[14:35:46.627] [702/3900] Bot4 vs Bot31: Draw
+[14:35:46.635] [703/3900] Bot31 vs Bot4: Draw
+[14:35:46.640] [704/3900] Bot31 vs Bot4: Draw
+[14:35:46.646] [705/3900] Bot31 vs Bot4: Draw
+[14:35:46.651] [706/3900] Bot4 vs Bot32: Bot32 won
+[14:35:46.656] [707/3900] Bot4 vs Bot32: Bot32 won
+[14:35:46.661] [708/3900] Bot32 vs Bot4: Bot4 won
+[14:35:46.665] [709/3900] Bot32 vs Bot4: Bot4 won
+[14:35:46.671] [710/3900] Bot32 vs Bot4: Draw
+[14:35:46.676] [711/3900] Bot4 vs Bot33: Draw
+[14:35:46.681] [712/3900] Bot4 vs Bot33: Bot33 won
+[14:35:46.756] [713/3900] Bot33 vs Bot4: Bot33 won
+[14:35:46.761] [714/3900] Bot33 vs Bot4: Draw
+[14:35:46.766] [715/3900] Bot33 vs Bot4: Bot4 won
+[14:35:46.771] [716/3900] Bot4 vs Bot34: Draw
+[14:35:46.776] [717/3900] Bot4 vs Bot34: Bot34 won
+[14:35:46.781] [718/3900] Bot34 vs Bot4: Bot4 won
+[14:35:46.786] [719/3900] Bot34 vs Bot4: Bot34 won
+[14:35:46.791] [720/3900] Bot34 vs Bot4: Draw
+[14:35:46.796] [721/3900] Bot4 vs Bot35: Bot4 won
+[14:35:46.801] [722/3900] Bot4 vs Bot35: Draw
+[14:35:46.877] [723/3900] Bot35 vs Bot4: Bot4 won
+[14:35:46.882] [724/3900] Bot35 vs Bot4: Bot4 won
+[14:35:46.886] [725/3900] Bot35 vs Bot4: Bot4 won
+[14:35:46.891] [726/3900] Bot4 vs Bot36: Bot36 won
+[14:35:46.897] [727/3900] Bot4 vs Bot36: Bot36 won
+[14:35:46.902] [728/3900] Bot36 vs Bot4: Draw
+[14:35:46.907] [729/3900] Bot36 vs Bot4: Bot4 won
+[14:35:46.913] [730/3900] Bot36 vs Bot4: Draw
+[14:35:46.917] [731/3900] Bot4 vs Bot37: Draw
+[14:35:46.993] [732/3900] Bot4 vs Bot37: Draw
+[14:35:46.998] [733/3900] Bot37 vs Bot4: Bot4 won
+[14:35:47.003] [734/3900] Bot37 vs Bot4: Draw
+[14:35:47.009] [735/3900] Bot37 vs Bot4: Bot4 won
+[14:35:47.014] [736/3900] Bot4 vs Bot38: Draw
+[14:35:47.019] [737/3900] Bot4 vs Bot38: Draw
+[14:35:47.024] [738/3900] Bot38 vs Bot4: Bot4 won
+[14:35:47.029] [739/3900] Bot38 vs Bot4: Bot38 won
+[14:35:47.034] [740/3900] Bot38 vs Bot4: Draw
+[14:35:47.110] [741/3900] Bot4 vs Bot39: Bot39 won
+[14:35:47.116] [742/3900] Bot4 vs Bot39: Bot4 won
+[14:35:47.121] [743/3900] Bot39 vs Bot4: Draw
+[14:35:47.126] [744/3900] Bot39 vs Bot4: Draw
+[14:35:47.132] [745/3900] Bot39 vs Bot4: Draw
+[14:35:47.137] [746/3900] Bot4 vs Bot40: Draw
+[14:35:47.142] [747/3900] Bot4 vs Bot40: Draw
+[14:35:47.148] [748/3900] Bot40 vs Bot4: Draw
+[14:35:47.153] [749/3900] Bot40 vs Bot4: Draw
+[14:35:47.230] [750/3900] Bot40 vs Bot4: Draw
+[14:35:47.235] [751/3900] Bot5 vs Bot6: Bot6 won
+[14:35:47.240] [752/3900] Bot5 vs Bot6: Draw
+[14:35:47.245] [753/3900] Bot6 vs Bot5: Bot5 won
+[14:35:47.251] [754/3900] Bot6 vs Bot5: Draw
+[14:35:47.257] [755/3900] Bot6 vs Bot5: Bot5 won
+[14:35:47.263] [756/3900] Bot5 vs Bot7: Bot7 won
+[14:35:47.268] [757/3900] Bot5 vs Bot7: Draw
+[14:35:47.272] [758/3900] Bot7 vs Bot5: Draw
+[14:35:47.278] [759/3900] Bot7 vs Bot5: Bot5 won
+[14:35:47.283] [760/3900] Bot7 vs Bot5: Draw
+[14:35:47.288] [761/3900] Bot5 vs Bot8: Bot5 won
+[14:35:47.294] [762/3900] Bot5 vs Bot8: Bot8 won
+[14:35:47.298] [763/3900] Bot8 vs Bot5: Bot5 won
+[14:35:47.375] [764/3900] Bot8 vs Bot5: Bot5 won
+[14:35:47.380] [765/3900] Bot8 vs Bot5: Bot8 won
+[14:35:47.385] [766/3900] Bot5 vs Bot9: Draw
+[14:35:47.390] [767/3900] Bot5 vs Bot9: Bot9 won
+[14:35:47.396] [768/3900] Bot9 vs Bot5: Bot5 won
+[14:35:47.401] [769/3900] Bot9 vs Bot5: Draw
+[14:35:47.406] [770/3900] Bot9 vs Bot5: Bot5 won
+[14:35:47.411] [771/3900] Bot5 vs Bot10: Draw
+[14:35:47.416] [772/3900] Bot5 vs Bot10: Bot10 won
+[14:35:47.421] [773/3900] Bot10 vs Bot5: Bot5 won
+[14:35:47.427] [774/3900] Bot10 vs Bot5: Bot5 won
+[14:35:47.503] [775/3900] Bot10 vs Bot5: Bot5 won
+[14:35:47.508] [776/3900] Bot5 vs Bot11: Bot11 won
+[14:35:47.513] [777/3900] Bot5 vs Bot11: Bot11 won
+[14:35:47.518] [778/3900] Bot11 vs Bot5: Draw
+[14:35:47.523] [779/3900] Bot11 vs Bot5: Bot5 won
+[14:35:47.529] [780/3900] Bot11 vs Bot5: Bot5 won
+[14:35:47.535] [781/3900] Bot5 vs Bot12: Draw
+[14:35:47.540] [782/3900] Bot5 vs Bot12: Bot12 won
+[14:35:47.545] [783/3900] Bot12 vs Bot5: Draw
+[14:35:47.551] [784/3900] Bot12 vs Bot5: Bot12 won
+[14:35:47.556] [785/3900] Bot12 vs Bot5: Bot5 won
+[14:35:47.561] [786/3900] Bot5 vs Bot13: Bot13 won
+[14:35:47.636] [787/3900] Bot5 vs Bot13: Bot13 won
+[14:35:47.641] [788/3900] Bot13 vs Bot5: Draw
+[14:35:47.646] [789/3900] Bot13 vs Bot5: Draw
+[14:35:47.652] [790/3900] Bot13 vs Bot5: Bot5 won
+[14:35:47.657] [791/3900] Bot5 vs Bot14: Bot14 won
+[14:35:47.662] [792/3900] Bot5 vs Bot14: Bot14 won
+[14:35:47.667] [793/3900] Bot14 vs Bot5: Draw
+[14:35:47.671] [794/3900] Bot14 vs Bot5: Bot14 won
+[14:35:47.677] [795/3900] Bot14 vs Bot5: Bot5 won
+[14:35:47.682] [796/3900] Bot5 vs Bot15: Bot15 won
+[14:35:47.687] [797/3900] Bot5 vs Bot15: Draw
+[14:35:47.763] [798/3900] Bot15 vs Bot5: Bot15 won
+[14:35:47.768] [799/3900] Bot15 vs Bot5: Draw
+[14:35:47.773] [800/3900] Bot15 vs Bot5: Draw
+[14:35:47.778] [801/3900] Bot5 vs Bot16: Bot16 won
+[14:35:47.783] [802/3900] Bot5 vs Bot16: Bot5 won
+[14:35:47.788] [803/3900] Bot16 vs Bot5: Bot5 won
+[14:35:47.793] [804/3900] Bot16 vs Bot5: Bot5 won
+[14:35:47.797] [805/3900] Bot16 vs Bot5: Draw
+[14:35:47.802] [806/3900] Bot5 vs Bot17: Bot17 won
+[14:35:47.808] [807/3900] Bot5 vs Bot17: Draw
+[14:35:47.813] [808/3900] Bot17 vs Bot5: Bot5 won
+[14:35:47.817] [809/3900] Bot17 vs Bot5: Bot5 won
+[14:35:47.893] [810/3900] Bot17 vs Bot5: Draw
+[14:35:47.899] [811/3900] Bot5 vs Bot18: Bot18 won
+[14:35:47.904] [812/3900] Bot5 vs Bot18: Draw
+[14:35:47.909] [813/3900] Bot18 vs Bot5: Draw
+[14:35:47.914] [814/3900] Bot18 vs Bot5: Bot18 won
+[14:35:47.918] [815/3900] Bot18 vs Bot5: Draw
+[14:35:47.925] [816/3900] Bot5 vs Bot19: Draw
+[14:35:47.930] [817/3900] Bot5 vs Bot19: Bot19 won
+[14:35:47.935] [818/3900] Bot19 vs Bot5: Bot5 won
+[14:35:47.940] [819/3900] Bot19 vs Bot5: Draw
+[14:35:47.945] [820/3900] Bot19 vs Bot5: Draw
+[14:35:47.951] [821/3900] Bot5 vs Bot20: Draw
+[14:35:47.955] [822/3900] Bot5 vs Bot20: Draw
+[14:35:48.031] [823/3900] Bot20 vs Bot5: Bot5 won
+[14:35:48.037] [824/3900] Bot20 vs Bot5: Draw
+[14:35:48.042] [825/3900] Bot20 vs Bot5: Draw
+[14:35:48.048] [826/3900] Bot5 vs Bot21: Draw
+[14:35:48.052] [827/3900] Bot5 vs Bot21: Bot21 won
+[14:35:48.057] [828/3900] Bot21 vs Bot5: Draw
+[14:35:48.064] [829/3900] Bot21 vs Bot5: Bot21 won
+[14:35:48.069] [830/3900] Bot21 vs Bot5: Bot5 won
+[14:35:48.074] [831/3900] Bot5 vs Bot22: Draw
+[14:35:48.079] [832/3900] Bot5 vs Bot22: Bot5 won
+[14:35:48.085] [833/3900] Bot22 vs Bot5: Bot5 won
+[14:35:48.090] [834/3900] Bot22 vs Bot5: Draw
+[14:35:48.166] [835/3900] Bot22 vs Bot5: Draw
+[14:35:48.171] [836/3900] Bot5 vs Bot23: Draw
+[14:35:48.176] [837/3900] Bot5 vs Bot23: Bot23 won
+[14:35:48.181] [838/3900] Bot23 vs Bot5: Bot5 won
+[14:35:48.187] [839/3900] Bot23 vs Bot5: Bot5 won
+[14:35:48.193] [840/3900] Bot23 vs Bot5: Bot5 won
+[14:35:48.198] [841/3900] Bot5 vs Bot24: Bot24 won
+[14:35:48.203] [842/3900] Bot5 vs Bot24: Bot5 won
+[14:35:48.209] [843/3900] Bot24 vs Bot5: Draw
+[14:35:48.215] [844/3900] Bot24 vs Bot5: Bot5 won
+[14:35:48.219] [845/3900] Bot24 vs Bot5: Bot24 won
+[14:35:48.226] [846/3900] Bot5 vs Bot25: Draw
+[14:35:48.302] [847/3900] Bot5 vs Bot25: Draw
+[14:35:48.310] [848/3900] Bot25 vs Bot5: Bot5 won
+[14:35:48.315] [849/3900] Bot25 vs Bot5: Bot25 won
+[14:35:48.319] [850/3900] Bot25 vs Bot5: Bot5 won
+[14:35:48.325] [851/3900] Bot5 vs Bot26: Draw
+[14:35:48.330] [852/3900] Bot5 vs Bot26: Draw
+[14:35:48.335] [853/3900] Bot26 vs Bot5: Bot5 won
+[14:35:48.340] [854/3900] Bot26 vs Bot5: Bot5 won
+[14:35:48.344] [855/3900] Bot26 vs Bot5: Draw
+[14:35:48.349] [856/3900] Bot5 vs Bot27: Draw
+[14:35:48.354] [857/3900] Bot5 vs Bot27: Bot27 won
+[14:35:48.359] [858/3900] Bot27 vs Bot5: Bot5 won
+[14:35:48.364] [859/3900] Bot27 vs Bot5: Draw
+[14:35:48.369] [860/3900] Bot27 vs Bot5: Draw
+[14:35:48.446] [861/3900] Bot5 vs Bot28: Bot28 won
+[14:35:48.451] [862/3900] Bot5 vs Bot28: Bot28 won
+[14:35:48.456] [863/3900] Bot28 vs Bot5: Draw
+[14:35:48.461] [864/3900] Bot28 vs Bot5: Bot5 won
+[14:35:48.467] [865/3900] Bot28 vs Bot5: Bot5 won
+[14:35:48.472] [866/3900] Bot5 vs Bot29: Draw
+[14:35:48.477] [867/3900] Bot5 vs Bot29: Bot5 won
+[14:35:48.482] [868/3900] Bot29 vs Bot5: Draw
+[14:35:48.487] [869/3900] Bot29 vs Bot5: Bot5 won
+[14:35:48.492] [870/3900] Bot29 vs Bot5: Bot5 won
+[14:35:48.497] [871/3900] Bot5 vs Bot30: Bot30 won
+[14:35:48.502] [872/3900] Bot5 vs Bot30: Draw
+[14:35:48.507] [873/3900] Bot30 vs Bot5: Draw
+[14:35:48.583] [874/3900] Bot30 vs Bot5: Bot5 won
+[14:35:48.589] [875/3900] Bot30 vs Bot5: Draw
+[14:35:48.595] [876/3900] Bot5 vs Bot31: Draw
+[14:35:48.600] [877/3900] Bot5 vs Bot31: Draw
+[14:35:48.606] [878/3900] Bot31 vs Bot5: Draw
+[14:35:48.611] [879/3900] Bot31 vs Bot5: Draw
+[14:35:48.617] [880/3900] Bot31 vs Bot5: Draw
+[14:35:48.631] [881/3900] Bot5 vs Bot32: Bot5 won
+[14:35:48.636] [882/3900] Bot5 vs Bot32: Bot32 won
+[14:35:48.641] [883/3900] Bot32 vs Bot5: Bot5 won
+[14:35:48.646] [884/3900] Bot32 vs Bot5: Bot5 won
+[14:35:48.651] [885/3900] Bot32 vs Bot5: Bot32 won
+[14:35:48.656] [886/3900] Bot5 vs Bot33: Bot33 won
+[14:35:48.662] [887/3900] Bot5 vs Bot33: Bot33 won
+[14:35:48.667] [888/3900] Bot33 vs Bot5: Draw
+[14:35:48.672] [889/3900] Bot33 vs Bot5: Bot5 won
+[14:35:48.677] [890/3900] Bot33 vs Bot5: Draw
+[14:35:48.682] [891/3900] Bot5 vs Bot34: Bot34 won
+[14:35:48.687] [892/3900] Bot5 vs Bot34: Bot34 won
+[14:35:48.693] [893/3900] Bot34 vs Bot5: Draw
+[14:35:48.698] [894/3900] Bot34 vs Bot5: Draw
+[14:35:48.703] [895/3900] Bot34 vs Bot5: Draw
+[14:35:48.708] [896/3900] Bot5 vs Bot35: Draw
+[14:35:48.714] [897/3900] Bot5 vs Bot35: Bot5 won
+[14:35:48.719] [898/3900] Bot35 vs Bot5: Draw
+[14:35:48.724] [899/3900] Bot35 vs Bot5: Draw
+[14:35:48.729] [900/3900] Bot35 vs Bot5: Draw
+[14:35:48.734] [901/3900] Bot5 vs Bot36: Bot36 won
+[14:35:48.739] [902/3900] Bot5 vs Bot36: Draw
+[14:35:48.744] [903/3900] Bot36 vs Bot5: Bot5 won
+[14:35:48.749] [904/3900] Bot36 vs Bot5: Draw
+[14:35:48.754] [905/3900] Bot36 vs Bot5: Draw
+[14:35:48.759] [906/3900] Bot5 vs Bot37: Bot37 won
+[14:35:48.764] [907/3900] Bot5 vs Bot37: Bot37 won
+[14:35:48.839] [908/3900] Bot37 vs Bot5: Bot37 won
+[14:35:48.846] [909/3900] Bot37 vs Bot5: Draw
+[14:35:48.851] [910/3900] Bot37 vs Bot5: Draw
+[14:35:48.856] [911/3900] Bot5 vs Bot38: Bot38 won
+[14:35:48.861] [912/3900] Bot5 vs Bot38: Draw
+[14:35:48.867] [913/3900] Bot38 vs Bot5: Bot5 won
+[14:35:48.872] [914/3900] Bot38 vs Bot5: Draw
+[14:35:48.878] [915/3900] Bot38 vs Bot5: Draw
+[14:35:48.883] [916/3900] Bot5 vs Bot39: Draw
+[14:35:48.958] [917/3900] Bot5 vs Bot39: Bot39 won
+[14:35:48.964] [918/3900] Bot39 vs Bot5: Bot5 won
+[14:35:48.969] [919/3900] Bot39 vs Bot5: Bot39 won
+[14:35:48.975] [920/3900] Bot39 vs Bot5: Bot5 won
+[14:35:48.980] [921/3900] Bot5 vs Bot40: Bot40 won
+[14:35:48.985] [922/3900] Bot5 vs Bot40: Draw
+[14:35:48.991] [923/3900] Bot40 vs Bot5: Bot5 won
+[14:35:48.996] [924/3900] Bot40 vs Bot5: Bot5 won
+[14:35:49.001] [925/3900] Bot40 vs Bot5: Bot5 won
+[14:35:49.006] [926/3900] Bot6 vs Bot7: Draw
+[14:35:49.012] [927/3900] Bot6 vs Bot7: Draw
+[14:35:49.088] [928/3900] Bot7 vs Bot6: Bot6 won
+[14:35:49.094] [929/3900] Bot7 vs Bot6: Draw
+[14:35:49.099] [930/3900] Bot7 vs Bot6: Bot6 won
+[14:35:49.105] [931/3900] Bot6 vs Bot8: Draw
+[14:35:49.111] [932/3900] Bot6 vs Bot8: Draw
+[14:35:49.116] [933/3900] Bot8 vs Bot6: Draw
+[14:35:49.121] [934/3900] Bot8 vs Bot6: Bot8 won
+[14:35:49.126] [935/3900] Bot8 vs Bot6: Draw
+[14:35:49.131] [936/3900] Bot6 vs Bot9: Draw
+[14:35:49.136] [937/3900] Bot6 vs Bot9: Draw
+[14:35:49.141] [938/3900] Bot9 vs Bot6: Draw
+[14:35:49.217] [939/3900] Bot9 vs Bot6: Draw
+[14:35:49.222] [940/3900] Bot9 vs Bot6: Bot6 won
+[14:35:49.227] [941/3900] Bot6 vs Bot10: Bot6 won
+[14:35:49.232] [942/3900] Bot6 vs Bot10: Draw
+[14:35:49.237] [943/3900] Bot10 vs Bot6: Bot6 won
+[14:35:49.242] [944/3900] Bot10 vs Bot6: Draw
+[14:35:49.247] [945/3900] Bot10 vs Bot6: Bot6 won
+[14:35:49.252] [946/3900] Bot6 vs Bot11: Draw
+[14:35:49.257] [947/3900] Bot6 vs Bot11: Bot11 won
+[14:35:49.262] [948/3900] Bot11 vs Bot6: Bot6 won
+[14:35:49.267] [949/3900] Bot11 vs Bot6: Draw
+[14:35:49.352] [950/3900] Bot11 vs Bot6: Draw
+[14:35:49.360] [951/3900] Bot6 vs Bot12: Draw
+[14:35:49.365] [952/3900] Bot6 vs Bot12: Draw
+[14:35:49.370] [953/3900] Bot12 vs Bot6: Bot6 won
+[14:35:49.376] [954/3900] Bot12 vs Bot6: Bot6 won
+[14:35:49.381] [955/3900] Bot12 vs Bot6: Bot12 won
+[14:35:49.386] [956/3900] Bot6 vs Bot13: Bot13 won
+[14:35:49.392] [957/3900] Bot6 vs Bot13: Bot13 won
+[14:35:49.397] [958/3900] Bot13 vs Bot6: Bot6 won
+[14:35:49.402] [959/3900] Bot13 vs Bot6: Bot6 won
+[14:35:49.407] [960/3900] Bot13 vs Bot6: Draw
+[14:35:49.412] [961/3900] Bot6 vs Bot14: Bot6 won
+[14:35:49.417] [962/3900] Bot6 vs Bot14: Bot14 won
+[14:35:49.494] [963/3900] Bot14 vs Bot6: Bot6 won
+[14:35:49.499] [964/3900] Bot14 vs Bot6: Bot6 won
+[14:35:49.504] [965/3900] Bot14 vs Bot6: Bot6 won
+[14:35:49.510] [966/3900] Bot6 vs Bot15: Bot15 won
+[14:35:49.515] [967/3900] Bot6 vs Bot15: Bot15 won
+[14:35:49.520] [968/3900] Bot15 vs Bot6: Bot6 won
+[14:35:49.526] [969/3900] Bot15 vs Bot6: Bot15 won
+[14:35:49.530] [970/3900] Bot15 vs Bot6: Draw
+[14:35:49.535] [971/3900] Bot6 vs Bot16: Bot16 won
+[14:35:49.540] [972/3900] Bot6 vs Bot16: Bot6 won
+[14:35:49.618] [973/3900] Bot16 vs Bot6: Bot16 won
+[14:35:49.623] [974/3900] Bot16 vs Bot6: Bot16 won
+[14:35:49.629] [975/3900] Bot16 vs Bot6: Bot6 won
+[14:35:49.634] [976/3900] Bot6 vs Bot17: Bot17 won
+[14:35:49.640] [977/3900] Bot6 vs Bot17: Draw
+[14:35:49.646] [978/3900] Bot17 vs Bot6: Draw
+[14:35:49.651] [979/3900] Bot17 vs Bot6: Draw
+[14:35:49.656] [980/3900] Bot17 vs Bot6: Draw
+[14:35:49.661] [981/3900] Bot6 vs Bot18: Bot18 won
+[14:35:49.667] [982/3900] Bot6 vs Bot18: Draw
+[14:35:49.672] [983/3900] Bot18 vs Bot6: Bot6 won
+[14:35:49.676] [984/3900] Bot18 vs Bot6: Bot6 won
+[14:35:49.753] [985/3900] Bot18 vs Bot6: Draw
+[14:35:49.758] [986/3900] Bot6 vs Bot19: Bot19 won
+[14:35:49.763] [987/3900] Bot6 vs Bot19: Bot19 won
+[14:35:49.768] [988/3900] Bot19 vs Bot6: Bot6 won
+[14:35:49.773] [989/3900] Bot19 vs Bot6: Bot6 won
+[14:35:49.779] [990/3900] Bot19 vs Bot6: Draw
+[14:35:49.784] [991/3900] Bot6 vs Bot20: Draw
+[14:35:49.789] [992/3900] Bot6 vs Bot20: Bot20 won
+[14:35:49.795] [993/3900] Bot20 vs Bot6: Bot6 won
+[14:35:49.800] [994/3900] Bot20 vs Bot6: Bot6 won
+[14:35:49.808] [995/3900] Bot20 vs Bot6: Draw
+[14:35:49.813] [996/3900] Bot6 vs Bot21: Draw
+[14:35:49.890] [997/3900] Bot6 vs Bot21: Bot21 won
+[14:35:49.895] [998/3900] Bot21 vs Bot6: Bot21 won
+[14:35:49.900] [999/3900] Bot21 vs Bot6: Draw
+[14:35:49.905] [1000/3900] Bot21 vs Bot6: Draw
+[14:35:49.910] [1001/3900] Bot6 vs Bot22: Draw
+[14:35:49.915] [1002/3900] Bot6 vs Bot22: Draw
+[14:35:49.920] [1003/3900] Bot22 vs Bot6: Draw
+[14:35:49.924] [1004/3900] Bot22 vs Bot6: Bot6 won
+[14:35:49.930] [1005/3900] Bot22 vs Bot6: Draw
+[14:35:49.934] [1006/3900] Bot6 vs Bot23: Bot23 won
+[14:35:49.940] [1007/3900] Bot6 vs Bot23: Draw
+[14:35:49.945] [1008/3900] Bot23 vs Bot6: Bot6 won
+[14:35:50.022] [1009/3900] Bot23 vs Bot6: Draw
+[14:35:50.028] [1010/3900] Bot23 vs Bot6: Draw
+[14:35:50.033] [1011/3900] Bot6 vs Bot24: Draw
+[14:35:50.038] [1012/3900] Bot6 vs Bot24: Draw
+[14:35:50.043] [1013/3900] Bot24 vs Bot6: Bot24 won
+[14:35:50.048] [1014/3900] Bot24 vs Bot6: Draw
+[14:35:50.054] [1015/3900] Bot24 vs Bot6: Draw
+[14:35:50.059] [1016/3900] Bot6 vs Bot25: Draw
+[14:35:50.064] [1017/3900] Bot6 vs Bot25: Draw
+[14:35:50.069] [1018/3900] Bot25 vs Bot6: Draw
+[14:35:50.075] [1019/3900] Bot25 vs Bot6: Draw
+[14:35:50.080] [1020/3900] Bot25 vs Bot6: Bot6 won
+[14:35:50.156] [1021/3900] Bot6 vs Bot26: Draw
+[14:35:50.165] [1022/3900] Bot6 vs Bot26: Bot26 won
+[14:35:50.170] [1023/3900] Bot26 vs Bot6: Bot6 won
+[14:35:50.174] [1024/3900] Bot26 vs Bot6: Draw
+[14:35:50.179] [1025/3900] Bot26 vs Bot6: Draw
+[14:35:50.184] [1026/3900] Bot6 vs Bot27: Bot6 won
+[14:35:50.189] [1027/3900] Bot6 vs Bot27: Bot27 won
+[14:35:50.194] [1028/3900] Bot27 vs Bot6: Bot27 won
+[14:35:50.199] [1029/3900] Bot27 vs Bot6: Bot6 won
+[14:35:50.204] [1030/3900] Bot27 vs Bot6: Bot6 won
+[14:35:50.209] [1031/3900] Bot6 vs Bot28: Draw
+[14:35:50.214] [1032/3900] Bot6 vs Bot28: Draw
+[14:35:50.219] [1033/3900] Bot28 vs Bot6: Draw
+[14:35:50.224] [1034/3900] Bot28 vs Bot6: Bot6 won
+[14:35:50.299] [1035/3900] Bot28 vs Bot6: Bot6 won
+[14:35:50.304] [1036/3900] Bot6 vs Bot29: Bot29 won
+[14:35:50.309] [1037/3900] Bot6 vs Bot29: Draw
+[14:35:50.314] [1038/3900] Bot29 vs Bot6: Bot29 won
+[14:35:50.319] [1039/3900] Bot29 vs Bot6: Bot6 won
+[14:35:50.325] [1040/3900] Bot29 vs Bot6: Bot29 won
+[14:35:50.330] [1041/3900] Bot6 vs Bot30: Bot30 won
+[14:35:50.335] [1042/3900] Bot6 vs Bot30: Draw
+[14:35:50.340] [1043/3900] Bot30 vs Bot6: Bot6 won
+[14:35:50.345] [1044/3900] Bot30 vs Bot6: Bot6 won
+[14:35:50.351] [1045/3900] Bot30 vs Bot6: Bot6 won
+[14:35:50.356] [1046/3900] Bot6 vs Bot31: Bot31 won
+[14:35:50.361] [1047/3900] Bot6 vs Bot31: Bot31 won
+[14:35:50.367] [1048/3900] Bot31 vs Bot6: Bot31 won
+[14:35:50.379] [1049/3900] Bot31 vs Bot6: Draw
+[14:35:50.384] [1050/3900] Bot31 vs Bot6: Draw
+[14:35:50.390] [1051/3900] Bot6 vs Bot32: Draw
+[14:35:50.396] [1052/3900] Bot6 vs Bot32: Bot32 won
+[14:35:50.471] [1053/3900] Bot32 vs Bot6: Draw
+[14:35:50.477] [1054/3900] Bot32 vs Bot6: Bot6 won
+[14:35:50.482] [1055/3900] Bot32 vs Bot6: Draw
+[14:35:50.487] [1056/3900] Bot6 vs Bot33: Draw
+[14:35:50.493] [1057/3900] Bot6 vs Bot33: Bot33 won
+[14:35:50.499] [1058/3900] Bot33 vs Bot6: Bot6 won
+[14:35:50.504] [1059/3900] Bot33 vs Bot6: Bot6 won
+[14:35:50.509] [1060/3900] Bot33 vs Bot6: Draw
+[14:35:50.515] [1061/3900] Bot6 vs Bot34: Draw
+[14:35:50.520] [1062/3900] Bot6 vs Bot34: Bot34 won
+[14:35:50.526] [1063/3900] Bot34 vs Bot6: Draw
+[14:35:50.531] [1064/3900] Bot34 vs Bot6: Bot6 won
+[14:35:50.537] [1065/3900] Bot34 vs Bot6: Draw
+[14:35:50.542] [1066/3900] Bot6 vs Bot35: Draw
+[14:35:50.548] [1067/3900] Bot6 vs Bot35: Bot35 won
+[14:35:50.553] [1068/3900] Bot35 vs Bot6: Draw
+[14:35:50.559] [1069/3900] Bot35 vs Bot6: Bot6 won
+[14:35:50.564] [1070/3900] Bot35 vs Bot6: Draw
+[14:35:50.569] [1071/3900] Bot6 vs Bot36: Bot36 won
+[14:35:50.574] [1072/3900] Bot6 vs Bot36: Draw
+[14:35:50.580] [1073/3900] Bot36 vs Bot6: Draw
+[14:35:50.585] [1074/3900] Bot36 vs Bot6: Bot6 won
+[14:35:50.661] [1075/3900] Bot36 vs Bot6: Bot6 won
+[14:35:50.667] [1076/3900] Bot6 vs Bot37: Draw
+[14:35:50.673] [1077/3900] Bot6 vs Bot37: Draw
+[14:35:50.678] [1078/3900] Bot37 vs Bot6: Bot6 won
+[14:35:50.683] [1079/3900] Bot37 vs Bot6: Draw
+[14:35:50.689] [1080/3900] Bot37 vs Bot6: Draw
+[14:35:50.695] [1081/3900] Bot6 vs Bot38: Draw
+[14:35:50.700] [1082/3900] Bot6 vs Bot38: Draw
+[14:35:50.704] [1083/3900] Bot38 vs Bot6: Bot6 won
+[14:35:50.708] [1084/3900] Bot38 vs Bot6: Bot6 won
+[14:35:50.784] [1085/3900] Bot38 vs Bot6: Draw
+[14:35:50.789] [1086/3900] Bot6 vs Bot39: Draw
+[14:35:50.795] [1087/3900] Bot6 vs Bot39: Draw
+[14:35:50.800] [1088/3900] Bot39 vs Bot6: Draw
+[14:35:50.804] [1089/3900] Bot39 vs Bot6: Bot6 won
+[14:35:50.809] [1090/3900] Bot39 vs Bot6: Bot6 won
+[14:35:50.815] [1091/3900] Bot6 vs Bot40: Draw
+[14:35:50.819] [1092/3900] Bot6 vs Bot40: Bot40 won
+[14:35:50.825] [1093/3900] Bot40 vs Bot6: Draw
+[14:35:50.830] [1094/3900] Bot40 vs Bot6: Draw
+[14:35:50.835] [1095/3900] Bot40 vs Bot6: Bot6 won
+[14:35:50.840] [1096/3900] Bot7 vs Bot8: Draw
+[14:35:50.915] [1097/3900] Bot7 vs Bot8: Draw
+[14:35:50.920] [1098/3900] Bot8 vs Bot7: Draw
+[14:35:50.926] [1099/3900] Bot8 vs Bot7: Bot7 won
+[14:35:50.931] [1100/3900] Bot8 vs Bot7: Bot7 won
+[14:35:50.936] [1101/3900] Bot7 vs Bot9: Bot7 won
+[14:35:50.941] [1102/3900] Bot7 vs Bot9: Draw
+[14:35:50.945] [1103/3900] Bot9 vs Bot7: Bot7 won
+[14:35:50.951] [1104/3900] Bot9 vs Bot7: Draw
+[14:35:50.956] [1105/3900] Bot9 vs Bot7: Bot7 won
+[14:35:50.961] [1106/3900] Bot7 vs Bot10: Draw
+[14:35:50.966] [1107/3900] Bot7 vs Bot10: Draw
+[14:35:50.970] [1108/3900] Bot10 vs Bot7: Draw
+[14:35:51.046] [1109/3900] Bot10 vs Bot7: Bot7 won
+[14:35:51.052] [1110/3900] Bot10 vs Bot7: Bot7 won
+[14:35:51.057] [1111/3900] Bot7 vs Bot11: Bot7 won
+[14:35:51.063] [1112/3900] Bot7 vs Bot11: Draw
+[14:35:51.068] [1113/3900] Bot11 vs Bot7: Bot11 won
+[14:35:51.073] [1114/3900] Bot11 vs Bot7: Draw
+[14:35:51.079] [1115/3900] Bot11 vs Bot7: Bot7 won
+[14:35:51.084] [1116/3900] Bot7 vs Bot12: Draw
+[14:35:51.089] [1117/3900] Bot7 vs Bot12: Draw
+[14:35:51.095] [1118/3900] Bot12 vs Bot7: Bot7 won
+[14:35:51.100] [1119/3900] Bot12 vs Bot7: Draw
+[14:35:51.110] [1120/3900] Bot12 vs Bot7: Bot7 won
+[14:35:51.186] [1121/3900] Bot7 vs Bot13: Draw
+[14:35:51.191] [1122/3900] Bot7 vs Bot13: Bot13 won
+[14:35:51.197] [1123/3900] Bot13 vs Bot7: Bot7 won
+[14:35:51.202] [1124/3900] Bot13 vs Bot7: Draw
+[14:35:51.206] [1125/3900] Bot13 vs Bot7: Bot7 won
+[14:35:51.211] [1126/3900] Bot7 vs Bot14: Bot7 won
+[14:35:51.217] [1127/3900] Bot7 vs Bot14: Bot7 won
+[14:35:51.222] [1128/3900] Bot14 vs Bot7: Bot7 won
+[14:35:51.228] [1129/3900] Bot14 vs Bot7: Draw
+[14:35:51.233] [1130/3900] Bot14 vs Bot7: Bot14 won
+[14:35:51.237] [1131/3900] Bot7 vs Bot15: Bot15 won
+[14:35:51.243] [1132/3900] Bot7 vs Bot15: Draw
+[14:35:51.319] [1133/3900] Bot15 vs Bot7: Draw
+[14:35:51.325] [1134/3900] Bot15 vs Bot7: Draw
+[14:35:51.330] [1135/3900] Bot15 vs Bot7: Bot7 won
+[14:35:51.336] [1136/3900] Bot7 vs Bot16: Draw
+[14:35:51.343] [1137/3900] Bot7 vs Bot16: Bot16 won
+[14:35:51.352] [1138/3900] Bot16 vs Bot7: Bot7 won
+[14:35:51.357] [1139/3900] Bot16 vs Bot7: Bot7 won
+[14:35:51.363] [1140/3900] Bot16 vs Bot7: Draw
+[14:35:51.368] [1141/3900] Bot7 vs Bot17: Draw
+[14:35:51.374] [1142/3900] Bot7 vs Bot17: Draw
+[14:35:51.449] [1143/3900] Bot17 vs Bot7: Draw
+[14:35:51.453] [1144/3900] Bot17 vs Bot7: Bot7 won
+[14:35:51.459] [1145/3900] Bot17 vs Bot7: Draw
+[14:35:51.463] [1146/3900] Bot7 vs Bot18: Bot18 won
+[14:35:51.468] [1147/3900] Bot7 vs Bot18: Draw
+[14:35:51.473] [1148/3900] Bot18 vs Bot7: Bot18 won
+[14:35:51.478] [1149/3900] Bot18 vs Bot7: Draw
+[14:35:51.483] [1150/3900] Bot18 vs Bot7: Draw
+[14:35:51.488] [1151/3900] Bot7 vs Bot19: Bot19 won
+[14:35:51.493] [1152/3900] Bot7 vs Bot19: Bot19 won
+[14:35:51.498] [1153/3900] Bot19 vs Bot7: Draw
+[14:35:51.573] [1154/3900] Bot19 vs Bot7: Draw
+[14:35:51.578] [1155/3900] Bot19 vs Bot7: Bot7 won
+[14:35:51.583] [1156/3900] Bot7 vs Bot20: Draw
+[14:35:51.588] [1157/3900] Bot7 vs Bot20: Draw
+[14:35:51.593] [1158/3900] Bot20 vs Bot7: Draw
+[14:35:51.598] [1159/3900] Bot20 vs Bot7: Draw
+[14:35:51.604] [1160/3900] Bot20 vs Bot7: Bot7 won
+[14:35:51.609] [1161/3900] Bot7 vs Bot21: Bot21 won
+[14:35:51.614] [1162/3900] Bot7 vs Bot21: Draw
+[14:35:51.619] [1163/3900] Bot21 vs Bot7: Bot7 won
+[14:35:51.624] [1164/3900] Bot21 vs Bot7: Draw
+[14:35:51.628] [1165/3900] Bot21 vs Bot7: Bot7 won
+[14:35:51.634] [1166/3900] Bot7 vs Bot22: Bot22 won
+[14:35:51.709] [1167/3900] Bot7 vs Bot22: Bot22 won
+[14:35:51.715] [1168/3900] Bot22 vs Bot7: Bot7 won
+[14:35:51.719] [1169/3900] Bot22 vs Bot7: Draw
+[14:35:51.724] [1170/3900] Bot22 vs Bot7: Bot7 won
+[14:35:51.729] [1171/3900] Bot7 vs Bot23: Draw
+[14:35:51.734] [1172/3900] Bot7 vs Bot23: Bot23 won
+[14:35:51.739] [1173/3900] Bot23 vs Bot7: Bot7 won
+[14:35:51.745] [1174/3900] Bot23 vs Bot7: Bot7 won
+[14:35:51.750] [1175/3900] Bot23 vs Bot7: Draw
+[14:35:51.755] [1176/3900] Bot7 vs Bot24: Bot24 won
+[14:35:51.761] [1177/3900] Bot7 vs Bot24: Draw
+[14:35:51.765] [1178/3900] Bot24 vs Bot7: Draw
+[14:35:51.770] [1179/3900] Bot24 vs Bot7: Draw
+[14:35:51.847] [1180/3900] Bot24 vs Bot7: Draw
+[14:35:51.852] [1181/3900] Bot7 vs Bot25: Draw
+[14:35:51.858] [1182/3900] Bot7 vs Bot25: Bot25 won
+[14:35:51.863] [1183/3900] Bot25 vs Bot7: Draw
+[14:35:51.868] [1184/3900] Bot25 vs Bot7: Draw
+[14:35:51.874] [1185/3900] Bot25 vs Bot7: Draw
+[14:35:51.879] [1186/3900] Bot7 vs Bot26: Draw
+[14:35:51.884] [1187/3900] Bot7 vs Bot26: Draw
+[14:35:51.889] [1188/3900] Bot26 vs Bot7: Draw
+[14:35:51.895] [1189/3900] Bot26 vs Bot7: Bot7 won
+[14:35:51.970] [1190/3900] Bot26 vs Bot7: Draw
+[14:35:51.975] [1191/3900] Bot7 vs Bot27: Bot27 won
+[14:35:51.980] [1192/3900] Bot7 vs Bot27: Draw
+[14:35:51.986] [1193/3900] Bot27 vs Bot7: Draw
+[14:35:51.992] [1194/3900] Bot27 vs Bot7: Draw
+[14:35:51.997] [1195/3900] Bot27 vs Bot7: Draw
+[14:35:52.002] [1196/3900] Bot7 vs Bot28: Bot28 won
+[14:35:52.007] [1197/3900] Bot7 vs Bot28: Draw
+[14:35:52.013] [1198/3900] Bot28 vs Bot7: Draw
+[14:35:52.020] [1199/3900] Bot28 vs Bot7: Bot7 won
+[14:35:52.024] [1200/3900] Bot28 vs Bot7: Draw
+[14:35:52.030] [1201/3900] Bot7 vs Bot29: Bot29 won
+[14:35:52.036] [1202/3900] Bot7 vs Bot29: Bot29 won
+[14:35:52.047] [1203/3900] Bot29 vs Bot7: Bot7 won
+[14:35:52.052] [1204/3900] Bot29 vs Bot7: Bot29 won
+[14:35:52.058] [1205/3900] Bot29 vs Bot7: Bot7 won
+[14:35:52.063] [1206/3900] Bot7 vs Bot30: Draw
+[14:35:52.068] [1207/3900] Bot7 vs Bot30: Draw
+[14:35:52.073] [1208/3900] Bot30 vs Bot7: Draw
+[14:35:52.078] [1209/3900] Bot30 vs Bot7: Draw
+[14:35:52.083] [1210/3900] Bot30 vs Bot7: Bot7 won
+[14:35:52.087] [1211/3900] Bot7 vs Bot31: Bot31 won
+[14:35:52.093] [1212/3900] Bot7 vs Bot31: Draw
+[14:35:52.169] [1213/3900] Bot31 vs Bot7: Draw
+[14:35:52.174] [1214/3900] Bot31 vs Bot7: Draw
+[14:35:52.178] [1215/3900] Bot31 vs Bot7: Bot7 won
+[14:35:52.183] [1216/3900] Bot7 vs Bot32: Bot32 won
+[14:35:52.188] [1217/3900] Bot7 vs Bot32: Draw
+[14:35:52.193] [1218/3900] Bot32 vs Bot7: Bot7 won
+[14:35:52.198] [1219/3900] Bot32 vs Bot7: Bot32 won
+[14:35:52.203] [1220/3900] Bot32 vs Bot7: Bot7 won
+[14:35:52.208] [1221/3900] Bot7 vs Bot33: Bot7 won
+[14:35:52.213] [1222/3900] Bot7 vs Bot33: Bot33 won
+[14:35:52.218] [1223/3900] Bot33 vs Bot7: Bot7 won
+[14:35:52.223] [1224/3900] Bot33 vs Bot7: Bot7 won
+[14:35:52.228] [1225/3900] Bot33 vs Bot7: Draw
+[14:35:52.233] [1226/3900] Bot7 vs Bot34: Bot34 won
+[14:35:52.238] [1227/3900] Bot7 vs Bot34: Draw
+[14:35:52.243] [1228/3900] Bot34 vs Bot7: Bot7 won
+[14:35:52.248] [1229/3900] Bot34 vs Bot7: Draw
+[14:35:52.254] [1230/3900] Bot34 vs Bot7: Bot7 won
+[14:35:52.259] [1231/3900] Bot7 vs Bot35: Draw
+[14:35:52.264] [1232/3900] Bot7 vs Bot35: Bot7 won
+[14:35:52.269] [1233/3900] Bot35 vs Bot7: Bot7 won
+[14:35:52.275] [1234/3900] Bot35 vs Bot7: Draw
+[14:35:52.280] [1235/3900] Bot35 vs Bot7: Bot7 won
+[14:35:52.284] [1236/3900] Bot7 vs Bot36: Bot7 won
+[14:35:52.290] [1237/3900] Bot7 vs Bot36: Draw
+[14:35:52.296] [1238/3900] Bot36 vs Bot7: Draw
+[14:35:52.301] [1239/3900] Bot36 vs Bot7: Draw
+[14:35:52.305] [1240/3900] Bot36 vs Bot7: Bot7 won
+[14:35:52.310] [1241/3900] Bot7 vs Bot37: Draw
+[14:35:52.386] [1242/3900] Bot7 vs Bot37: Bot37 won
+[14:35:52.392] [1243/3900] Bot37 vs Bot7: Draw
+[14:35:52.397] [1244/3900] Bot37 vs Bot7: Bot7 won
+[14:35:52.402] [1245/3900] Bot37 vs Bot7: Draw
+[14:35:52.408] [1246/3900] Bot7 vs Bot38: Bot38 won
+[14:35:52.413] [1247/3900] Bot7 vs Bot38: Draw
+[14:35:52.418] [1248/3900] Bot38 vs Bot7: Bot7 won
+[14:35:52.423] [1249/3900] Bot38 vs Bot7: Draw
+[14:35:52.429] [1250/3900] Bot38 vs Bot7: Draw
+[14:35:52.434] [1251/3900] Bot7 vs Bot39: Draw
+[14:35:52.439] [1252/3900] Bot7 vs Bot39: Draw
+[14:35:52.445] [1253/3900] Bot39 vs Bot7: Bot7 won
+[14:35:52.450] [1254/3900] Bot39 vs Bot7: Bot7 won
+[14:35:52.455] [1255/3900] Bot39 vs Bot7: Draw
+[14:35:52.531] [1256/3900] Bot7 vs Bot40: Draw
+[14:35:52.537] [1257/3900] Bot7 vs Bot40: Draw
+[14:35:52.542] [1258/3900] Bot40 vs Bot7: Bot40 won
+[14:35:52.547] [1259/3900] Bot40 vs Bot7: Draw
+[14:35:52.553] [1260/3900] Bot40 vs Bot7: Draw
+[14:35:52.558] [1261/3900] Bot8 vs Bot9: Draw
+[14:35:52.564] [1262/3900] Bot8 vs Bot9: Bot9 won
+[14:35:52.570] [1263/3900] Bot9 vs Bot8: Bot9 won
+[14:35:52.575] [1264/3900] Bot9 vs Bot8: Bot8 won
+[14:35:52.580] [1265/3900] Bot9 vs Bot8: Bot8 won
+[14:35:52.585] [1266/3900] Bot8 vs Bot10: Bot8 won
+[14:35:52.592] [1267/3900] Bot8 vs Bot10: Draw
+[14:35:52.668] [1268/3900] Bot10 vs Bot8: Draw
+[14:35:52.674] [1269/3900] Bot10 vs Bot8: Bot8 won
+[14:35:52.679] [1270/3900] Bot10 vs Bot8: Draw
+[14:35:52.684] [1271/3900] Bot8 vs Bot11: Bot11 won
+[14:35:52.689] [1272/3900] Bot8 vs Bot11: Bot11 won
+[14:35:52.694] [1273/3900] Bot11 vs Bot8: Bot8 won
+[14:35:52.699] [1274/3900] Bot11 vs Bot8: Bot11 won
+[14:35:52.708] [1275/3900] Bot11 vs Bot8: Draw
+[14:35:52.713] [1276/3900] Bot8 vs Bot12: Draw
+[14:35:52.718] [1277/3900] Bot8 vs Bot12: Bot12 won
+[14:35:52.723] [1278/3900] Bot12 vs Bot8: Bot12 won
+[14:35:52.729] [1279/3900] Bot12 vs Bot8: Bot8 won
+[14:35:52.804] [1280/3900] Bot12 vs Bot8: Draw
+[14:35:52.810] [1281/3900] Bot8 vs Bot13: Bot13 won
+[14:35:52.815] [1282/3900] Bot8 vs Bot13: Bot13 won
+[14:35:52.819] [1283/3900] Bot13 vs Bot8: Bot8 won
+[14:35:52.825] [1284/3900] Bot13 vs Bot8: Bot8 won
+[14:35:52.830] [1285/3900] Bot13 vs Bot8: Bot8 won
+[14:35:52.834] [1286/3900] Bot8 vs Bot14: Bot8 won
+[14:35:52.839] [1287/3900] Bot8 vs Bot14: Draw
+[14:35:52.845] [1288/3900] Bot14 vs Bot8: Draw
+[14:35:52.850] [1289/3900] Bot14 vs Bot8: Draw
+[14:35:52.855] [1290/3900] Bot14 vs Bot8: Draw
+[14:35:52.860] [1291/3900] Bot8 vs Bot15: Bot15 won
+[14:35:52.865] [1292/3900] Bot8 vs Bot15: Draw
+[14:35:52.869] [1293/3900] Bot15 vs Bot8: Draw
+[14:35:52.945] [1294/3900] Bot15 vs Bot8: Bot8 won
+[14:35:52.949] [1295/3900] Bot15 vs Bot8: Draw
+[14:35:52.955] [1296/3900] Bot8 vs Bot16: Bot16 won
+[14:35:52.960] [1297/3900] Bot8 vs Bot16: Draw
+[14:35:52.965] [1298/3900] Bot16 vs Bot8: Draw
+[14:35:52.970] [1299/3900] Bot16 vs Bot8: Bot8 won
+[14:35:52.975] [1300/3900] Bot16 vs Bot8: Bot8 won
+[14:35:52.980] [1301/3900] Bot8 vs Bot17: Bot17 won
+[14:35:52.986] [1302/3900] Bot8 vs Bot17: Draw
+[14:35:52.991] [1303/3900] Bot17 vs Bot8: Draw
+[14:35:52.996] [1304/3900] Bot17 vs Bot8: Bot8 won
+[14:35:53.001] [1305/3900] Bot17 vs Bot8: Bot8 won
+[14:35:53.006] [1306/3900] Bot8 vs Bot18: Bot18 won
+[14:35:53.082] [1307/3900] Bot8 vs Bot18: Draw
+[14:35:53.088] [1308/3900] Bot18 vs Bot8: Bot8 won
+[14:35:53.093] [1309/3900] Bot18 vs Bot8: Bot18 won
+[14:35:53.098] [1310/3900] Bot18 vs Bot8: Bot8 won
+[14:35:53.103] [1311/3900] Bot8 vs Bot19: Bot19 won
+[14:35:53.108] [1312/3900] Bot8 vs Bot19: Bot19 won
+[14:35:53.114] [1313/3900] Bot19 vs Bot8: Bot8 won
+[14:35:53.119] [1314/3900] Bot19 vs Bot8: Bot8 won
+[14:35:53.124] [1315/3900] Bot19 vs Bot8: Draw
+[14:35:53.129] [1316/3900] Bot8 vs Bot20: Bot20 won
+[14:35:53.134] [1317/3900] Bot8 vs Bot20: Bot20 won
+[14:35:53.211] [1318/3900] Bot20 vs Bot8: Bot8 won
+[14:35:53.216] [1319/3900] Bot20 vs Bot8: Bot20 won
+[14:35:53.221] [1320/3900] Bot20 vs Bot8: Bot8 won
+[14:35:53.227] [1321/3900] Bot8 vs Bot21: Bot21 won
+[14:35:53.232] [1322/3900] Bot8 vs Bot21: Draw
+[14:35:53.237] [1323/3900] Bot21 vs Bot8: Bot8 won
+[14:35:53.243] [1324/3900] Bot21 vs Bot8: Bot8 won
+[14:35:53.248] [1325/3900] Bot21 vs Bot8: Bot8 won
+[14:35:53.253] [1326/3900] Bot8 vs Bot22: Bot22 won
+[14:35:53.259] [1327/3900] Bot8 vs Bot22: Bot22 won
+[14:35:53.265] [1328/3900] Bot22 vs Bot8: Draw
+[14:35:53.269] [1329/3900] Bot22 vs Bot8: Bot8 won
+[14:35:53.275] [1330/3900] Bot22 vs Bot8: Bot8 won
+[14:35:53.280] [1331/3900] Bot8 vs Bot23: Draw
+[14:35:53.285] [1332/3900] Bot8 vs Bot23: Bot8 won
+[14:35:53.290] [1333/3900] Bot23 vs Bot8: Bot8 won
+[14:35:53.365] [1334/3900] Bot23 vs Bot8: Draw
+[14:35:53.370] [1335/3900] Bot23 vs Bot8: Draw
+[14:35:53.375] [1336/3900] Bot8 vs Bot24: Bot24 won
+[14:35:53.380] [1337/3900] Bot8 vs Bot24: Draw
+[14:35:53.385] [1338/3900] Bot24 vs Bot8: Draw
+[14:35:53.390] [1339/3900] Bot24 vs Bot8: Draw
+[14:35:53.395] [1340/3900] Bot24 vs Bot8: Bot8 won
+[14:35:53.400] [1341/3900] Bot8 vs Bot25: Draw
+[14:35:53.405] [1342/3900] Bot8 vs Bot25: Bot25 won
+[14:35:53.410] [1343/3900] Bot25 vs Bot8: Bot8 won
+[14:35:53.415] [1344/3900] Bot25 vs Bot8: Draw
+[14:35:53.420] [1345/3900] Bot25 vs Bot8: Bot8 won
+[14:35:53.426] [1346/3900] Bot8 vs Bot26: Bot26 won
+[14:35:53.431] [1347/3900] Bot8 vs Bot26: Bot26 won
+[14:35:53.436] [1348/3900] Bot26 vs Bot8: Bot8 won
+[14:35:53.511] [1349/3900] Bot26 vs Bot8: Bot8 won
+[14:35:53.516] [1350/3900] Bot26 vs Bot8: Draw
+[14:35:53.521] [1351/3900] Bot8 vs Bot27: Bot27 won
+[14:35:53.526] [1352/3900] Bot8 vs Bot27: Draw
+[14:35:53.531] [1353/3900] Bot27 vs Bot8: Draw
+[14:35:53.536] [1354/3900] Bot27 vs Bot8: Bot8 won
+[14:35:53.541] [1355/3900] Bot27 vs Bot8: Draw
+[14:35:53.546] [1356/3900] Bot8 vs Bot28: Bot28 won
+[14:35:53.551] [1357/3900] Bot8 vs Bot28: Draw
+[14:35:53.556] [1358/3900] Bot28 vs Bot8: Bot8 won
+[14:35:53.561] [1359/3900] Bot28 vs Bot8: Draw
+[14:35:53.566] [1360/3900] Bot28 vs Bot8: Draw
+[14:35:53.572] [1361/3900] Bot8 vs Bot29: Draw
+[14:35:53.577] [1362/3900] Bot8 vs Bot29: Bot29 won
+[14:35:53.652] [1363/3900] Bot29 vs Bot8: Bot8 won
+[14:35:53.658] [1364/3900] Bot29 vs Bot8: Draw
+[14:35:53.663] [1365/3900] Bot29 vs Bot8: Draw
+[14:35:53.668] [1366/3900] Bot8 vs Bot30: Draw
+[14:35:53.673] [1367/3900] Bot8 vs Bot30: Bot30 won
+[14:35:53.679] [1368/3900] Bot30 vs Bot8: Bot8 won
+[14:35:53.685] [1369/3900] Bot30 vs Bot8: Bot8 won
+[14:35:53.690] [1370/3900] Bot30 vs Bot8: Bot8 won
+[14:35:53.694] [1371/3900] Bot8 vs Bot31: Draw
+[14:35:53.699] [1372/3900] Bot8 vs Bot31: Draw
+[14:35:53.776] [1373/3900] Bot31 vs Bot8: Draw
+[14:35:53.781] [1374/3900] Bot31 vs Bot8: Bot8 won
+[14:35:53.785] [1375/3900] Bot31 vs Bot8: Bot8 won
+[14:35:53.791] [1376/3900] Bot8 vs Bot32: Bot32 won
+[14:35:53.795] [1377/3900] Bot8 vs Bot32: Draw
+[14:35:53.800] [1378/3900] Bot32 vs Bot8: Bot8 won
+[14:35:53.806] [1379/3900] Bot32 vs Bot8: Bot8 won
+[14:35:53.811] [1380/3900] Bot32 vs Bot8: Bot32 won
+[14:35:53.816] [1381/3900] Bot8 vs Bot33: Bot33 won
+[14:35:53.821] [1382/3900] Bot8 vs Bot33: Bot33 won
+[14:35:53.826] [1383/3900] Bot33 vs Bot8: Draw
+[14:35:53.831] [1384/3900] Bot33 vs Bot8: Bot33 won
+[14:35:53.907] [1385/3900] Bot33 vs Bot8: Bot33 won
+[14:35:53.912] [1386/3900] Bot8 vs Bot34: Draw
+[14:35:53.918] [1387/3900] Bot8 vs Bot34: Bot34 won
+[14:35:53.923] [1388/3900] Bot34 vs Bot8: Draw
+[14:35:53.928] [1389/3900] Bot34 vs Bot8: Draw
+[14:35:53.934] [1390/3900] Bot34 vs Bot8: Draw
+[14:35:53.939] [1391/3900] Bot8 vs Bot35: Bot35 won
+[14:35:53.945] [1392/3900] Bot8 vs Bot35: Bot35 won
+[14:35:53.950] [1393/3900] Bot35 vs Bot8: Draw
+[14:35:53.955] [1394/3900] Bot35 vs Bot8: Draw
+[14:35:53.960] [1395/3900] Bot35 vs Bot8: Bot8 won
+[14:35:54.036] [1396/3900] Bot8 vs Bot36: Draw
+[14:35:54.040] [1397/3900] Bot8 vs Bot36: Draw
+[14:35:54.045] [1398/3900] Bot36 vs Bot8: Bot8 won
+[14:35:54.049] [1399/3900] Bot36 vs Bot8: Bot8 won
+[14:35:54.054] [1400/3900] Bot36 vs Bot8: Draw
+[14:35:54.059] [1401/3900] Bot8 vs Bot37: Bot37 won
+[14:35:54.064] [1402/3900] Bot8 vs Bot37: Bot37 won
+[14:35:54.068] [1403/3900] Bot37 vs Bot8: Bot8 won
+[14:35:54.076] [1404/3900] Bot37 vs Bot8: Draw
+[14:35:54.082] [1405/3900] Bot37 vs Bot8: Draw
+[14:35:54.087] [1406/3900] Bot8 vs Bot38: Bot8 won
+[14:35:54.093] [1407/3900] Bot8 vs Bot38: Draw
+[14:35:54.098] [1408/3900] Bot38 vs Bot8: Draw
+[14:35:54.103] [1409/3900] Bot38 vs Bot8: Bot8 won
+[14:35:54.112] [1410/3900] Bot38 vs Bot8: Draw
+[14:35:54.116] [1411/3900] Bot8 vs Bot39: Draw
+[14:35:54.121] [1412/3900] Bot8 vs Bot39: Bot39 won
+[14:35:54.125] [1413/3900] Bot39 vs Bot8: Bot8 won
+[14:35:54.130] [1414/3900] Bot39 vs Bot8: Draw
+[14:35:54.135] [1415/3900] Bot39 vs Bot8: Bot8 won
+[14:35:54.140] [1416/3900] Bot8 vs Bot40: Draw
+[14:35:54.145] [1417/3900] Bot8 vs Bot40: Bot8 won
+[14:35:54.221] [1418/3900] Bot40 vs Bot8: Bot8 won
+[14:35:54.227] [1419/3900] Bot40 vs Bot8: Bot8 won
+[14:35:54.231] [1420/3900] Bot40 vs Bot8: Draw
+[14:35:54.235] [1421/3900] Bot9 vs Bot10: Bot10 won
+[14:35:54.240] [1422/3900] Bot9 vs Bot10: Draw
+[14:35:54.245] [1423/3900] Bot10 vs Bot9: Draw
+[14:35:54.250] [1424/3900] Bot10 vs Bot9: Bot9 won
+[14:35:54.255] [1425/3900] Bot10 vs Bot9: Draw
+[14:35:54.260] [1426/3900] Bot9 vs Bot11: Bot11 won
+[14:35:54.265] [1427/3900] Bot9 vs Bot11: Bot11 won
+[14:35:54.270] [1428/3900] Bot11 vs Bot9: Draw
+[14:35:54.275] [1429/3900] Bot11 vs Bot9: Draw
+[14:35:54.350] [1430/3900] Bot11 vs Bot9: Draw
+[14:35:54.357] [1431/3900] Bot9 vs Bot12: Bot9 won
+[14:35:54.362] [1432/3900] Bot9 vs Bot12: Bot12 won
+[14:35:54.366] [1433/3900] Bot12 vs Bot9: Bot9 won
+[14:35:54.371] [1434/3900] Bot12 vs Bot9: Draw
+[14:35:54.376] [1435/3900] Bot12 vs Bot9: Bot9 won
+[14:35:54.381] [1436/3900] Bot9 vs Bot13: Bot13 won
+[14:35:54.387] [1437/3900] Bot9 vs Bot13: Draw
+[14:35:54.392] [1438/3900] Bot13 vs Bot9: Bot9 won
+[14:35:54.397] [1439/3900] Bot13 vs Bot9: Bot13 won
+[14:35:54.402] [1440/3900] Bot13 vs Bot9: Bot9 won
+[14:35:54.407] [1441/3900] Bot9 vs Bot14: Draw
+[14:35:54.412] [1442/3900] Bot9 vs Bot14: Draw
+[14:35:54.488] [1443/3900] Bot14 vs Bot9: Draw
+[14:35:54.494] [1444/3900] Bot14 vs Bot9: Draw
+[14:35:54.498] [1445/3900] Bot14 vs Bot9: Draw
+[14:35:54.503] [1446/3900] Bot9 vs Bot15: Draw
+[14:35:54.509] [1447/3900] Bot9 vs Bot15: Bot15 won
+[14:35:54.514] [1448/3900] Bot15 vs Bot9: Bot9 won
+[14:35:54.519] [1449/3900] Bot15 vs Bot9: Draw
+[14:35:54.524] [1450/3900] Bot15 vs Bot9: Draw
+[14:35:54.529] [1451/3900] Bot9 vs Bot16: Bot16 won
+[14:35:54.534] [1452/3900] Bot9 vs Bot16: Bot16 won
+[14:35:54.539] [1453/3900] Bot16 vs Bot9: Draw
+[14:35:54.544] [1454/3900] Bot16 vs Bot9: Draw
+[14:35:54.549] [1455/3900] Bot16 vs Bot9: Draw
+[14:35:54.625] [1456/3900] Bot9 vs Bot17: Draw
+[14:35:54.630] [1457/3900] Bot9 vs Bot17: Draw
+[14:35:54.635] [1458/3900] Bot17 vs Bot9: Bot9 won
+[14:35:54.640] [1459/3900] Bot17 vs Bot9: Bot9 won
+[14:35:54.646] [1460/3900] Bot17 vs Bot9: Draw
+[14:35:54.651] [1461/3900] Bot9 vs Bot18: Draw
+[14:35:54.656] [1462/3900] Bot9 vs Bot18: Draw
+[14:35:54.661] [1463/3900] Bot18 vs Bot9: Bot18 won
+[14:35:54.667] [1464/3900] Bot18 vs Bot9: Draw
+[14:35:54.672] [1465/3900] Bot18 vs Bot9: Bot18 won
+[14:35:54.678] [1466/3900] Bot9 vs Bot19: Draw
+[14:35:54.683] [1467/3900] Bot9 vs Bot19: Bot19 won
+[14:35:54.691] [1468/3900] Bot19 vs Bot9: Draw
+[14:35:54.695] [1469/3900] Bot19 vs Bot9: Bot19 won
+[14:35:54.770] [1470/3900] Bot19 vs Bot9: Bot9 won
+[14:35:54.774] [1471/3900] Bot9 vs Bot20: Bot20 won
+[14:35:54.779] [1472/3900] Bot9 vs Bot20: Bot20 won
+[14:35:54.784] [1473/3900] Bot20 vs Bot9: Bot9 won
+[14:35:54.789] [1474/3900] Bot20 vs Bot9: Bot9 won
+[14:35:54.794] [1475/3900] Bot20 vs Bot9: Bot9 won
+[14:35:54.798] [1476/3900] Bot9 vs Bot21: Bot21 won
+[14:35:54.803] [1477/3900] Bot9 vs Bot21: Bot21 won
+[14:35:54.808] [1478/3900] Bot21 vs Bot9: Draw
+[14:35:54.813] [1479/3900] Bot21 vs Bot9: Draw
+[14:35:54.818] [1480/3900] Bot21 vs Bot9: Bot9 won
+[14:35:54.823] [1481/3900] Bot9 vs Bot22: Bot22 won
+[14:35:54.828] [1482/3900] Bot9 vs Bot22: Draw
+[14:35:54.832] [1483/3900] Bot22 vs Bot9: Bot9 won
+[14:35:54.908] [1484/3900] Bot22 vs Bot9: Draw
+[14:35:54.913] [1485/3900] Bot22 vs Bot9: Draw
+[14:35:54.917] [1486/3900] Bot9 vs Bot23: Bot9 won
+[14:35:54.922] [1487/3900] Bot9 vs Bot23: Bot23 won
+[14:35:54.935] [1488/3900] Bot23 vs Bot9: Draw
+[14:35:54.948] [1489/3900] Bot23 vs Bot9: Draw
+[14:35:54.953] [1490/3900] Bot23 vs Bot9: Bot9 won
+[14:35:54.958] [1491/3900] Bot9 vs Bot24: Bot9 won
+[14:35:54.963] [1492/3900] Bot9 vs Bot24: Draw
+[14:35:54.968] [1493/3900] Bot24 vs Bot9: Bot9 won
+[14:35:54.972] [1494/3900] Bot24 vs Bot9: Bot9 won
+[14:35:54.978] [1495/3900] Bot24 vs Bot9: Draw
+[14:35:54.983] [1496/3900] Bot9 vs Bot25: Bot9 won
+[14:35:54.988] [1497/3900] Bot9 vs Bot25: Bot25 won
+[14:35:54.993] [1498/3900] Bot25 vs Bot9: Bot9 won
+[14:35:54.998] [1499/3900] Bot25 vs Bot9: Draw
+[14:35:55.003] [1500/3900] Bot25 vs Bot9: Bot9 won
+[14:35:55.008] [1501/3900] Bot9 vs Bot26: Bot26 won
+[14:35:55.083] [1502/3900] Bot9 vs Bot26: Draw
+[14:35:55.089] [1503/3900] Bot26 vs Bot9: Bot9 won
+[14:35:55.094] [1504/3900] Bot26 vs Bot9: Draw
+[14:35:55.099] [1505/3900] Bot26 vs Bot9: Draw
+[14:35:55.105] [1506/3900] Bot9 vs Bot27: Draw
+[14:35:55.110] [1507/3900] Bot9 vs Bot27: Bot9 won
+[14:35:55.115] [1508/3900] Bot27 vs Bot9: Bot9 won
+[14:35:55.120] [1509/3900] Bot27 vs Bot9: Draw
+[14:35:55.125] [1510/3900] Bot27 vs Bot9: Draw
+[14:35:55.130] [1511/3900] Bot9 vs Bot28: Bot28 won
+[14:35:55.136] [1512/3900] Bot9 vs Bot28: Draw
+[14:35:55.141] [1513/3900] Bot28 vs Bot9: Bot9 won
+[14:35:55.146] [1514/3900] Bot28 vs Bot9: Bot9 won
+[14:35:55.151] [1515/3900] Bot28 vs Bot9: Bot9 won
+[14:35:55.157] [1516/3900] Bot9 vs Bot29: Draw
+[14:35:55.162] [1517/3900] Bot9 vs Bot29: Bot29 won
+[14:35:55.167] [1518/3900] Bot29 vs Bot9: Draw
+[14:35:55.172] [1519/3900] Bot29 vs Bot9: Draw
+[14:35:55.249] [1520/3900] Bot29 vs Bot9: Bot9 won
+[14:35:55.254] [1521/3900] Bot9 vs Bot30: Bot30 won
+[14:35:55.266] [1522/3900] Bot9 vs Bot30: Draw
+[14:35:55.271] [1523/3900] Bot30 vs Bot9: Draw
+[14:35:55.275] [1524/3900] Bot30 vs Bot9: Draw
+[14:35:55.280] [1525/3900] Bot30 vs Bot9: Bot9 won
+[14:35:55.284] [1526/3900] Bot9 vs Bot31: Bot31 won
+[14:35:55.289] [1527/3900] Bot9 vs Bot31: Draw
+[14:35:55.294] [1528/3900] Bot31 vs Bot9: Bot9 won
+[14:35:55.299] [1529/3900] Bot31 vs Bot9: Bot9 won
+[14:35:55.304] [1530/3900] Bot31 vs Bot9: Bot9 won
+[14:35:55.309] [1531/3900] Bot9 vs Bot32: Draw
+[14:35:55.314] [1532/3900] Bot9 vs Bot32: Bot32 won
+[14:35:55.318] [1533/3900] Bot32 vs Bot9: Bot32 won
+[14:35:55.323] [1534/3900] Bot32 vs Bot9: Bot32 won
+[14:35:55.399] [1535/3900] Bot32 vs Bot9: Bot9 won
+[14:35:55.404] [1536/3900] Bot9 vs Bot33: Bot33 won
+[14:35:55.409] [1537/3900] Bot9 vs Bot33: Draw
+[14:35:55.414] [1538/3900] Bot33 vs Bot9: Draw
+[14:35:55.426] [1539/3900] Bot33 vs Bot9: Draw
+[14:35:55.431] [1540/3900] Bot33 vs Bot9: Bot9 won
+[14:35:55.443] [1541/3900] Bot9 vs Bot34: Bot34 won
+[14:35:55.450] [1542/3900] Bot9 vs Bot34: Bot34 won
+[14:35:55.455] [1543/3900] Bot34 vs Bot9: Draw
+[14:35:55.460] [1544/3900] Bot34 vs Bot9: Bot9 won
+[14:35:55.465] [1545/3900] Bot34 vs Bot9: Draw
+[14:35:55.470] [1546/3900] Bot9 vs Bot35: Bot35 won
+[14:35:55.475] [1547/3900] Bot9 vs Bot35: Draw
+[14:35:55.480] [1548/3900] Bot35 vs Bot9: Bot9 won
+[14:35:55.485] [1549/3900] Bot35 vs Bot9: Draw
+[14:35:55.490] [1550/3900] Bot35 vs Bot9: Bot9 won
+[14:35:55.565] [1551/3900] Bot9 vs Bot36: Bot36 won
+[14:35:55.570] [1552/3900] Bot9 vs Bot36: Draw
+[14:35:55.575] [1553/3900] Bot36 vs Bot9: Draw
+[14:35:55.580] [1554/3900] Bot36 vs Bot9: Draw
+[14:35:55.585] [1555/3900] Bot36 vs Bot9: Draw
+[14:35:55.590] [1556/3900] Bot9 vs Bot37: Bot37 won
+[14:35:55.595] [1557/3900] Bot9 vs Bot37: Bot37 won
+[14:35:55.601] [1558/3900] Bot37 vs Bot9: Bot9 won
+[14:35:55.605] [1559/3900] Bot37 vs Bot9: Bot9 won
+[14:35:55.609] [1560/3900] Bot37 vs Bot9: Draw
+[14:35:55.615] [1561/3900] Bot9 vs Bot38: Bot38 won
+[14:35:55.619] [1562/3900] Bot9 vs Bot38: Draw
+[14:35:55.624] [1563/3900] Bot38 vs Bot9: Draw
+[14:35:55.629] [1564/3900] Bot38 vs Bot9: Draw
+[14:35:55.706] [1565/3900] Bot38 vs Bot9: Bot9 won
+[14:35:55.711] [1566/3900] Bot9 vs Bot39: Draw
+[14:35:55.715] [1567/3900] Bot9 vs Bot39: Draw
+[14:35:55.720] [1568/3900] Bot39 vs Bot9: Bot9 won
+[14:35:55.726] [1569/3900] Bot39 vs Bot9: Draw
+[14:35:55.731] [1570/3900] Bot39 vs Bot9: Draw
+[14:35:55.736] [1571/3900] Bot9 vs Bot40: Draw
+[14:35:55.741] [1572/3900] Bot9 vs Bot40: Draw
+[14:35:55.747] [1573/3900] Bot40 vs Bot9: Draw
+[14:35:55.752] [1574/3900] Bot40 vs Bot9: Bot40 won
+[14:35:55.757] [1575/3900] Bot40 vs Bot9: Bot9 won
+[14:35:55.762] [1576/3900] Bot10 vs Bot11: Bot11 won
+[14:35:55.767] [1577/3900] Bot10 vs Bot11: Draw
+[14:35:55.772] [1578/3900] Bot11 vs Bot10: Draw
+[14:35:55.777] [1579/3900] Bot11 vs Bot10: Draw
+[14:35:55.783] [1580/3900] Bot11 vs Bot10: Draw
+[14:35:55.858] [1581/3900] Bot10 vs Bot12: Draw
+[14:35:55.863] [1582/3900] Bot10 vs Bot12: Draw
+[14:35:55.869] [1583/3900] Bot12 vs Bot10: Draw
+[14:35:55.874] [1584/3900] Bot12 vs Bot10: Draw
+[14:35:55.880] [1585/3900] Bot12 vs Bot10: Draw
+[14:35:55.885] [1586/3900] Bot10 vs Bot13: Draw
+[14:35:55.890] [1587/3900] Bot10 vs Bot13: Bot10 won
+[14:35:55.896] [1588/3900] Bot13 vs Bot10: Bot10 won
+[14:35:55.901] [1589/3900] Bot13 vs Bot10: Draw
+[14:35:55.906] [1590/3900] Bot13 vs Bot10: Draw
+[14:35:55.912] [1591/3900] Bot10 vs Bot14: Bot14 won
+[14:35:55.917] [1592/3900] Bot10 vs Bot14: Bot14 won
+[14:35:55.923] [1593/3900] Bot14 vs Bot10: Draw
+[14:35:55.928] [1594/3900] Bot14 vs Bot10: Bot10 won
+[14:35:56.004] [1595/3900] Bot14 vs Bot10: Bot10 won
+[14:35:56.009] [1596/3900] Bot10 vs Bot15: Draw
+[14:35:56.017] [1597/3900] Bot10 vs Bot15: Bot15 won
+[14:35:56.022] [1598/3900] Bot15 vs Bot10: Bot10 won
+[14:35:56.027] [1599/3900] Bot15 vs Bot10: Draw
+[14:35:56.031] [1600/3900] Bot15 vs Bot10: Bot10 won
+[14:35:56.037] [1601/3900] Bot10 vs Bot16: Bot16 won
+[14:35:56.042] [1602/3900] Bot10 vs Bot16: Draw
+[14:35:56.046] [1603/3900] Bot16 vs Bot10: Draw
+[14:35:56.050] [1604/3900] Bot16 vs Bot10: Draw
+[14:35:56.055] [1605/3900] Bot16 vs Bot10: Bot10 won
+[14:35:56.061] [1606/3900] Bot10 vs Bot17: Draw
+[14:35:56.066] [1607/3900] Bot10 vs Bot17: Bot17 won
+[14:35:56.070] [1608/3900] Bot17 vs Bot10: Bot10 won
+[14:35:56.075] [1609/3900] Bot17 vs Bot10: Draw
+[14:35:56.150] [1610/3900] Bot17 vs Bot10: Bot10 won
+[14:35:56.156] [1611/3900] Bot10 vs Bot18: Bot18 won
+[14:35:56.161] [1612/3900] Bot10 vs Bot18: Bot18 won
+[14:35:56.166] [1613/3900] Bot18 vs Bot10: Bot10 won
+[14:35:56.171] [1614/3900] Bot18 vs Bot10: Draw
+[14:35:56.175] [1615/3900] Bot18 vs Bot10: Draw
+[14:35:56.179] [1616/3900] Bot10 vs Bot19: Draw
+[14:35:56.185] [1617/3900] Bot10 vs Bot19: Bot19 won
+[14:35:56.190] [1618/3900] Bot19 vs Bot10: Draw
+[14:35:56.195] [1619/3900] Bot19 vs Bot10: Draw
+[14:35:56.200] [1620/3900] Bot19 vs Bot10: Bot10 won
+[14:35:56.205] [1621/3900] Bot10 vs Bot20: Draw
+[14:35:56.210] [1622/3900] Bot10 vs Bot20: Draw
+[14:35:56.215] [1623/3900] Bot20 vs Bot10: Bot10 won
+[14:35:56.220] [1624/3900] Bot20 vs Bot10: Bot10 won
+[14:35:56.295] [1625/3900] Bot20 vs Bot10: Bot20 won
+[14:35:56.300] [1626/3900] Bot10 vs Bot21: Bot21 won
+[14:35:56.305] [1627/3900] Bot10 vs Bot21: Draw
+[14:35:56.310] [1628/3900] Bot21 vs Bot10: Bot10 won
+[14:35:56.315] [1629/3900] Bot21 vs Bot10: Bot10 won
+[14:35:56.320] [1630/3900] Bot21 vs Bot10: Bot10 won
+[14:35:56.326] [1631/3900] Bot10 vs Bot22: Bot22 won
+[14:35:56.331] [1632/3900] Bot10 vs Bot22: Draw
+[14:35:56.336] [1633/3900] Bot22 vs Bot10: Draw
+[14:35:56.341] [1634/3900] Bot22 vs Bot10: Draw
+[14:35:56.345] [1635/3900] Bot22 vs Bot10: Bot10 won
+[14:35:56.350] [1636/3900] Bot10 vs Bot23: Draw
+[14:35:56.355] [1637/3900] Bot10 vs Bot23: Draw
+[14:35:56.360] [1638/3900] Bot23 vs Bot10: Draw
+[14:35:56.366] [1639/3900] Bot23 vs Bot10: Draw
+[14:35:56.370] [1640/3900] Bot23 vs Bot10: Draw
+[14:35:56.376] [1641/3900] Bot10 vs Bot24: Bot24 won
+[14:35:56.382] [1642/3900] Bot10 vs Bot24: Bot24 won
+[14:35:56.386] [1643/3900] Bot24 vs Bot10: Bot10 won
+[14:35:56.392] [1644/3900] Bot24 vs Bot10: Bot10 won
+[14:35:56.397] [1645/3900] Bot24 vs Bot10: Draw
+[14:35:56.403] [1646/3900] Bot10 vs Bot25: Bot25 won
+[14:35:56.408] [1647/3900] Bot10 vs Bot25: Draw
+[14:35:56.413] [1648/3900] Bot25 vs Bot10: Bot10 won
+[14:35:56.418] [1649/3900] Bot25 vs Bot10: Bot10 won
+[14:35:56.423] [1650/3900] Bot25 vs Bot10: Draw
+[14:35:56.429] [1651/3900] Bot10 vs Bot26: Draw
+[14:35:56.435] [1652/3900] Bot10 vs Bot26: Bot26 won
+[14:35:56.440] [1653/3900] Bot26 vs Bot10: Draw
+[14:35:56.446] [1654/3900] Bot26 vs Bot10: Bot26 won
+[14:35:56.452] [1655/3900] Bot26 vs Bot10: Bot10 won
+[14:35:56.457] [1656/3900] Bot10 vs Bot27: Draw
+[14:35:56.465] [1657/3900] Bot10 vs Bot27: Draw
+[14:35:56.469] [1658/3900] Bot27 vs Bot10: Draw
+[14:35:56.474] [1659/3900] Bot27 vs Bot10: Draw
+[14:35:56.478] [1660/3900] Bot27 vs Bot10: Bot10 won
+[14:35:56.484] [1661/3900] Bot10 vs Bot28: Bot28 won
+[14:35:56.494] [1662/3900] Bot10 vs Bot28: Draw
+[14:35:56.570] [1663/3900] Bot28 vs Bot10: Draw
+[14:35:56.576] [1664/3900] Bot28 vs Bot10: Bot10 won
+[14:35:56.581] [1665/3900] Bot28 vs Bot10: Bot10 won
+[14:35:56.586] [1666/3900] Bot10 vs Bot29: Draw
+[14:35:56.591] [1667/3900] Bot10 vs Bot29: Bot29 won
+[14:35:56.596] [1668/3900] Bot29 vs Bot10: Draw
+[14:35:56.601] [1669/3900] Bot29 vs Bot10: Draw
+[14:35:56.606] [1670/3900] Bot29 vs Bot10: Bot10 won
+[14:35:56.612] [1671/3900] Bot10 vs Bot30: Draw
+[14:35:56.617] [1672/3900] Bot10 vs Bot30: Draw
+[14:35:56.622] [1673/3900] Bot30 vs Bot10: Draw
+[14:35:56.627] [1674/3900] Bot30 vs Bot10: Bot10 won
+[14:35:56.632] [1675/3900] Bot30 vs Bot10: Bot30 won
+[14:35:56.637] [1676/3900] Bot10 vs Bot31: Draw
+[14:35:56.642] [1677/3900] Bot10 vs Bot31: Draw
+[14:35:56.647] [1678/3900] Bot31 vs Bot10: Bot10 won
+[14:35:56.652] [1679/3900] Bot31 vs Bot10: Draw
+[14:35:56.657] [1680/3900] Bot31 vs Bot10: Bot10 won
+[14:35:56.662] [1681/3900] Bot10 vs Bot32: Bot32 won
+[14:35:56.667] [1682/3900] Bot10 vs Bot32: Draw
+[14:35:56.672] [1683/3900] Bot32 vs Bot10: Bot10 won
+[14:35:56.677] [1684/3900] Bot32 vs Bot10: Bot10 won
+[14:35:56.682] [1685/3900] Bot32 vs Bot10: Bot10 won
+[14:35:56.687] [1686/3900] Bot10 vs Bot33: Bot10 won
+[14:35:56.692] [1687/3900] Bot10 vs Bot33: Draw
+[14:35:56.697] [1688/3900] Bot33 vs Bot10: Draw
+[14:35:56.702] [1689/3900] Bot33 vs Bot10: Bot10 won
+[14:35:56.707] [1690/3900] Bot33 vs Bot10: Draw
+[14:35:56.712] [1691/3900] Bot10 vs Bot34: Draw
+[14:35:56.717] [1692/3900] Bot10 vs Bot34: Bot34 won
+[14:35:56.722] [1693/3900] Bot34 vs Bot10: Draw
+[14:35:56.728] [1694/3900] Bot34 vs Bot10: Bot10 won
+[14:35:56.733] [1695/3900] Bot34 vs Bot10: Bot10 won
+[14:35:56.738] [1696/3900] Bot10 vs Bot35: Bot35 won
+[14:35:56.743] [1697/3900] Bot10 vs Bot35: Draw
+[14:35:56.748] [1698/3900] Bot35 vs Bot10: Bot10 won
+[14:35:56.753] [1699/3900] Bot35 vs Bot10: Draw
+[14:35:56.758] [1700/3900] Bot35 vs Bot10: Bot10 won
+[14:35:56.763] [1701/3900] Bot10 vs Bot36: Bot36 won
+[14:35:56.768] [1702/3900] Bot10 vs Bot36: Draw
+[14:35:56.773] [1703/3900] Bot36 vs Bot10: Bot10 won
+[14:35:56.779] [1704/3900] Bot36 vs Bot10: Draw
+[14:35:56.785] [1705/3900] Bot36 vs Bot10: Bot10 won
+[14:35:56.790] [1706/3900] Bot10 vs Bot37: Draw
+[14:35:56.798] [1707/3900] Bot10 vs Bot37: Bot37 won
+[14:35:56.804] [1708/3900] Bot37 vs Bot10: Bot10 won
+[14:35:56.809] [1709/3900] Bot37 vs Bot10: Draw
+[14:35:56.814] [1710/3900] Bot37 vs Bot10: Draw
+[14:35:56.819] [1711/3900] Bot10 vs Bot38: Bot38 won
+[14:35:56.825] [1712/3900] Bot10 vs Bot38: Draw
+[14:35:56.830] [1713/3900] Bot38 vs Bot10: Draw
+[14:35:56.835] [1714/3900] Bot38 vs Bot10: Draw
+[14:35:56.840] [1715/3900] Bot38 vs Bot10: Bot10 won
+[14:35:56.916] [1716/3900] Bot10 vs Bot39: Draw
+[14:35:56.921] [1717/3900] Bot10 vs Bot39: Bot39 won
+[14:35:56.927] [1718/3900] Bot39 vs Bot10: Bot10 won
+[14:35:56.932] [1719/3900] Bot39 vs Bot10: Bot10 won
+[14:35:56.937] [1720/3900] Bot39 vs Bot10: Draw
+[14:35:56.942] [1721/3900] Bot10 vs Bot40: Draw
+[14:35:56.947] [1722/3900] Bot10 vs Bot40: Bot40 won
+[14:35:56.952] [1723/3900] Bot40 vs Bot10: Bot10 won
+[14:35:56.957] [1724/3900] Bot40 vs Bot10: Bot10 won
+[14:35:56.962] [1725/3900] Bot40 vs Bot10: Draw
+[14:35:56.968] [1726/3900] Bot11 vs Bot12: Bot12 won
+[14:35:56.973] [1727/3900] Bot11 vs Bot12: Draw
+[14:35:56.978] [1728/3900] Bot12 vs Bot11: Draw
+[14:35:56.983] [1729/3900] Bot12 vs Bot11: Bot12 won
+[14:35:56.988] [1730/3900] Bot12 vs Bot11: Bot11 won
+[14:35:56.994] [1731/3900] Bot11 vs Bot13: Bot13 won
+[14:35:56.999] [1732/3900] Bot11 vs Bot13: Bot13 won
+[14:35:57.004] [1733/3900] Bot13 vs Bot11: Draw
+[14:35:57.009] [1734/3900] Bot13 vs Bot11: Bot13 won
+[14:35:57.015] [1735/3900] Bot13 vs Bot11: Bot11 won
+[14:35:57.020] [1736/3900] Bot11 vs Bot14: Draw
+[14:35:57.026] [1737/3900] Bot11 vs Bot14: Draw
+[14:35:57.031] [1738/3900] Bot14 vs Bot11: Draw
+[14:35:57.037] [1739/3900] Bot14 vs Bot11: Bot14 won
+[14:35:57.042] [1740/3900] Bot14 vs Bot11: Draw
+[14:35:57.117] [1741/3900] Bot11 vs Bot15: Draw
+[14:35:57.122] [1742/3900] Bot11 vs Bot15: Draw
+[14:35:57.128] [1743/3900] Bot15 vs Bot11: Bot11 won
+[14:35:57.133] [1744/3900] Bot15 vs Bot11: Draw
+[14:35:57.137] [1745/3900] Bot15 vs Bot11: Draw
+[14:35:57.143] [1746/3900] Bot11 vs Bot16: Draw
+[14:35:57.148] [1747/3900] Bot11 vs Bot16: Draw
+[14:35:57.153] [1748/3900] Bot16 vs Bot11: Draw
+[14:35:57.158] [1749/3900] Bot16 vs Bot11: Draw
+[14:35:57.162] [1750/3900] Bot16 vs Bot11: Bot11 won
+[14:35:57.167] [1751/3900] Bot11 vs Bot17: Bot17 won
+[14:35:57.172] [1752/3900] Bot11 vs Bot17: Bot17 won
+[14:35:57.177] [1753/3900] Bot17 vs Bot11: Draw
+[14:35:57.182] [1754/3900] Bot17 vs Bot11: Draw
+[14:35:57.187] [1755/3900] Bot17 vs Bot11: Bot11 won
+[14:35:57.192] [1756/3900] Bot11 vs Bot18: Draw
+[14:35:57.197] [1757/3900] Bot11 vs Bot18: Bot18 won
+[14:35:57.202] [1758/3900] Bot18 vs Bot11: Draw
+[14:35:57.207] [1759/3900] Bot18 vs Bot11: Bot11 won
+[14:35:57.213] [1760/3900] Bot18 vs Bot11: Draw
+[14:35:57.218] [1761/3900] Bot11 vs Bot19: Bot19 won
+[14:35:57.223] [1762/3900] Bot11 vs Bot19: Draw
+[14:35:57.228] [1763/3900] Bot19 vs Bot11: Draw
+[14:35:57.234] [1764/3900] Bot19 vs Bot11: Draw
+[14:35:57.239] [1765/3900] Bot19 vs Bot11: Bot11 won
+[14:35:57.244] [1766/3900] Bot11 vs Bot20: Draw
+[14:35:57.249] [1767/3900] Bot11 vs Bot20: Draw
+[14:35:57.254] [1768/3900] Bot20 vs Bot11: Bot11 won
+[14:35:57.259] [1769/3900] Bot20 vs Bot11: Bot11 won
+[14:35:57.264] [1770/3900] Bot20 vs Bot11: Bot11 won
+[14:35:57.268] [1771/3900] Bot11 vs Bot21: Draw
+[14:35:57.273] [1772/3900] Bot11 vs Bot21: Draw
+[14:35:57.349] [1773/3900] Bot21 vs Bot11: Draw
+[14:35:57.354] [1774/3900] Bot21 vs Bot11: Bot11 won
+[14:35:57.359] [1775/3900] Bot21 vs Bot11: Draw
+[14:35:57.364] [1776/3900] Bot11 vs Bot22: Bot22 won
+[14:35:57.369] [1777/3900] Bot11 vs Bot22: Draw
+[14:35:57.375] [1778/3900] Bot22 vs Bot11: Draw
+[14:35:57.380] [1779/3900] Bot22 vs Bot11: Bot11 won
+[14:35:57.385] [1780/3900] Bot22 vs Bot11: Bot11 won
+[14:35:57.390] [1781/3900] Bot11 vs Bot23: Bot23 won
+[14:35:57.395] [1782/3900] Bot11 vs Bot23: Bot23 won
+[14:35:57.400] [1783/3900] Bot23 vs Bot11: Bot11 won
+[14:35:57.405] [1784/3900] Bot23 vs Bot11: Bot11 won
+[14:35:57.410] [1785/3900] Bot23 vs Bot11: Draw
+[14:35:57.416] [1786/3900] Bot11 vs Bot24: Draw
+[14:35:57.421] [1787/3900] Bot11 vs Bot24: Bot24 won
+[14:35:57.426] [1788/3900] Bot24 vs Bot11: Bot11 won
+[14:35:57.432] [1789/3900] Bot24 vs Bot11: Bot11 won
+[14:35:57.437] [1790/3900] Bot24 vs Bot11: Draw
+[14:35:57.442] [1791/3900] Bot11 vs Bot25: Draw
+[14:35:57.447] [1792/3900] Bot11 vs Bot25: Bot25 won
+[14:35:57.452] [1793/3900] Bot25 vs Bot11: Draw
+[14:35:57.458] [1794/3900] Bot25 vs Bot11: Draw
+[14:35:57.463] [1795/3900] Bot25 vs Bot11: Draw
+[14:35:57.468] [1796/3900] Bot11 vs Bot26: Draw
+[14:35:57.473] [1797/3900] Bot11 vs Bot26: Draw
+[14:35:57.478] [1798/3900] Bot26 vs Bot11: Draw
+[14:35:57.485] [1799/3900] Bot26 vs Bot11: Bot11 won
+[14:35:57.490] [1800/3900] Bot26 vs Bot11: Draw
+[14:35:57.496] [1801/3900] Bot11 vs Bot27: Draw
+[14:35:57.501] [1802/3900] Bot11 vs Bot27: Bot27 won
+[14:35:57.507] [1803/3900] Bot27 vs Bot11: Bot11 won
+[14:35:57.512] [1804/3900] Bot27 vs Bot11: Draw
+[14:35:57.517] [1805/3900] Bot27 vs Bot11: Draw
+[14:35:57.522] [1806/3900] Bot11 vs Bot28: Bot28 won
+[14:35:57.527] [1807/3900] Bot11 vs Bot28: Bot28 won
+[14:35:57.532] [1808/3900] Bot28 vs Bot11: Bot11 won
+[14:35:57.537] [1809/3900] Bot28 vs Bot11: Draw
+[14:35:57.541] [1810/3900] Bot28 vs Bot11: Bot11 won
+[14:35:57.617] [1811/3900] Bot11 vs Bot29: Draw
+[14:35:57.622] [1812/3900] Bot11 vs Bot29: Draw
+[14:35:57.628] [1813/3900] Bot29 vs Bot11: Draw
+[14:35:57.632] [1814/3900] Bot29 vs Bot11: Bot29 won
+[14:35:57.638] [1815/3900] Bot29 vs Bot11: Bot11 won
+[14:35:57.642] [1816/3900] Bot11 vs Bot30: Bot30 won
+[14:35:57.647] [1817/3900] Bot11 vs Bot30: Bot11 won
+[14:35:57.651] [1818/3900] Bot30 vs Bot11: Draw
+[14:35:57.657] [1819/3900] Bot30 vs Bot11: Draw
+[14:35:57.662] [1820/3900] Bot30 vs Bot11: Bot11 won
+[14:35:57.667] [1821/3900] Bot11 vs Bot31: Bot11 won
+[14:35:57.672] [1822/3900] Bot11 vs Bot31: Bot31 won
+[14:35:57.676] [1823/3900] Bot31 vs Bot11: Bot11 won
+[14:35:57.682] [1824/3900] Bot31 vs Bot11: Draw
+[14:35:57.687] [1825/3900] Bot31 vs Bot11: Bot11 won
+[14:35:57.763] [1826/3900] Bot11 vs Bot32: Bot11 won
+[14:35:57.768] [1827/3900] Bot11 vs Bot32: Bot32 won
+[14:35:57.773] [1828/3900] Bot32 vs Bot11: Bot11 won
+[14:35:57.777] [1829/3900] Bot32 vs Bot11: Draw
+[14:35:57.782] [1830/3900] Bot32 vs Bot11: Bot11 won
+[14:35:57.787] [1831/3900] Bot11 vs Bot33: Bot11 won
+[14:35:57.792] [1832/3900] Bot11 vs Bot33: Draw
+[14:35:57.797] [1833/3900] Bot33 vs Bot11: Bot11 won
+[14:35:57.802] [1834/3900] Bot33 vs Bot11: Bot11 won
+[14:35:57.807] [1835/3900] Bot33 vs Bot11: Draw
+[14:35:57.811] [1836/3900] Bot11 vs Bot34: Bot34 won
+[14:35:57.816] [1837/3900] Bot11 vs Bot34: Bot34 won
+[14:35:57.822] [1838/3900] Bot34 vs Bot11: Draw
+[14:35:57.827] [1839/3900] Bot34 vs Bot11: Bot34 won
+[14:35:57.833] [1840/3900] Bot34 vs Bot11: Draw
+[14:35:57.838] [1841/3900] Bot11 vs Bot35: Draw
+[14:35:57.843] [1842/3900] Bot11 vs Bot35: Draw
+[14:35:57.848] [1843/3900] Bot35 vs Bot11: Bot35 won
+[14:35:57.853] [1844/3900] Bot35 vs Bot11: Bot11 won
+[14:35:57.859] [1845/3900] Bot35 vs Bot11: Draw
+[14:35:57.864] [1846/3900] Bot11 vs Bot36: Draw
+[14:35:57.869] [1847/3900] Bot11 vs Bot36: Bot36 won
+[14:35:57.874] [1848/3900] Bot36 vs Bot11: Bot11 won
+[14:35:57.879] [1849/3900] Bot36 vs Bot11: Draw
+[14:35:57.956] [1850/3900] Bot36 vs Bot11: Bot11 won
+[14:35:57.961] [1851/3900] Bot11 vs Bot37: Bot37 won
+[14:35:57.966] [1852/3900] Bot11 vs Bot37: Bot37 won
+[14:35:57.971] [1853/3900] Bot37 vs Bot11: Draw
+[14:35:57.976] [1854/3900] Bot37 vs Bot11: Draw
+[14:35:57.981] [1855/3900] Bot37 vs Bot11: Bot11 won
+[14:35:57.986] [1856/3900] Bot11 vs Bot38: Bot38 won
+[14:35:57.991] [1857/3900] Bot11 vs Bot38: Bot38 won
+[14:35:57.996] [1858/3900] Bot38 vs Bot11: Bot11 won
+[14:35:58.002] [1859/3900] Bot38 vs Bot11: Draw
+[14:35:58.007] [1860/3900] Bot38 vs Bot11: Bot11 won
+[14:35:58.013] [1861/3900] Bot11 vs Bot39: Draw
+[14:35:58.018] [1862/3900] Bot11 vs Bot39: Draw
+[14:35:58.028] [1863/3900] Bot39 vs Bot11: Bot11 won
+[14:35:58.033] [1864/3900] Bot39 vs Bot11: Draw
+[14:35:58.037] [1865/3900] Bot39 vs Bot11: Bot11 won
+[14:35:58.114] [1866/3900] Bot11 vs Bot40: Bot40 won
+[14:35:58.118] [1867/3900] Bot11 vs Bot40: Draw
+[14:35:58.124] [1868/3900] Bot40 vs Bot11: Draw
+[14:35:58.128] [1869/3900] Bot40 vs Bot11: Bot11 won
+[14:35:58.133] [1870/3900] Bot40 vs Bot11: Draw
+[14:35:58.138] [1871/3900] Bot12 vs Bot13: Bot12 won
+[14:35:58.143] [1872/3900] Bot12 vs Bot13: Draw
+[14:35:58.148] [1873/3900] Bot13 vs Bot12: Bot12 won
+[14:35:58.156] [1874/3900] Bot13 vs Bot12: Bot12 won
+[14:35:58.161] [1875/3900] Bot13 vs Bot12: Draw
+[14:35:58.166] [1876/3900] Bot12 vs Bot14: Draw
+[14:35:58.171] [1877/3900] Bot12 vs Bot14: Bot14 won
+[14:35:58.177] [1878/3900] Bot14 vs Bot12: Draw
+[14:35:58.182] [1879/3900] Bot14 vs Bot12: Bot12 won
+[14:35:58.187] [1880/3900] Bot14 vs Bot12: Draw
+[14:35:58.192] [1881/3900] Bot12 vs Bot15: Bot15 won
+[14:35:58.197] [1882/3900] Bot12 vs Bot15: Bot15 won
+[14:35:58.272] [1883/3900] Bot15 vs Bot12: Bot12 won
+[14:35:58.278] [1884/3900] Bot15 vs Bot12: Draw
+[14:35:58.284] [1885/3900] Bot15 vs Bot12: Bot12 won
+[14:35:58.289] [1886/3900] Bot12 vs Bot16: Draw
+[14:35:58.294] [1887/3900] Bot12 vs Bot16: Bot12 won
+[14:35:58.299] [1888/3900] Bot16 vs Bot12: Draw
+[14:35:58.307] [1889/3900] Bot16 vs Bot12: Draw
+[14:35:58.312] [1890/3900] Bot16 vs Bot12: Draw
+[14:35:58.318] [1891/3900] Bot12 vs Bot17: Draw
+[14:35:58.322] [1892/3900] Bot12 vs Bot17: Bot17 won
+[14:35:58.327] [1893/3900] Bot17 vs Bot12: Bot12 won
+[14:35:58.332] [1894/3900] Bot17 vs Bot12: Draw
+[14:35:58.337] [1895/3900] Bot17 vs Bot12: Bot17 won
+[14:35:58.342] [1896/3900] Bot12 vs Bot18: Draw
+[14:35:58.346] [1897/3900] Bot12 vs Bot18: Bot18 won
+[14:35:58.351] [1898/3900] Bot18 vs Bot12: Draw
+[14:35:58.426] [1899/3900] Bot18 vs Bot12: Draw
+[14:35:58.431] [1900/3900] Bot18 vs Bot12: Draw
+[14:35:58.436] [1901/3900] Bot12 vs Bot19: Bot19 won
+[14:35:58.441] [1902/3900] Bot12 vs Bot19: Bot19 won
+[14:35:58.446] [1903/3900] Bot19 vs Bot12: Draw
+[14:35:58.451] [1904/3900] Bot19 vs Bot12: Draw
+[14:35:58.455] [1905/3900] Bot19 vs Bot12: Bot12 won
+[14:35:58.460] [1906/3900] Bot12 vs Bot20: Bot20 won
+[14:35:58.465] [1907/3900] Bot12 vs Bot20: Draw
+[14:35:58.470] [1908/3900] Bot20 vs Bot12: Draw
+[14:35:58.475] [1909/3900] Bot20 vs Bot12: Draw
+[14:35:58.480] [1910/3900] Bot20 vs Bot12: Bot12 won
+[14:35:58.484] [1911/3900] Bot12 vs Bot21: Bot21 won
+[14:35:58.490] [1912/3900] Bot12 vs Bot21: Draw
+[14:35:58.495] [1913/3900] Bot21 vs Bot12: Draw
+[14:35:58.500] [1914/3900] Bot21 vs Bot12: Draw
+[14:35:58.576] [1915/3900] Bot21 vs Bot12: Bot12 won
+[14:35:58.581] [1916/3900] Bot12 vs Bot22: Bot22 won
+[14:35:58.586] [1917/3900] Bot12 vs Bot22: Bot22 won
+[14:35:58.591] [1918/3900] Bot22 vs Bot12: Bot12 won
+[14:35:58.595] [1919/3900] Bot22 vs Bot12: Draw
+[14:35:58.600] [1920/3900] Bot22 vs Bot12: Draw
+[14:35:58.605] [1921/3900] Bot12 vs Bot23: Draw
+[14:35:58.610] [1922/3900] Bot12 vs Bot23: Draw
+[14:35:58.615] [1923/3900] Bot23 vs Bot12: Bot12 won
+[14:35:58.620] [1924/3900] Bot23 vs Bot12: Draw
+[14:35:58.625] [1925/3900] Bot23 vs Bot12: Bot12 won
+[14:35:58.630] [1926/3900] Bot12 vs Bot24: Draw
+[14:35:58.635] [1927/3900] Bot12 vs Bot24: Draw
+[14:35:58.640] [1928/3900] Bot24 vs Bot12: Draw
+[14:35:58.645] [1929/3900] Bot24 vs Bot12: Bot12 won
+[14:35:58.650] [1930/3900] Bot24 vs Bot12: Bot12 won
+[14:35:58.655] [1931/3900] Bot12 vs Bot25: Draw
+[14:35:58.660] [1932/3900] Bot12 vs Bot25: Bot25 won
+[14:35:58.665] [1933/3900] Bot25 vs Bot12: Draw
+[14:35:58.670] [1934/3900] Bot25 vs Bot12: Bot12 won
+[14:35:58.675] [1935/3900] Bot25 vs Bot12: Bot12 won
+[14:35:58.680] [1936/3900] Bot12 vs Bot26: Draw
+[14:35:58.685] [1937/3900] Bot12 vs Bot26: Draw
+[14:35:58.760] [1938/3900] Bot26 vs Bot12: Bot12 won
+[14:35:58.766] [1939/3900] Bot26 vs Bot12: Draw
+[14:35:58.772] [1940/3900] Bot26 vs Bot12: Bot12 won
+[14:35:58.777] [1941/3900] Bot12 vs Bot27: Bot27 won
+[14:35:58.782] [1942/3900] Bot12 vs Bot27: Draw
+[14:35:58.787] [1943/3900] Bot27 vs Bot12: Bot12 won
+[14:35:58.792] [1944/3900] Bot27 vs Bot12: Bot12 won
+[14:35:58.797] [1945/3900] Bot27 vs Bot12: Bot12 won
+[14:35:58.802] [1946/3900] Bot12 vs Bot28: Bot28 won
+[14:35:58.808] [1947/3900] Bot12 vs Bot28: Bot12 won
+[14:35:58.816] [1948/3900] Bot28 vs Bot12: Bot28 won
+[14:35:58.821] [1949/3900] Bot28 vs Bot12: Draw
+[14:35:58.826] [1950/3900] Bot28 vs Bot12: Draw
+[14:35:58.831] [1951/3900] Bot12 vs Bot29: Draw
+[14:35:58.835] [1952/3900] Bot12 vs Bot29: Bot29 won
+[14:35:58.840] [1953/3900] Bot29 vs Bot12: Bot12 won
+[14:35:58.845] [1954/3900] Bot29 vs Bot12: Draw
+[14:35:58.850] [1955/3900] Bot29 vs Bot12: Draw
+[14:35:58.855] [1956/3900] Bot12 vs Bot30: Bot12 won
+[14:35:58.860] [1957/3900] Bot12 vs Bot30: Draw
+[14:35:58.865] [1958/3900] Bot30 vs Bot12: Draw
+[14:35:58.870] [1959/3900] Bot30 vs Bot12: Draw
+[14:35:58.946] [1960/3900] Bot30 vs Bot12: Bot12 won
+[14:35:58.951] [1961/3900] Bot12 vs Bot31: Bot31 won
+[14:35:58.955] [1962/3900] Bot12 vs Bot31: Draw
+[14:35:58.961] [1963/3900] Bot31 vs Bot12: Bot12 won
+[14:35:58.966] [1964/3900] Bot31 vs Bot12: Draw
+[14:35:58.971] [1965/3900] Bot31 vs Bot12: Draw
+[14:35:58.976] [1966/3900] Bot12 vs Bot32: Bot32 won
+[14:35:58.981] [1967/3900] Bot12 vs Bot32: Draw
+[14:35:58.986] [1968/3900] Bot32 vs Bot12: Bot12 won
+[14:35:58.991] [1969/3900] Bot32 vs Bot12: Bot32 won
+[14:35:58.996] [1970/3900] Bot32 vs Bot12: Draw
+[14:35:59.001] [1971/3900] Bot12 vs Bot33: Bot33 won
+[14:35:59.006] [1972/3900] Bot12 vs Bot33: Draw
+[14:35:59.011] [1973/3900] Bot33 vs Bot12: Draw
+[14:35:59.017] [1974/3900] Bot33 vs Bot12: Draw
+[14:35:59.021] [1975/3900] Bot33 vs Bot12: Draw
+[14:35:59.026] [1976/3900] Bot12 vs Bot34: Bot34 won
+[14:35:59.031] [1977/3900] Bot12 vs Bot34: Bot34 won
+[14:35:59.036] [1978/3900] Bot34 vs Bot12: Bot12 won
+[14:35:59.041] [1979/3900] Bot34 vs Bot12: Bot12 won
+[14:35:59.046] [1980/3900] Bot34 vs Bot12: Draw
+[14:35:59.051] [1981/3900] Bot12 vs Bot35: Draw
+[14:35:59.056] [1982/3900] Bot12 vs Bot35: Draw
+[14:35:59.062] [1983/3900] Bot35 vs Bot12: Draw
+[14:35:59.067] [1984/3900] Bot35 vs Bot12: Draw
+[14:35:59.072] [1985/3900] Bot35 vs Bot12: Draw
+[14:35:59.077] [1986/3900] Bot12 vs Bot36: Bot36 won
+[14:35:59.082] [1987/3900] Bot12 vs Bot36: Bot36 won
+[14:35:59.086] [1988/3900] Bot36 vs Bot12: Draw
+[14:35:59.091] [1989/3900] Bot36 vs Bot12: Draw
+[14:35:59.097] [1990/3900] Bot36 vs Bot12: Draw
+[14:35:59.102] [1991/3900] Bot12 vs Bot37: Draw
+[14:35:59.108] [1992/3900] Bot12 vs Bot37: Bot37 won
+[14:35:59.112] [1993/3900] Bot37 vs Bot12: Bot12 won
+[14:35:59.117] [1994/3900] Bot37 vs Bot12: Draw
+[14:35:59.122] [1995/3900] Bot37 vs Bot12: Bot12 won
+[14:35:59.148] [1996/3900] Bot12 vs Bot38: Bot12 won
+[14:35:59.154] [1997/3900] Bot12 vs Bot38: Bot38 won
+[14:35:59.158] [1998/3900] Bot38 vs Bot12: Draw
+[14:35:59.163] [1999/3900] Bot38 vs Bot12: Bot12 won
+[14:35:59.167] [2000/3900] Bot38 vs Bot12: Bot12 won
+[14:35:59.172] [2001/3900] Bot12 vs Bot39: Bot39 won
+[14:35:59.178] [2002/3900] Bot12 vs Bot39: Bot39 won
+[14:35:59.183] [2003/3900] Bot39 vs Bot12: Bot39 won
+[14:35:59.187] [2004/3900] Bot39 vs Bot12: Bot12 won
+[14:35:59.192] [2005/3900] Bot39 vs Bot12: Draw
+[14:35:59.197] [2006/3900] Bot12 vs Bot40: Bot40 won
+[14:35:59.202] [2007/3900] Bot12 vs Bot40: Draw
+[14:35:59.207] [2008/3900] Bot40 vs Bot12: Draw
+[14:35:59.212] [2009/3900] Bot40 vs Bot12: Bot12 won
+[14:35:59.217] [2010/3900] Bot40 vs Bot12: Draw
+[14:35:59.222] [2011/3900] Bot13 vs Bot14: Draw
+[14:35:59.227] [2012/3900] Bot13 vs Bot14: Draw
+[14:35:59.232] [2013/3900] Bot14 vs Bot13: Bot13 won
+[14:35:59.238] [2014/3900] Bot14 vs Bot13: Bot13 won
+[14:35:59.313] [2015/3900] Bot14 vs Bot13: Bot13 won
+[14:35:59.319] [2016/3900] Bot13 vs Bot15: Draw
+[14:35:59.324] [2017/3900] Bot13 vs Bot15: Bot15 won
+[14:35:59.328] [2018/3900] Bot15 vs Bot13: Draw
+[14:35:59.333] [2019/3900] Bot15 vs Bot13: Draw
+[14:35:59.337] [2020/3900] Bot15 vs Bot13: Bot13 won
+[14:35:59.342] [2021/3900] Bot13 vs Bot16: Bot16 won
+[14:35:59.348] [2022/3900] Bot13 vs Bot16: Draw
+[14:35:59.353] [2023/3900] Bot16 vs Bot13: Bot16 won
+[14:35:59.358] [2024/3900] Bot16 vs Bot13: Draw
+[14:35:59.363] [2025/3900] Bot16 vs Bot13: Draw
+[14:35:59.368] [2026/3900] Bot13 vs Bot17: Draw
+[14:35:59.373] [2027/3900] Bot13 vs Bot17: Draw
+[14:35:59.379] [2028/3900] Bot17 vs Bot13: Bot13 won
+[14:35:59.384] [2029/3900] Bot17 vs Bot13: Draw
+[14:35:59.389] [2030/3900] Bot17 vs Bot13: Bot13 won
+[14:35:59.464] [2031/3900] Bot13 vs Bot18: Bot18 won
+[14:35:59.469] [2032/3900] Bot13 vs Bot18: Draw
+[14:35:59.475] [2033/3900] Bot18 vs Bot13: Draw
+[14:35:59.480] [2034/3900] Bot18 vs Bot13: Draw
+[14:35:59.485] [2035/3900] Bot18 vs Bot13: Draw
+[14:35:59.490] [2036/3900] Bot13 vs Bot19: Bot19 won
+[14:35:59.495] [2037/3900] Bot13 vs Bot19: Bot19 won
+[14:35:59.500] [2038/3900] Bot19 vs Bot13: Draw
+[14:35:59.505] [2039/3900] Bot19 vs Bot13: Draw
+[14:35:59.511] [2040/3900] Bot19 vs Bot13: Bot13 won
+[14:35:59.516] [2041/3900] Bot13 vs Bot20: Draw
+[14:35:59.521] [2042/3900] Bot13 vs Bot20: Bot13 won
+[14:35:59.528] [2043/3900] Bot20 vs Bot13: Bot13 won
+[14:35:59.538] [2044/3900] Bot20 vs Bot13: Draw
+[14:35:59.544] [2045/3900] Bot20 vs Bot13: Draw
+[14:35:59.549] [2046/3900] Bot13 vs Bot21: Bot21 won
+[14:35:59.626] [2047/3900] Bot13 vs Bot21: Bot21 won
+[14:35:59.632] [2048/3900] Bot21 vs Bot13: Bot13 won
+[14:35:59.636] [2049/3900] Bot21 vs Bot13: Draw
+[14:35:59.641] [2050/3900] Bot21 vs Bot13: Bot13 won
+[14:35:59.646] [2051/3900] Bot13 vs Bot22: Draw
+[14:35:59.651] [2052/3900] Bot13 vs Bot22: Draw
+[14:35:59.656] [2053/3900] Bot22 vs Bot13: Draw
+[14:35:59.661] [2054/3900] Bot22 vs Bot13: Draw
+[14:35:59.667] [2055/3900] Bot22 vs Bot13: Draw
+[14:35:59.671] [2056/3900] Bot13 vs Bot23: Draw
+[14:35:59.677] [2057/3900] Bot13 vs Bot23: Draw
+[14:35:59.682] [2058/3900] Bot23 vs Bot13: Bot13 won
+[14:35:59.686] [2059/3900] Bot23 vs Bot13: Draw
+[14:35:59.691] [2060/3900] Bot23 vs Bot13: Draw
+[14:35:59.697] [2061/3900] Bot13 vs Bot24: Draw
+[14:35:59.702] [2062/3900] Bot13 vs Bot24: Bot24 won
+[14:35:59.778] [2063/3900] Bot24 vs Bot13: Bot13 won
+[14:35:59.783] [2064/3900] Bot24 vs Bot13: Draw
+[14:35:59.788] [2065/3900] Bot24 vs Bot13: Draw
+[14:35:59.793] [2066/3900] Bot13 vs Bot25: Draw
+[14:35:59.797] [2067/3900] Bot13 vs Bot25: Bot25 won
+[14:35:59.802] [2068/3900] Bot25 vs Bot13: Bot13 won
+[14:35:59.808] [2069/3900] Bot25 vs Bot13: Bot25 won
+[14:35:59.813] [2070/3900] Bot25 vs Bot13: Draw
+[14:35:59.818] [2071/3900] Bot13 vs Bot26: Bot13 won
+[14:35:59.823] [2072/3900] Bot13 vs Bot26: Bot26 won
+[14:35:59.828] [2073/3900] Bot26 vs Bot13: Draw
+[14:35:59.833] [2074/3900] Bot26 vs Bot13: Draw
+[14:35:59.838] [2075/3900] Bot26 vs Bot13: Draw
+[14:35:59.844] [2076/3900] Bot13 vs Bot27: Bot13 won
+[14:35:59.849] [2077/3900] Bot13 vs Bot27: Bot13 won
+[14:35:59.854] [2078/3900] Bot27 vs Bot13: Draw
+[14:35:59.931] [2079/3900] Bot27 vs Bot13: Bot27 won
+[14:35:59.936] [2080/3900] Bot27 vs Bot13: Draw
+[14:35:59.942] [2081/3900] Bot13 vs Bot28: Bot13 won
+[14:35:59.947] [2082/3900] Bot13 vs Bot28: Draw
+[14:35:59.952] [2083/3900] Bot28 vs Bot13: Draw
+[14:35:59.957] [2084/3900] Bot28 vs Bot13: Draw
+[14:35:59.965] [2085/3900] Bot28 vs Bot13: Draw
+[14:35:59.970] [2086/3900] Bot13 vs Bot29: Draw
+[14:35:59.975] [2087/3900] Bot13 vs Bot29: Draw
+[14:35:59.979] [2088/3900] Bot29 vs Bot13: Bot29 won
+[14:35:59.985] [2089/3900] Bot29 vs Bot13: Bot13 won
+[14:35:59.989] [2090/3900] Bot29 vs Bot13: Draw
+[14:35:59.994] [2091/3900] Bot13 vs Bot30: Bot30 won
+[14:35:59.999] [2092/3900] Bot13 vs Bot30: Bot30 won
+[14:36:00.004] [2093/3900] Bot30 vs Bot13: Bot13 won
+[14:36:00.008] [2094/3900] Bot30 vs Bot13: Bot13 won
+[14:36:00.084] [2095/3900] Bot30 vs Bot13: Draw
+[14:36:00.088] [2096/3900] Bot13 vs Bot31: Bot31 won
+[14:36:00.093] [2097/3900] Bot13 vs Bot31: Bot31 won
+[14:36:00.098] [2098/3900] Bot31 vs Bot13: Draw
+[14:36:00.103] [2099/3900] Bot31 vs Bot13: Bot13 won
+[14:36:00.108] [2100/3900] Bot31 vs Bot13: Draw
+[14:36:00.113] [2101/3900] Bot13 vs Bot32: Draw
+[14:36:00.118] [2102/3900] Bot13 vs Bot32: Bot32 won
+[14:36:00.123] [2103/3900] Bot32 vs Bot13: Draw
+[14:36:00.129] [2104/3900] Bot32 vs Bot13: Bot13 won
+[14:36:00.134] [2105/3900] Bot32 vs Bot13: Bot13 won
+[14:36:00.139] [2106/3900] Bot13 vs Bot33: Bot33 won
+[14:36:00.143] [2107/3900] Bot13 vs Bot33: Bot33 won
+[14:36:00.149] [2108/3900] Bot33 vs Bot13: Bot13 won
+[14:36:00.154] [2109/3900] Bot33 vs Bot13: Bot13 won
+[14:36:00.159] [2110/3900] Bot33 vs Bot13: Bot13 won
+[14:36:00.233] [2111/3900] Bot13 vs Bot34: Bot34 won
+[14:36:00.238] [2112/3900] Bot13 vs Bot34: Bot34 won
+[14:36:00.243] [2113/3900] Bot34 vs Bot13: Draw
+[14:36:00.248] [2114/3900] Bot34 vs Bot13: Bot13 won
+[14:36:00.254] [2115/3900] Bot34 vs Bot13: Draw
+[14:36:00.259] [2116/3900] Bot13 vs Bot35: Draw
+[14:36:00.264] [2117/3900] Bot13 vs Bot35: Bot13 won
+[14:36:00.269] [2118/3900] Bot35 vs Bot13: Bot13 won
+[14:36:00.274] [2119/3900] Bot35 vs Bot13: Draw
+[14:36:00.279] [2120/3900] Bot35 vs Bot13: Draw
+[14:36:00.284] [2121/3900] Bot13 vs Bot36: Draw
+[14:36:00.290] [2122/3900] Bot13 vs Bot36: Bot36 won
+[14:36:00.295] [2123/3900] Bot36 vs Bot13: Bot13 won
+[14:36:00.300] [2124/3900] Bot36 vs Bot13: Draw
+[14:36:00.306] [2125/3900] Bot36 vs Bot13: Draw
+[14:36:00.311] [2126/3900] Bot13 vs Bot37: Draw
+[14:36:00.316] [2127/3900] Bot13 vs Bot37: Draw
+[14:36:00.322] [2128/3900] Bot37 vs Bot13: Bot13 won
+[14:36:00.327] [2129/3900] Bot37 vs Bot13: Draw
+[14:36:00.332] [2130/3900] Bot37 vs Bot13: Bot37 won
+[14:36:00.337] [2131/3900] Bot13 vs Bot38: Draw
+[14:36:00.343] [2132/3900] Bot13 vs Bot38: Draw
+[14:36:00.348] [2133/3900] Bot38 vs Bot13: Bot13 won
+[14:36:00.353] [2134/3900] Bot38 vs Bot13: Draw
+[14:36:00.429] [2135/3900] Bot38 vs Bot13: Bot13 won
+[14:36:00.434] [2136/3900] Bot13 vs Bot39: Bot39 won
+[14:36:00.439] [2137/3900] Bot13 vs Bot39: Draw
+[14:36:00.445] [2138/3900] Bot39 vs Bot13: Draw
+[14:36:00.450] [2139/3900] Bot39 vs Bot13: Draw
+[14:36:00.456] [2140/3900] Bot39 vs Bot13: Bot13 won
+[14:36:00.461] [2141/3900] Bot13 vs Bot40: Bot40 won
+[14:36:00.466] [2142/3900] Bot13 vs Bot40: Draw
+[14:36:00.472] [2143/3900] Bot40 vs Bot13: Draw
+[14:36:00.480] [2144/3900] Bot40 vs Bot13: Draw
+[14:36:00.491] [2145/3900] Bot40 vs Bot13: Bot13 won
+[14:36:00.496] [2146/3900] Bot14 vs Bot15: Draw
+[14:36:00.501] [2147/3900] Bot14 vs Bot15: Bot15 won
+[14:36:00.506] [2148/3900] Bot15 vs Bot14: Bot14 won
+[14:36:00.514] [2149/3900] Bot15 vs Bot14: Draw
+[14:36:00.519] [2150/3900] Bot15 vs Bot14: Draw
+[14:36:00.595] [2151/3900] Bot14 vs Bot16: Bot16 won
+[14:36:00.600] [2152/3900] Bot14 vs Bot16: Bot16 won
+[14:36:00.604] [2153/3900] Bot16 vs Bot14: Bot14 won
+[14:36:00.609] [2154/3900] Bot16 vs Bot14: Bot14 won
+[14:36:00.614] [2155/3900] Bot16 vs Bot14: Draw
+[14:36:00.620] [2156/3900] Bot14 vs Bot17: Draw
+[14:36:00.625] [2157/3900] Bot14 vs Bot17: Draw
+[14:36:00.630] [2158/3900] Bot17 vs Bot14: Bot14 won
+[14:36:00.634] [2159/3900] Bot17 vs Bot14: Bot14 won
+[14:36:00.639] [2160/3900] Bot17 vs Bot14: Draw
+[14:36:00.644] [2161/3900] Bot14 vs Bot18: Draw
+[14:36:00.649] [2162/3900] Bot14 vs Bot18: Draw
+[14:36:00.655] [2163/3900] Bot18 vs Bot14: Draw
+[14:36:00.659] [2164/3900] Bot18 vs Bot14: Draw
+[14:36:00.665] [2165/3900] Bot18 vs Bot14: Draw
+[14:36:00.670] [2166/3900] Bot14 vs Bot19: Draw
+[14:36:00.745] [2167/3900] Bot14 vs Bot19: Bot19 won
+[14:36:00.751] [2168/3900] Bot19 vs Bot14: Draw
+[14:36:00.756] [2169/3900] Bot19 vs Bot14: Draw
+[14:36:00.762] [2170/3900] Bot19 vs Bot14: Bot14 won
+[14:36:00.768] [2171/3900] Bot14 vs Bot20: Draw
+[14:36:00.773] [2172/3900] Bot14 vs Bot20: Bot20 won
+[14:36:00.778] [2173/3900] Bot20 vs Bot14: Bot14 won
+[14:36:00.783] [2174/3900] Bot20 vs Bot14: Draw
+[14:36:00.788] [2175/3900] Bot20 vs Bot14: Bot14 won
+[14:36:00.793] [2176/3900] Bot14 vs Bot21: Bot21 won
+[14:36:00.798] [2177/3900] Bot14 vs Bot21: Draw
+[14:36:00.803] [2178/3900] Bot21 vs Bot14: Bot14 won
+[14:36:00.808] [2179/3900] Bot21 vs Bot14: Bot14 won
+[14:36:00.813] [2180/3900] Bot21 vs Bot14: Draw
+[14:36:00.897] [2181/3900] Bot14 vs Bot22: Bot14 won
+[14:36:00.902] [2182/3900] Bot14 vs Bot22: Bot14 won
+[14:36:00.906] [2183/3900] Bot22 vs Bot14: Draw
+[14:36:00.911] [2184/3900] Bot22 vs Bot14: Bot14 won
+[14:36:00.916] [2185/3900] Bot22 vs Bot14: Bot14 won
+[14:36:00.921] [2186/3900] Bot14 vs Bot23: Draw
+[14:36:00.926] [2187/3900] Bot14 vs Bot23: Bot23 won
+[14:36:00.930] [2188/3900] Bot23 vs Bot14: Bot14 won
+[14:36:00.935] [2189/3900] Bot23 vs Bot14: Draw
+[14:36:01.010] [2190/3900] Bot23 vs Bot14: Draw
+[14:36:01.015] [2191/3900] Bot14 vs Bot24: Bot24 won
+[14:36:01.019] [2192/3900] Bot14 vs Bot24: Draw
+[14:36:01.026] [2193/3900] Bot24 vs Bot14: Draw
+[14:36:01.030] [2194/3900] Bot24 vs Bot14: Bot14 won
+[14:36:01.035] [2195/3900] Bot24 vs Bot14: Draw
+[14:36:01.040] [2196/3900] Bot14 vs Bot25: Draw
+[14:36:01.045] [2197/3900] Bot14 vs Bot25: Bot25 won
+[14:36:01.050] [2198/3900] Bot25 vs Bot14: Bot14 won
+[14:36:01.126] [2199/3900] Bot25 vs Bot14: Draw
+[14:36:01.131] [2200/3900] Bot25 vs Bot14: Bot14 won
+[14:36:01.135] [2201/3900] Bot14 vs Bot26: Draw
+[14:36:01.140] [2202/3900] Bot14 vs Bot26: Draw
+[14:36:01.145] [2203/3900] Bot26 vs Bot14: Bot14 won
+[14:36:01.149] [2204/3900] Bot26 vs Bot14: Draw
+[14:36:01.154] [2205/3900] Bot26 vs Bot14: Draw
+[14:36:01.159] [2206/3900] Bot14 vs Bot27: Draw
+[14:36:01.165] [2207/3900] Bot14 vs Bot27: Draw
+[14:36:01.169] [2208/3900] Bot27 vs Bot14: Bot14 won
+[14:36:01.175] [2209/3900] Bot27 vs Bot14: Bot27 won
+[14:36:01.180] [2210/3900] Bot27 vs Bot14: Bot14 won
+[14:36:01.185] [2211/3900] Bot14 vs Bot28: Bot28 won
+[14:36:01.189] [2212/3900] Bot14 vs Bot28: Draw
+[14:36:01.195] [2213/3900] Bot28 vs Bot14: Draw
+[14:36:01.200] [2214/3900] Bot28 vs Bot14: Draw
+[14:36:01.205] [2215/3900] Bot28 vs Bot14: Draw
+[14:36:01.210] [2216/3900] Bot14 vs Bot29: Bot29 won
+[14:36:01.215] [2217/3900] Bot14 vs Bot29: Draw
+[14:36:01.291] [2218/3900] Bot29 vs Bot14: Draw
+[14:36:01.297] [2219/3900] Bot29 vs Bot14: Draw
+[14:36:01.302] [2220/3900] Bot29 vs Bot14: Bot14 won
+[14:36:01.306] [2221/3900] Bot14 vs Bot30: Bot30 won
+[14:36:01.311] [2222/3900] Bot14 vs Bot30: Bot30 won
+[14:36:01.317] [2223/3900] Bot30 vs Bot14: Bot14 won
+[14:36:01.322] [2224/3900] Bot30 vs Bot14: Draw
+[14:36:01.328] [2225/3900] Bot30 vs Bot14: Bot30 won
+[14:36:01.333] [2226/3900] Bot14 vs Bot31: Draw
+[14:36:01.338] [2227/3900] Bot14 vs Bot31: Draw
+[14:36:01.343] [2228/3900] Bot31 vs Bot14: Draw
+[14:36:01.348] [2229/3900] Bot31 vs Bot14: Draw
+[14:36:01.353] [2230/3900] Bot31 vs Bot14: Bot31 won
+[14:36:01.358] [2231/3900] Bot14 vs Bot32: Draw
+[14:36:01.364] [2232/3900] Bot14 vs Bot32: Draw
+[14:36:01.369] [2233/3900] Bot32 vs Bot14: Bot14 won
+[14:36:01.445] [2234/3900] Bot32 vs Bot14: Bot14 won
+[14:36:01.450] [2235/3900] Bot32 vs Bot14: Draw
+[14:36:01.462] [2236/3900] Bot14 vs Bot33: Draw
+[14:36:01.468] [2237/3900] Bot14 vs Bot33: Draw
+[14:36:01.473] [2238/3900] Bot33 vs Bot14: Bot14 won
+[14:36:01.477] [2239/3900] Bot33 vs Bot14: Bot33 won
+[14:36:01.482] [2240/3900] Bot33 vs Bot14: Bot14 won
+[14:36:01.487] [2241/3900] Bot14 vs Bot34: Bot34 won
+[14:36:01.492] [2242/3900] Bot14 vs Bot34: Bot34 won
+[14:36:01.497] [2243/3900] Bot34 vs Bot14: Bot14 won
+[14:36:01.502] [2244/3900] Bot34 vs Bot14: Draw
+[14:36:01.507] [2245/3900] Bot34 vs Bot14: Bot14 won
+[14:36:01.512] [2246/3900] Bot14 vs Bot35: Draw
+[14:36:01.516] [2247/3900] Bot14 vs Bot35: Draw
+[14:36:01.521] [2248/3900] Bot35 vs Bot14: Draw
+[14:36:01.526] [2249/3900] Bot35 vs Bot14: Draw
+[14:36:01.602] [2250/3900] Bot35 vs Bot14: Draw
+[14:36:01.607] [2251/3900] Bot14 vs Bot36: Draw
+[14:36:01.612] [2252/3900] Bot14 vs Bot36: Bot36 won
+[14:36:01.617] [2253/3900] Bot36 vs Bot14: Draw
+[14:36:01.622] [2254/3900] Bot36 vs Bot14: Draw
+[14:36:01.626] [2255/3900] Bot36 vs Bot14: Draw
+[14:36:01.631] [2256/3900] Bot14 vs Bot37: Draw
+[14:36:01.637] [2257/3900] Bot14 vs Bot37: Draw
+[14:36:01.642] [2258/3900] Bot37 vs Bot14: Bot14 won
+[14:36:01.646] [2259/3900] Bot37 vs Bot14: Draw
+[14:36:01.651] [2260/3900] Bot37 vs Bot14: Draw
+[14:36:01.656] [2261/3900] Bot14 vs Bot38: Bot38 won
+[14:36:01.661] [2262/3900] Bot14 vs Bot38: Bot38 won
+[14:36:01.666] [2263/3900] Bot38 vs Bot14: Draw
+[14:36:01.671] [2264/3900] Bot38 vs Bot14: Draw
+[14:36:01.747] [2265/3900] Bot38 vs Bot14: Bot14 won
+[14:36:01.751] [2266/3900] Bot14 vs Bot39: Draw
+[14:36:01.756] [2267/3900] Bot14 vs Bot39: Bot39 won
+[14:36:01.761] [2268/3900] Bot39 vs Bot14: Draw
+[14:36:01.767] [2269/3900] Bot39 vs Bot14: Bot14 won
+[14:36:01.771] [2270/3900] Bot39 vs Bot14: Bot14 won
+[14:36:01.776] [2271/3900] Bot14 vs Bot40: Draw
+[14:36:01.781] [2272/3900] Bot14 vs Bot40: Bot14 won
+[14:36:01.786] [2273/3900] Bot40 vs Bot14: Bot40 won
+[14:36:01.791] [2274/3900] Bot40 vs Bot14: Draw
+[14:36:01.796] [2275/3900] Bot40 vs Bot14: Draw
+[14:36:01.801] [2276/3900] Bot15 vs Bot16: Draw
+[14:36:01.806] [2277/3900] Bot15 vs Bot16: Bot15 won
+[14:36:01.811] [2278/3900] Bot16 vs Bot15: Draw
+[14:36:01.816] [2279/3900] Bot16 vs Bot15: Bot15 won
+[14:36:01.821] [2280/3900] Bot16 vs Bot15: Draw
+[14:36:01.896] [2281/3900] Bot15 vs Bot17: Bot17 won
+[14:36:01.901] [2282/3900] Bot15 vs Bot17: Draw
+[14:36:01.907] [2283/3900] Bot17 vs Bot15: Bot15 won
+[14:36:01.912] [2284/3900] Bot17 vs Bot15: Bot15 won
+[14:36:01.918] [2285/3900] Bot17 vs Bot15: Bot15 won
+[14:36:01.923] [2286/3900] Bot15 vs Bot18: Draw
+[14:36:01.928] [2287/3900] Bot15 vs Bot18: Bot18 won
+[14:36:01.933] [2288/3900] Bot18 vs Bot15: Bot15 won
+[14:36:01.938] [2289/3900] Bot18 vs Bot15: Bot15 won
+[14:36:01.943] [2290/3900] Bot18 vs Bot15: Bot18 won
+[14:36:01.949] [2291/3900] Bot15 vs Bot19: Draw
+[14:36:01.955] [2292/3900] Bot15 vs Bot19: Bot19 won
+[14:36:01.960] [2293/3900] Bot19 vs Bot15: Draw
+[14:36:01.966] [2294/3900] Bot19 vs Bot15: Bot15 won
+[14:36:01.971] [2295/3900] Bot19 vs Bot15: Bot19 won
+[14:36:02.049] [2296/3900] Bot15 vs Bot20: Bot15 won
+[14:36:02.054] [2297/3900] Bot15 vs Bot20: Bot20 won
+[14:36:02.059] [2298/3900] Bot20 vs Bot15: Draw
+[14:36:02.063] [2299/3900] Bot20 vs Bot15: Bot15 won
+[14:36:02.068] [2300/3900] Bot20 vs Bot15: Bot15 won
+[14:36:02.073] [2301/3900] Bot15 vs Bot21: Draw
+[14:36:02.078] [2302/3900] Bot15 vs Bot21: Bot21 won
+[14:36:02.082] [2303/3900] Bot21 vs Bot15: Bot15 won
+[14:36:02.087] [2304/3900] Bot21 vs Bot15: Bot15 won
+[14:36:02.092] [2305/3900] Bot21 vs Bot15: Bot15 won
+[14:36:02.097] [2306/3900] Bot15 vs Bot22: Draw
+[14:36:02.102] [2307/3900] Bot15 vs Bot22: Draw
+[14:36:02.107] [2308/3900] Bot22 vs Bot15: Draw
+[14:36:02.112] [2309/3900] Bot22 vs Bot15: Draw
+[14:36:02.117] [2310/3900] Bot22 vs Bot15: Draw
+[14:36:02.122] [2311/3900] Bot15 vs Bot23: Draw
+[14:36:02.127] [2312/3900] Bot15 vs Bot23: Bot23 won
+[14:36:02.132] [2313/3900] Bot23 vs Bot15: Bot15 won
+[14:36:02.137] [2314/3900] Bot23 vs Bot15: Draw
+[14:36:02.143] [2315/3900] Bot23 vs Bot15: Draw
+[14:36:02.218] [2316/3900] Bot15 vs Bot24: Bot24 won
+[14:36:02.222] [2317/3900] Bot15 vs Bot24: Bot24 won
+[14:36:02.228] [2318/3900] Bot24 vs Bot15: Draw
+[14:36:02.232] [2319/3900] Bot24 vs Bot15: Bot15 won
+[14:36:02.237] [2320/3900] Bot24 vs Bot15: Draw
+[14:36:02.245] [2321/3900] Bot15 vs Bot25: Bot25 won
+[14:36:02.250] [2322/3900] Bot15 vs Bot25: Draw
+[14:36:02.255] [2323/3900] Bot25 vs Bot15: Bot15 won
+[14:36:02.260] [2324/3900] Bot25 vs Bot15: Draw
+[14:36:02.265] [2325/3900] Bot25 vs Bot15: Draw
+[14:36:02.344] [2326/3900] Bot15 vs Bot26: Bot15 won
+[14:36:02.349] [2327/3900] Bot15 vs Bot26: Draw
+[14:36:02.355] [2328/3900] Bot26 vs Bot15: Bot15 won
+[14:36:02.359] [2329/3900] Bot26 vs Bot15: Bot15 won
+[14:36:02.364] [2330/3900] Bot26 vs Bot15: Draw
+[14:36:02.368] [2331/3900] Bot15 vs Bot27: Draw
+[14:36:02.374] [2332/3900] Bot15 vs Bot27: Draw
+[14:36:02.378] [2333/3900] Bot27 vs Bot15: Bot15 won
+[14:36:02.383] [2334/3900] Bot27 vs Bot15: Bot15 won
+[14:36:02.459] [2335/3900] Bot27 vs Bot15: Draw
+[14:36:02.464] [2336/3900] Bot15 vs Bot28: Draw
+[14:36:02.469] [2337/3900] Bot15 vs Bot28: Draw
+[14:36:02.474] [2338/3900] Bot28 vs Bot15: Draw
+[14:36:02.479] [2339/3900] Bot28 vs Bot15: Bot15 won
+[14:36:02.483] [2340/3900] Bot28 vs Bot15: Bot28 won
+[14:36:02.488] [2341/3900] Bot15 vs Bot29: Bot29 won
+[14:36:02.492] [2342/3900] Bot15 vs Bot29: Bot29 won
+[14:36:02.498] [2343/3900] Bot29 vs Bot15: Bot15 won
+[14:36:02.502] [2344/3900] Bot29 vs Bot15: Bot15 won
+[14:36:02.508] [2345/3900] Bot29 vs Bot15: Draw
+[14:36:02.513] [2346/3900] Bot15 vs Bot30: Draw
+[14:36:02.517] [2347/3900] Bot15 vs Bot30: Bot30 won
+[14:36:02.521] [2348/3900] Bot30 vs Bot15: Bot15 won
+[14:36:02.527] [2349/3900] Bot30 vs Bot15: Bot15 won
+[14:36:02.532] [2350/3900] Bot30 vs Bot15: Bot15 won
+[14:36:02.536] [2351/3900] Bot15 vs Bot31: Draw
+[14:36:02.541] [2352/3900] Bot15 vs Bot31: Draw
+[14:36:02.546] [2353/3900] Bot31 vs Bot15: Draw
+[14:36:02.551] [2354/3900] Bot31 vs Bot15: Bot15 won
+[14:36:02.556] [2355/3900] Bot31 vs Bot15: Bot15 won
+[14:36:02.561] [2356/3900] Bot15 vs Bot32: Bot32 won
+[14:36:02.636] [2357/3900] Bot15 vs Bot32: Draw
+[14:36:02.641] [2358/3900] Bot32 vs Bot15: Bot15 won
+[14:36:02.647] [2359/3900] Bot32 vs Bot15: Draw
+[14:36:02.652] [2360/3900] Bot32 vs Bot15: Draw
+[14:36:02.657] [2361/3900] Bot15 vs Bot33: Draw
+[14:36:02.662] [2362/3900] Bot15 vs Bot33: Draw
+[14:36:02.668] [2363/3900] Bot33 vs Bot15: Draw
+[14:36:02.673] [2364/3900] Bot33 vs Bot15: Bot15 won
+[14:36:02.678] [2365/3900] Bot33 vs Bot15: Draw
+[14:36:02.683] [2366/3900] Bot15 vs Bot34: Bot34 won
+[14:36:02.688] [2367/3900] Bot15 vs Bot34: Bot34 won
+[14:36:02.693] [2368/3900] Bot34 vs Bot15: Bot34 won
+[14:36:02.698] [2369/3900] Bot34 vs Bot15: Draw
+[14:36:02.703] [2370/3900] Bot34 vs Bot15: Draw
+[14:36:02.709] [2371/3900] Bot15 vs Bot35: Bot35 won
+[14:36:02.784] [2372/3900] Bot15 vs Bot35: Bot35 won
+[14:36:02.790] [2373/3900] Bot35 vs Bot15: Bot15 won
+[14:36:02.795] [2374/3900] Bot35 vs Bot15: Draw
+[14:36:02.800] [2375/3900] Bot35 vs Bot15: Draw
+[14:36:02.806] [2376/3900] Bot15 vs Bot36: Bot36 won
+[14:36:02.811] [2377/3900] Bot15 vs Bot36: Bot15 won
+[14:36:02.817] [2378/3900] Bot36 vs Bot15: Bot15 won
+[14:36:02.822] [2379/3900] Bot36 vs Bot15: Draw
+[14:36:02.828] [2380/3900] Bot36 vs Bot15: Bot15 won
+[14:36:02.833] [2381/3900] Bot15 vs Bot37: Bot37 won
+[14:36:02.839] [2382/3900] Bot15 vs Bot37: Bot37 won
+[14:36:02.844] [2383/3900] Bot37 vs Bot15: Draw
+[14:36:02.850] [2384/3900] Bot37 vs Bot15: Bot15 won
+[14:36:02.858] [2385/3900] Bot37 vs Bot15: Bot37 won
+[14:36:02.862] [2386/3900] Bot15 vs Bot38: Draw
+[14:36:02.867] [2387/3900] Bot15 vs Bot38: Bot38 won
+[14:36:02.943] [2388/3900] Bot38 vs Bot15: Draw
+[14:36:02.948] [2389/3900] Bot38 vs Bot15: Bot15 won
+[14:36:02.952] [2390/3900] Bot38 vs Bot15: Bot15 won
+[14:36:02.957] [2391/3900] Bot15 vs Bot39: Bot39 won
+[14:36:02.962] [2392/3900] Bot15 vs Bot39: Bot39 won
+[14:36:02.966] [2393/3900] Bot39 vs Bot15: Draw
+[14:36:02.971] [2394/3900] Bot39 vs Bot15: Draw
+[14:36:02.976] [2395/3900] Bot39 vs Bot15: Draw
+[14:36:02.981] [2396/3900] Bot15 vs Bot40: Draw
+[14:36:02.986] [2397/3900] Bot15 vs Bot40: Draw
+[14:36:02.991] [2398/3900] Bot40 vs Bot15: Bot15 won
+[14:36:02.996] [2399/3900] Bot40 vs Bot15: Draw
+[14:36:03.001] [2400/3900] Bot40 vs Bot15: Bot15 won
+[14:36:03.005] [2401/3900] Bot16 vs Bot17: Bot16 won
+[14:36:03.010] [2402/3900] Bot16 vs Bot17: Draw
+[14:36:03.016] [2403/3900] Bot17 vs Bot16: Bot16 won
+[14:36:03.091] [2404/3900] Bot17 vs Bot16: Draw
+[14:36:03.097] [2405/3900] Bot17 vs Bot16: Draw
+[14:36:03.102] [2406/3900] Bot16 vs Bot18: Draw
+[14:36:03.106] [2407/3900] Bot16 vs Bot18: Bot18 won
+[14:36:03.111] [2408/3900] Bot18 vs Bot16: Bot16 won
+[14:36:03.117] [2409/3900] Bot18 vs Bot16: Draw
+[14:36:03.122] [2410/3900] Bot18 vs Bot16: Bot16 won
+[14:36:03.127] [2411/3900] Bot16 vs Bot19: Draw
+[14:36:03.132] [2412/3900] Bot16 vs Bot19: Draw
+[14:36:03.136] [2413/3900] Bot19 vs Bot16: Bot19 won
+[14:36:03.141] [2414/3900] Bot19 vs Bot16: Draw
+[14:36:03.147] [2415/3900] Bot19 vs Bot16: Bot16 won
+[14:36:03.152] [2416/3900] Bot16 vs Bot20: Draw
+[14:36:03.157] [2417/3900] Bot16 vs Bot20: Draw
+[14:36:03.162] [2418/3900] Bot20 vs Bot16: Bot16 won
+[14:36:03.167] [2419/3900] Bot20 vs Bot16: Draw
+[14:36:03.242] [2420/3900] Bot20 vs Bot16: Bot16 won
+[14:36:03.248] [2421/3900] Bot16 vs Bot21: Bot21 won
+[14:36:03.253] [2422/3900] Bot16 vs Bot21: Bot16 won
+[14:36:03.259] [2423/3900] Bot21 vs Bot16: Bot16 won
+[14:36:03.264] [2424/3900] Bot21 vs Bot16: Draw
+[14:36:03.269] [2425/3900] Bot21 vs Bot16: Draw
+[14:36:03.274] [2426/3900] Bot16 vs Bot22: Draw
+[14:36:03.279] [2427/3900] Bot16 vs Bot22: Bot22 won
+[14:36:03.285] [2428/3900] Bot22 vs Bot16: Bot16 won
+[14:36:03.290] [2429/3900] Bot22 vs Bot16: Bot22 won
+[14:36:03.295] [2430/3900] Bot22 vs Bot16: Bot16 won
+[14:36:03.300] [2431/3900] Bot16 vs Bot23: Bot23 won
+[14:36:03.306] [2432/3900] Bot16 vs Bot23: Bot23 won
+[14:36:03.311] [2433/3900] Bot23 vs Bot16: Draw
+[14:36:03.316] [2434/3900] Bot23 vs Bot16: Draw
+[14:36:03.321] [2435/3900] Bot23 vs Bot16: Bot16 won
+[14:36:03.327] [2436/3900] Bot16 vs Bot24: Bot16 won
+[14:36:03.333] [2437/3900] Bot16 vs Bot24: Draw
+[14:36:03.338] [2438/3900] Bot24 vs Bot16: Bot16 won
+[14:36:03.343] [2439/3900] Bot24 vs Bot16: Draw
+[14:36:03.348] [2440/3900] Bot24 vs Bot16: Bot16 won
+[14:36:03.354] [2441/3900] Bot16 vs Bot25: Bot25 won
+[14:36:03.359] [2442/3900] Bot16 vs Bot25: Draw
+[14:36:03.365] [2443/3900] Bot25 vs Bot16: Bot16 won
+[14:36:03.370] [2444/3900] Bot25 vs Bot16: Bot16 won
+[14:36:03.378] [2445/3900] Bot25 vs Bot16: Bot16 won
+[14:36:03.382] [2446/3900] Bot16 vs Bot26: Bot26 won
+[14:36:03.388] [2447/3900] Bot16 vs Bot26: Draw
+[14:36:03.393] [2448/3900] Bot26 vs Bot16: Draw
+[14:36:03.397] [2449/3900] Bot26 vs Bot16: Draw
+[14:36:03.472] [2450/3900] Bot26 vs Bot16: Bot26 won
+[14:36:03.479] [2451/3900] Bot16 vs Bot27: Draw
+[14:36:03.484] [2452/3900] Bot16 vs Bot27: Bot16 won
+[14:36:03.490] [2453/3900] Bot27 vs Bot16: Bot16 won
+[14:36:03.496] [2454/3900] Bot27 vs Bot16: Bot16 won
+[14:36:03.501] [2455/3900] Bot27 vs Bot16: Bot16 won
+[14:36:03.506] [2456/3900] Bot16 vs Bot28: Bot28 won
+[14:36:03.512] [2457/3900] Bot16 vs Bot28: Draw
+[14:36:03.516] [2458/3900] Bot28 vs Bot16: Bot16 won
+[14:36:03.521] [2459/3900] Bot28 vs Bot16: Bot16 won
+[14:36:03.526] [2460/3900] Bot28 vs Bot16: Bot16 won
+[14:36:03.531] [2461/3900] Bot16 vs Bot29: Draw
+[14:36:03.537] [2462/3900] Bot16 vs Bot29: Bot29 won
+[14:36:03.542] [2463/3900] Bot29 vs Bot16: Draw
+[14:36:03.547] [2464/3900] Bot29 vs Bot16: Bot16 won
+[14:36:03.552] [2465/3900] Bot29 vs Bot16: Bot29 won
+[14:36:03.557] [2466/3900] Bot16 vs Bot30: Draw
+[14:36:03.562] [2467/3900] Bot16 vs Bot30: Bot30 won
+[14:36:03.568] [2468/3900] Bot30 vs Bot16: Draw
+[14:36:03.573] [2469/3900] Bot30 vs Bot16: Draw
+[14:36:03.578] [2470/3900] Bot30 vs Bot16: Bot30 won
+[14:36:03.655] [2471/3900] Bot16 vs Bot31: Draw
+[14:36:03.660] [2472/3900] Bot16 vs Bot31: Bot31 won
+[14:36:03.666] [2473/3900] Bot31 vs Bot16: Draw
+[14:36:03.671] [2474/3900] Bot31 vs Bot16: Bot16 won
+[14:36:03.676] [2475/3900] Bot31 vs Bot16: Bot31 won
+[14:36:03.682] [2476/3900] Bot16 vs Bot32: Bot32 won
+[14:36:03.688] [2477/3900] Bot16 vs Bot32: Draw
+[14:36:03.693] [2478/3900] Bot32 vs Bot16: Bot16 won
+[14:36:03.698] [2479/3900] Bot32 vs Bot16: Draw
+[14:36:03.704] [2480/3900] Bot32 vs Bot16: Bot16 won
+[14:36:03.708] [2481/3900] Bot16 vs Bot33: Bot33 won
+[14:36:03.714] [2482/3900] Bot16 vs Bot33: Bot33 won
+[14:36:03.719] [2483/3900] Bot33 vs Bot16: Draw
+[14:36:03.724] [2484/3900] Bot33 vs Bot16: Bot16 won
+[14:36:03.729] [2485/3900] Bot33 vs Bot16: Bot16 won
+[14:36:03.733] [2486/3900] Bot16 vs Bot34: Draw
+[14:36:03.809] [2487/3900] Bot16 vs Bot34: Draw
+[14:36:03.813] [2488/3900] Bot34 vs Bot16: Draw
+[14:36:03.818] [2489/3900] Bot34 vs Bot16: Draw
+[14:36:03.822] [2490/3900] Bot34 vs Bot16: Bot16 won
+[14:36:03.828] [2491/3900] Bot16 vs Bot35: Draw
+[14:36:03.832] [2492/3900] Bot16 vs Bot35: Draw
+[14:36:03.837] [2493/3900] Bot35 vs Bot16: Draw
+[14:36:03.842] [2494/3900] Bot35 vs Bot16: Draw
+[14:36:03.848] [2495/3900] Bot35 vs Bot16: Bot35 won
+[14:36:03.853] [2496/3900] Bot16 vs Bot36: Bot36 won
+[14:36:03.858] [2497/3900] Bot16 vs Bot36: Bot36 won
+[14:36:03.863] [2498/3900] Bot36 vs Bot16: Bot16 won
+[14:36:03.867] [2499/3900] Bot36 vs Bot16: Draw
+[14:36:03.872] [2500/3900] Bot36 vs Bot16: Bot16 won
+[14:36:03.878] [2501/3900] Bot16 vs Bot37: Bot16 won
+[14:36:03.953] [2502/3900] Bot16 vs Bot37: Draw
+[14:36:03.959] [2503/3900] Bot37 vs Bot16: Draw
+[14:36:03.964] [2504/3900] Bot37 vs Bot16: Draw
+[14:36:03.969] [2505/3900] Bot37 vs Bot16: Bot16 won
+[14:36:03.974] [2506/3900] Bot16 vs Bot38: Draw
+[14:36:03.979] [2507/3900] Bot16 vs Bot38: Draw
+[14:36:03.984] [2508/3900] Bot38 vs Bot16: Draw
+[14:36:03.989] [2509/3900] Bot38 vs Bot16: Bot16 won
+[14:36:03.994] [2510/3900] Bot38 vs Bot16: Draw
+[14:36:03.999] [2511/3900] Bot16 vs Bot39: Draw
+[14:36:04.004] [2512/3900] Bot16 vs Bot39: Bot39 won
+[14:36:04.009] [2513/3900] Bot39 vs Bot16: Bot16 won
+[14:36:04.015] [2514/3900] Bot39 vs Bot16: Draw
+[14:36:04.020] [2515/3900] Bot39 vs Bot16: Draw
+[14:36:04.025] [2516/3900] Bot16 vs Bot40: Draw
+[14:36:04.030] [2517/3900] Bot16 vs Bot40: Bot40 won
+[14:36:04.107] [2518/3900] Bot40 vs Bot16: Bot16 won
+[14:36:04.112] [2519/3900] Bot40 vs Bot16: Draw
+[14:36:04.117] [2520/3900] Bot40 vs Bot16: Draw
+[14:36:04.122] [2521/3900] Bot17 vs Bot18: Bot18 won
+[14:36:04.128] [2522/3900] Bot17 vs Bot18: Draw
+[14:36:04.133] [2523/3900] Bot18 vs Bot17: Draw
+[14:36:04.138] [2524/3900] Bot18 vs Bot17: Draw
+[14:36:04.143] [2525/3900] Bot18 vs Bot17: Draw
+[14:36:04.148] [2526/3900] Bot17 vs Bot19: Bot19 won
+[14:36:04.153] [2527/3900] Bot17 vs Bot19: Draw
+[14:36:04.158] [2528/3900] Bot19 vs Bot17: Bot17 won
+[14:36:04.163] [2529/3900] Bot19 vs Bot17: Draw
+[14:36:04.168] [2530/3900] Bot19 vs Bot17: Draw
+[14:36:04.173] [2531/3900] Bot17 vs Bot20: Bot20 won
+[14:36:04.178] [2532/3900] Bot17 vs Bot20: Bot20 won
+[14:36:04.183] [2533/3900] Bot20 vs Bot17: Bot17 won
+[14:36:04.260] [2534/3900] Bot20 vs Bot17: Bot17 won
+[14:36:04.265] [2535/3900] Bot20 vs Bot17: Bot17 won
+[14:36:04.271] [2536/3900] Bot17 vs Bot21: Bot21 won
+[14:36:04.277] [2537/3900] Bot17 vs Bot21: Bot21 won
+[14:36:04.282] [2538/3900] Bot21 vs Bot17: Bot17 won
+[14:36:04.287] [2539/3900] Bot21 vs Bot17: Draw
+[14:36:04.294] [2540/3900] Bot21 vs Bot17: Draw
+[14:36:04.302] [2541/3900] Bot17 vs Bot22: Bot17 won
+[14:36:04.308] [2542/3900] Bot17 vs Bot22: Draw
+[14:36:04.313] [2543/3900] Bot22 vs Bot17: Bot17 won
+[14:36:04.317] [2544/3900] Bot22 vs Bot17: Draw
+[14:36:04.323] [2545/3900] Bot22 vs Bot17: Draw
+[14:36:04.328] [2546/3900] Bot17 vs Bot23: Bot23 won
+[14:36:04.333] [2547/3900] Bot17 vs Bot23: Draw
+[14:36:04.338] [2548/3900] Bot23 vs Bot17: Bot17 won
+[14:36:04.343] [2549/3900] Bot23 vs Bot17: Draw
+[14:36:04.418] [2550/3900] Bot23 vs Bot17: Draw
+[14:36:04.423] [2551/3900] Bot17 vs Bot24: Draw
+[14:36:04.428] [2552/3900] Bot17 vs Bot24: Bot24 won
+[14:36:04.433] [2553/3900] Bot24 vs Bot17: Bot17 won
+[14:36:04.438] [2554/3900] Bot24 vs Bot17: Draw
+[14:36:04.443] [2555/3900] Bot24 vs Bot17: Draw
+[14:36:04.448] [2556/3900] Bot17 vs Bot25: Draw
+[14:36:04.453] [2557/3900] Bot17 vs Bot25: Draw
+[14:36:04.458] [2558/3900] Bot25 vs Bot17: Draw
+[14:36:04.463] [2559/3900] Bot25 vs Bot17: Bot17 won
+[14:36:04.467] [2560/3900] Bot25 vs Bot17: Bot17 won
+[14:36:04.472] [2561/3900] Bot17 vs Bot26: Bot17 won
+[14:36:04.477] [2562/3900] Bot17 vs Bot26: Draw
+[14:36:04.482] [2563/3900] Bot26 vs Bot17: Bot17 won
+[14:36:04.487] [2564/3900] Bot26 vs Bot17: Draw
+[14:36:04.492] [2565/3900] Bot26 vs Bot17: Bot17 won
+[14:36:04.567] [2566/3900] Bot17 vs Bot27: Draw
+[14:36:04.572] [2567/3900] Bot17 vs Bot27: Bot27 won
+[14:36:04.578] [2568/3900] Bot27 vs Bot17: Bot17 won
+[14:36:04.583] [2569/3900] Bot27 vs Bot17: Draw
+[14:36:04.588] [2570/3900] Bot27 vs Bot17: Draw
+[14:36:04.593] [2571/3900] Bot17 vs Bot28: Draw
+[14:36:04.598] [2572/3900] Bot17 vs Bot28: Bot17 won
+[14:36:04.603] [2573/3900] Bot28 vs Bot17: Bot17 won
+[14:36:04.608] [2574/3900] Bot28 vs Bot17: Bot17 won
+[14:36:04.613] [2575/3900] Bot28 vs Bot17: Bot17 won
+[14:36:04.618] [2576/3900] Bot17 vs Bot29: Bot29 won
+[14:36:04.623] [2577/3900] Bot17 vs Bot29: Bot29 won
+[14:36:04.628] [2578/3900] Bot29 vs Bot17: Bot17 won
+[14:36:04.633] [2579/3900] Bot29 vs Bot17: Draw
+[14:36:04.638] [2580/3900] Bot29 vs Bot17: Bot17 won
+[14:36:04.643] [2581/3900] Bot17 vs Bot30: Bot30 won
+[14:36:04.718] [2582/3900] Bot17 vs Bot30: Bot30 won
+[14:36:04.723] [2583/3900] Bot30 vs Bot17: Bot17 won
+[14:36:04.729] [2584/3900] Bot30 vs Bot17: Draw
+[14:36:04.733] [2585/3900] Bot30 vs Bot17: Draw
+[14:36:04.739] [2586/3900] Bot17 vs Bot31: Bot31 won
+[14:36:04.744] [2587/3900] Bot17 vs Bot31: Draw
+[14:36:04.749] [2588/3900] Bot31 vs Bot17: Draw
+[14:36:04.754] [2589/3900] Bot31 vs Bot17: Bot17 won
+[14:36:04.759] [2590/3900] Bot31 vs Bot17: Draw
+[14:36:04.764] [2591/3900] Bot17 vs Bot32: Draw
+[14:36:04.769] [2592/3900] Bot17 vs Bot32: Draw
+[14:36:04.774] [2593/3900] Bot32 vs Bot17: Bot17 won
+[14:36:04.780] [2594/3900] Bot32 vs Bot17: Draw
+[14:36:04.785] [2595/3900] Bot32 vs Bot17: Draw
+[14:36:04.790] [2596/3900] Bot17 vs Bot33: Draw
+[14:36:04.795] [2597/3900] Bot17 vs Bot33: Draw
+[14:36:04.873] [2598/3900] Bot33 vs Bot17: Bot33 won
+[14:36:04.878] [2599/3900] Bot33 vs Bot17: Bot33 won
+[14:36:04.883] [2600/3900] Bot33 vs Bot17: Draw
+[14:36:04.889] [2601/3900] Bot17 vs Bot34: Bot34 won
+[14:36:04.894] [2602/3900] Bot17 vs Bot34: Bot34 won
+[14:36:04.899] [2603/3900] Bot34 vs Bot17: Bot17 won
+[14:36:04.907] [2604/3900] Bot34 vs Bot17: Bot34 won
+[14:36:04.911] [2605/3900] Bot34 vs Bot17: Draw
+[14:36:04.917] [2606/3900] Bot17 vs Bot35: Draw
+[14:36:04.921] [2607/3900] Bot17 vs Bot35: Bot35 won
+[14:36:04.925] [2608/3900] Bot35 vs Bot17: Draw
+[14:36:04.930] [2609/3900] Bot35 vs Bot17: Bot17 won
+[14:36:04.935] [2610/3900] Bot35 vs Bot17: Bot17 won
+[14:36:04.940] [2611/3900] Bot17 vs Bot36: Bot36 won
+[14:36:04.945] [2612/3900] Bot17 vs Bot36: Draw
+[14:36:04.950] [2613/3900] Bot36 vs Bot17: Draw
+[14:36:05.026] [2614/3900] Bot36 vs Bot17: Bot36 won
+[14:36:05.031] [2615/3900] Bot36 vs Bot17: Draw
+[14:36:05.037] [2616/3900] Bot17 vs Bot37: Bot17 won
+[14:36:05.042] [2617/3900] Bot17 vs Bot37: Bot37 won
+[14:36:05.047] [2618/3900] Bot37 vs Bot17: Draw
+[14:36:05.052] [2619/3900] Bot37 vs Bot17: Bot17 won
+[14:36:05.057] [2620/3900] Bot37 vs Bot17: Bot37 won
+[14:36:05.062] [2621/3900] Bot17 vs Bot38: Draw
+[14:36:05.068] [2622/3900] Bot17 vs Bot38: Bot38 won
+[14:36:05.072] [2623/3900] Bot38 vs Bot17: Bot17 won
+[14:36:05.078] [2624/3900] Bot38 vs Bot17: Draw
+[14:36:05.083] [2625/3900] Bot38 vs Bot17: Draw
+[14:36:05.088] [2626/3900] Bot17 vs Bot39: Bot39 won
+[14:36:05.093] [2627/3900] Bot17 vs Bot39: Bot39 won
+[14:36:05.098] [2628/3900] Bot39 vs Bot17: Bot17 won
+[14:36:05.103] [2629/3900] Bot39 vs Bot17: Bot39 won
+[14:36:05.178] [2630/3900] Bot39 vs Bot17: Bot17 won
+[14:36:05.184] [2631/3900] Bot17 vs Bot40: Draw
+[14:36:05.189] [2632/3900] Bot17 vs Bot40: Bot40 won
+[14:36:05.194] [2633/3900] Bot40 vs Bot17: Bot17 won
+[14:36:05.200] [2634/3900] Bot40 vs Bot17: Draw
+[14:36:05.204] [2635/3900] Bot40 vs Bot17: Draw
+[14:36:05.209] [2636/3900] Bot18 vs Bot19: Bot19 won
+[14:36:05.214] [2637/3900] Bot18 vs Bot19: Draw
+[14:36:05.220] [2638/3900] Bot19 vs Bot18: Draw
+[14:36:05.225] [2639/3900] Bot19 vs Bot18: Bot19 won
+[14:36:05.230] [2640/3900] Bot19 vs Bot18: Draw
+[14:36:05.236] [2641/3900] Bot18 vs Bot20: Bot18 won
+[14:36:05.241] [2642/3900] Bot18 vs Bot20: Bot20 won
+[14:36:05.249] [2643/3900] Bot20 vs Bot18: Bot18 won
+[14:36:05.254] [2644/3900] Bot20 vs Bot18: Bot18 won
+[14:36:05.258] [2645/3900] Bot20 vs Bot18: Bot18 won
+[14:36:05.335] [2646/3900] Bot18 vs Bot21: Bot21 won
+[14:36:05.339] [2647/3900] Bot18 vs Bot21: Bot21 won
+[14:36:05.344] [2648/3900] Bot21 vs Bot18: Draw
+[14:36:05.349] [2649/3900] Bot21 vs Bot18: Draw
+[14:36:05.354] [2650/3900] Bot21 vs Bot18: Draw
+[14:36:05.359] [2651/3900] Bot18 vs Bot22: Bot22 won
+[14:36:05.364] [2652/3900] Bot18 vs Bot22: Bot22 won
+[14:36:05.369] [2653/3900] Bot22 vs Bot18: Bot18 won
+[14:36:05.374] [2654/3900] Bot22 vs Bot18: Draw
+[14:36:05.378] [2655/3900] Bot22 vs Bot18: Draw
+[14:36:05.383] [2656/3900] Bot18 vs Bot23: Bot23 won
+[14:36:05.387] [2657/3900] Bot18 vs Bot23: Draw
+[14:36:05.392] [2658/3900] Bot23 vs Bot18: Bot18 won
+[14:36:05.398] [2659/3900] Bot23 vs Bot18: Draw
+[14:36:05.402] [2660/3900] Bot23 vs Bot18: Bot18 won
+[14:36:05.407] [2661/3900] Bot18 vs Bot24: Bot18 won
+[14:36:05.483] [2662/3900] Bot18 vs Bot24: Draw
+[14:36:05.488] [2663/3900] Bot24 vs Bot18: Bot18 won
+[14:36:05.493] [2664/3900] Bot24 vs Bot18: Bot24 won
+[14:36:05.498] [2665/3900] Bot24 vs Bot18: Draw
+[14:36:05.503] [2666/3900] Bot18 vs Bot25: Bot25 won
+[14:36:05.508] [2667/3900] Bot18 vs Bot25: Draw
+[14:36:05.513] [2668/3900] Bot25 vs Bot18: Bot18 won
+[14:36:05.518] [2669/3900] Bot25 vs Bot18: Bot18 won
+[14:36:05.523] [2670/3900] Bot25 vs Bot18: Bot18 won
+[14:36:05.527] [2671/3900] Bot18 vs Bot26: Draw
+[14:36:05.532] [2672/3900] Bot18 vs Bot26: Bot26 won
+[14:36:05.538] [2673/3900] Bot26 vs Bot18: Draw
+[14:36:05.543] [2674/3900] Bot26 vs Bot18: Bot18 won
+[14:36:05.548] [2675/3900] Bot26 vs Bot18: Bot18 won
+[14:36:05.553] [2676/3900] Bot18 vs Bot27: Draw
+[14:36:05.559] [2677/3900] Bot18 vs Bot27: Draw
+[14:36:05.634] [2678/3900] Bot27 vs Bot18: Bot18 won
+[14:36:05.639] [2679/3900] Bot27 vs Bot18: Draw
+[14:36:05.645] [2680/3900] Bot27 vs Bot18: Bot18 won
+[14:36:05.650] [2681/3900] Bot18 vs Bot28: Bot28 won
+[14:36:05.655] [2682/3900] Bot18 vs Bot28: Bot28 won
+[14:36:05.660] [2683/3900] Bot28 vs Bot18: Bot18 won
+[14:36:05.664] [2684/3900] Bot28 vs Bot18: Draw
+[14:36:05.669] [2685/3900] Bot28 vs Bot18: Bot18 won
+[14:36:05.675] [2686/3900] Bot18 vs Bot29: Bot29 won
+[14:36:05.680] [2687/3900] Bot18 vs Bot29: Bot29 won
+[14:36:05.685] [2688/3900] Bot29 vs Bot18: Bot18 won
+[14:36:05.690] [2689/3900] Bot29 vs Bot18: Bot18 won
+[14:36:05.696] [2690/3900] Bot29 vs Bot18: Draw
+[14:36:05.701] [2691/3900] Bot18 vs Bot30: Draw
+[14:36:05.705] [2692/3900] Bot18 vs Bot30: Draw
+[14:36:05.782] [2693/3900] Bot30 vs Bot18: Draw
+[14:36:05.788] [2694/3900] Bot30 vs Bot18: Draw
+[14:36:05.793] [2695/3900] Bot30 vs Bot18: Bot18 won
+[14:36:05.798] [2696/3900] Bot18 vs Bot31: Draw
+[14:36:05.803] [2697/3900] Bot18 vs Bot31: Draw
+[14:36:05.808] [2698/3900] Bot31 vs Bot18: Bot18 won
+[14:36:05.813] [2699/3900] Bot31 vs Bot18: Draw
+[14:36:05.818] [2700/3900] Bot31 vs Bot18: Bot18 won
+[14:36:05.823] [2701/3900] Bot18 vs Bot32: Draw
+[14:36:05.828] [2702/3900] Bot18 vs Bot32: Bot32 won
+[14:36:05.836] [2703/3900] Bot32 vs Bot18: Draw
+[14:36:05.841] [2704/3900] Bot32 vs Bot18: Draw
+[14:36:05.846] [2705/3900] Bot32 vs Bot18: Bot18 won
+[14:36:05.851] [2706/3900] Bot18 vs Bot33: Bot18 won
+[14:36:05.856] [2707/3900] Bot18 vs Bot33: Draw
+[14:36:05.861] [2708/3900] Bot33 vs Bot18: Draw
+[14:36:05.937] [2709/3900] Bot33 vs Bot18: Bot18 won
+[14:36:05.942] [2710/3900] Bot33 vs Bot18: Bot18 won
+[14:36:05.947] [2711/3900] Bot18 vs Bot34: Bot34 won
+[14:36:05.951] [2712/3900] Bot18 vs Bot34: Bot34 won
+[14:36:05.957] [2713/3900] Bot34 vs Bot18: Bot18 won
+[14:36:05.962] [2714/3900] Bot34 vs Bot18: Bot18 won
+[14:36:05.967] [2715/3900] Bot34 vs Bot18: Bot18 won
+[14:36:05.972] [2716/3900] Bot18 vs Bot35: Draw
+[14:36:05.977] [2717/3900] Bot18 vs Bot35: Bot18 won
+[14:36:05.981] [2718/3900] Bot35 vs Bot18: Draw
+[14:36:05.985] [2719/3900] Bot35 vs Bot18: Draw
+[14:36:05.990] [2720/3900] Bot35 vs Bot18: Bot18 won
+[14:36:05.996] [2721/3900] Bot18 vs Bot36: Draw
+[14:36:06.001] [2722/3900] Bot18 vs Bot36: Draw
+[14:36:06.006] [2723/3900] Bot36 vs Bot18: Bot36 won
+[14:36:06.011] [2724/3900] Bot36 vs Bot18: Draw
+[14:36:06.016] [2725/3900] Bot36 vs Bot18: Bot18 won
+[14:36:06.021] [2726/3900] Bot18 vs Bot37: Bot37 won
+[14:36:06.026] [2727/3900] Bot18 vs Bot37: Bot37 won
+[14:36:06.031] [2728/3900] Bot37 vs Bot18: Bot18 won
+[14:36:06.114] [2729/3900] Bot37 vs Bot18: Draw
+[14:36:06.122] [2730/3900] Bot37 vs Bot18: Draw
+[14:36:06.127] [2731/3900] Bot18 vs Bot38: Bot38 won
+[14:36:06.132] [2732/3900] Bot18 vs Bot38: Draw
+[14:36:06.136] [2733/3900] Bot38 vs Bot18: Bot18 won
+[14:36:06.142] [2734/3900] Bot38 vs Bot18: Draw
+[14:36:06.147] [2735/3900] Bot38 vs Bot18: Draw
+[14:36:06.152] [2736/3900] Bot18 vs Bot39: Draw
+[14:36:06.157] [2737/3900] Bot18 vs Bot39: Bot39 won
+[14:36:06.162] [2738/3900] Bot39 vs Bot18: Bot39 won
+[14:36:06.168] [2739/3900] Bot39 vs Bot18: Bot18 won
+[14:36:06.173] [2740/3900] Bot39 vs Bot18: Bot39 won
+[14:36:06.178] [2741/3900] Bot18 vs Bot40: Draw
+[14:36:06.183] [2742/3900] Bot18 vs Bot40: Draw
+[14:36:06.188] [2743/3900] Bot40 vs Bot18: Bot18 won
+[14:36:06.193] [2744/3900] Bot40 vs Bot18: Bot18 won
+[14:36:06.198] [2745/3900] Bot40 vs Bot18: Draw
+[14:36:06.208] [2746/3900] Bot19 vs Bot20: Bot20 won
+[14:36:06.213] [2747/3900] Bot19 vs Bot20: Bot20 won
+[14:36:06.219] [2748/3900] Bot20 vs Bot19: Bot19 won
+[14:36:06.224] [2749/3900] Bot20 vs Bot19: Bot20 won
+[14:36:06.230] [2750/3900] Bot20 vs Bot19: Draw
+[14:36:06.304] [2751/3900] Bot19 vs Bot21: Bot21 won
+[14:36:06.310] [2752/3900] Bot19 vs Bot21: Bot21 won
+[14:36:06.315] [2753/3900] Bot21 vs Bot19: Bot19 won
+[14:36:06.320] [2754/3900] Bot21 vs Bot19: Bot19 won
+[14:36:06.326] [2755/3900] Bot21 vs Bot19: Bot19 won
+[14:36:06.331] [2756/3900] Bot19 vs Bot22: Draw
+[14:36:06.336] [2757/3900] Bot19 vs Bot22: Bot22 won
+[14:36:06.342] [2758/3900] Bot22 vs Bot19: Bot22 won
+[14:36:06.347] [2759/3900] Bot22 vs Bot19: Bot19 won
+[14:36:06.352] [2760/3900] Bot22 vs Bot19: Draw
+[14:36:06.358] [2761/3900] Bot19 vs Bot23: Bot23 won
+[14:36:06.363] [2762/3900] Bot19 vs Bot23: Draw
+[14:36:06.368] [2763/3900] Bot23 vs Bot19: Draw
+[14:36:06.443] [2764/3900] Bot23 vs Bot19: Draw
+[14:36:06.449] [2765/3900] Bot23 vs Bot19: Draw
+[14:36:06.454] [2766/3900] Bot19 vs Bot24: Bot24 won
+[14:36:06.459] [2767/3900] Bot19 vs Bot24: Bot24 won
+[14:36:06.464] [2768/3900] Bot24 vs Bot19: Draw
+[14:36:06.469] [2769/3900] Bot24 vs Bot19: Bot19 won
+[14:36:06.474] [2770/3900] Bot24 vs Bot19: Bot19 won
+[14:36:06.479] [2771/3900] Bot19 vs Bot25: Draw
+[14:36:06.484] [2772/3900] Bot19 vs Bot25: Bot25 won
+[14:36:06.489] [2773/3900] Bot25 vs Bot19: Bot19 won
+[14:36:06.494] [2774/3900] Bot25 vs Bot19: Draw
+[14:36:06.499] [2775/3900] Bot25 vs Bot19: Bot19 won
+[14:36:06.504] [2776/3900] Bot19 vs Bot26: Bot26 won
+[14:36:06.509] [2777/3900] Bot19 vs Bot26: Draw
+[14:36:06.514] [2778/3900] Bot26 vs Bot19: Bot19 won
+[14:36:06.519] [2779/3900] Bot26 vs Bot19: Bot19 won
+[14:36:06.524] [2780/3900] Bot26 vs Bot19: Bot26 won
+[14:36:06.529] [2781/3900] Bot19 vs Bot27: Draw
+[14:36:06.534] [2782/3900] Bot19 vs Bot27: Draw
+[14:36:06.539] [2783/3900] Bot27 vs Bot19: Draw
+[14:36:06.545] [2784/3900] Bot27 vs Bot19: Draw
+[14:36:06.550] [2785/3900] Bot27 vs Bot19: Draw
+[14:36:06.555] [2786/3900] Bot19 vs Bot28: Bot28 won
+[14:36:06.560] [2787/3900] Bot19 vs Bot28: Bot28 won
+[14:36:06.565] [2788/3900] Bot28 vs Bot19: Bot19 won
+[14:36:06.571] [2789/3900] Bot28 vs Bot19: Draw
+[14:36:06.576] [2790/3900] Bot28 vs Bot19: Draw
+[14:36:06.581] [2791/3900] Bot19 vs Bot29: Bot29 won
+[14:36:06.587] [2792/3900] Bot19 vs Bot29: Bot29 won
+[14:36:06.592] [2793/3900] Bot29 vs Bot19: Bot19 won
+[14:36:06.597] [2794/3900] Bot29 vs Bot19: Draw
+[14:36:06.602] [2795/3900] Bot29 vs Bot19: Draw
+[14:36:06.607] [2796/3900] Bot19 vs Bot30: Bot30 won
+[14:36:06.683] [2797/3900] Bot19 vs Bot30: Bot30 won
+[14:36:06.688] [2798/3900] Bot30 vs Bot19: Bot19 won
+[14:36:06.694] [2799/3900] Bot30 vs Bot19: Draw
+[14:36:06.699] [2800/3900] Bot30 vs Bot19: Draw
+[14:36:06.704] [2801/3900] Bot19 vs Bot31: Bot19 won
+[14:36:06.710] [2802/3900] Bot19 vs Bot31: Bot31 won
+[14:36:06.715] [2803/3900] Bot31 vs Bot19: Draw
+[14:36:06.720] [2804/3900] Bot31 vs Bot19: Draw
+[14:36:06.725] [2805/3900] Bot31 vs Bot19: Draw
+[14:36:06.732] [2806/3900] Bot19 vs Bot32: Draw
+[14:36:06.737] [2807/3900] Bot19 vs Bot32: Bot32 won
+[14:36:06.742] [2808/3900] Bot32 vs Bot19: Draw
+[14:36:06.748] [2809/3900] Bot32 vs Bot19: Draw
+[14:36:06.752] [2810/3900] Bot32 vs Bot19: Draw
+[14:36:06.757] [2811/3900] Bot19 vs Bot33: Bot19 won
+[14:36:06.762] [2812/3900] Bot19 vs Bot33: Bot33 won
+[14:36:06.838] [2813/3900] Bot33 vs Bot19: Draw
+[14:36:06.842] [2814/3900] Bot33 vs Bot19: Bot19 won
+[14:36:06.847] [2815/3900] Bot33 vs Bot19: Bot19 won
+[14:36:06.852] [2816/3900] Bot19 vs Bot34: Bot34 won
+[14:36:06.857] [2817/3900] Bot19 vs Bot34: Bot19 won
+[14:36:06.862] [2818/3900] Bot34 vs Bot19: Draw
+[14:36:06.867] [2819/3900] Bot34 vs Bot19: Bot34 won
+[14:36:06.871] [2820/3900] Bot34 vs Bot19: Bot34 won
+[14:36:06.876] [2821/3900] Bot19 vs Bot35: Draw
+[14:36:06.881] [2822/3900] Bot19 vs Bot35: Draw
+[14:36:06.886] [2823/3900] Bot35 vs Bot19: Bot19 won
+[14:36:06.891] [2824/3900] Bot35 vs Bot19: Bot19 won
+[14:36:06.897] [2825/3900] Bot35 vs Bot19: Bot19 won
+[14:36:06.902] [2826/3900] Bot19 vs Bot36: Bot19 won
+[14:36:06.907] [2827/3900] Bot19 vs Bot36: Bot36 won
+[14:36:06.912] [2828/3900] Bot36 vs Bot19: Bot19 won
+[14:36:06.916] [2829/3900] Bot36 vs Bot19: Draw
+[14:36:06.921] [2830/3900] Bot36 vs Bot19: Bot19 won
+[14:36:06.926] [2831/3900] Bot19 vs Bot37: Bot37 won
+[14:36:06.932] [2832/3900] Bot19 vs Bot37: Bot37 won
+[14:36:06.937] [2833/3900] Bot37 vs Bot19: Draw
+[14:36:06.942] [2834/3900] Bot37 vs Bot19: Draw
+[14:36:06.947] [2835/3900] Bot37 vs Bot19: Bot19 won
+[14:36:06.952] [2836/3900] Bot19 vs Bot38: Draw
+[14:36:06.957] [2837/3900] Bot19 vs Bot38: Draw
+[14:36:06.962] [2838/3900] Bot38 vs Bot19: Draw
+[14:36:06.967] [2839/3900] Bot38 vs Bot19: Draw
+[14:36:06.972] [2840/3900] Bot38 vs Bot19: Bot19 won
+[14:36:06.978] [2841/3900] Bot19 vs Bot39: Bot39 won
+[14:36:06.983] [2842/3900] Bot19 vs Bot39: Draw
+[14:36:06.987] [2843/3900] Bot39 vs Bot19: Bot19 won
+[14:36:06.993] [2844/3900] Bot39 vs Bot19: Draw
+[14:36:06.998] [2845/3900] Bot39 vs Bot19: Draw
+[14:36:07.003] [2846/3900] Bot19 vs Bot40: Bot40 won
+[14:36:07.079] [2847/3900] Bot19 vs Bot40: Draw
+[14:36:07.084] [2848/3900] Bot40 vs Bot19: Draw
+[14:36:07.089] [2849/3900] Bot40 vs Bot19: Bot19 won
+[14:36:07.095] [2850/3900] Bot40 vs Bot19: Draw
+[14:36:07.100] [2851/3900] Bot20 vs Bot21: Bot21 won
+[14:36:07.105] [2852/3900] Bot20 vs Bot21: Draw
+[14:36:07.110] [2853/3900] Bot21 vs Bot20: Bot21 won
+[14:36:07.115] [2854/3900] Bot21 vs Bot20: Bot20 won
+[14:36:07.120] [2855/3900] Bot21 vs Bot20: Draw
+[14:36:07.125] [2856/3900] Bot20 vs Bot22: Bot22 won
+[14:36:07.130] [2857/3900] Bot20 vs Bot22: Draw
+[14:36:07.136] [2858/3900] Bot22 vs Bot20: Bot20 won
+[14:36:07.142] [2859/3900] Bot22 vs Bot20: Bot20 won
+[14:36:07.146] [2860/3900] Bot22 vs Bot20: Draw
+[14:36:07.152] [2861/3900] Bot20 vs Bot23: Bot23 won
+[14:36:07.157] [2862/3900] Bot20 vs Bot23: Draw
+[14:36:07.236] [2863/3900] Bot23 vs Bot20: Bot20 won
+[14:36:07.241] [2864/3900] Bot23 vs Bot20: Bot20 won
+[14:36:07.246] [2865/3900] Bot23 vs Bot20: Draw
+[14:36:07.251] [2866/3900] Bot20 vs Bot24: Bot20 won
+[14:36:07.256] [2867/3900] Bot20 vs Bot24: Bot24 won
+[14:36:07.262] [2868/3900] Bot24 vs Bot20: Draw
+[14:36:07.266] [2869/3900] Bot24 vs Bot20: Bot20 won
+[14:36:07.271] [2870/3900] Bot24 vs Bot20: Bot20 won
+[14:36:07.276] [2871/3900] Bot20 vs Bot25: Bot25 won
+[14:36:07.281] [2872/3900] Bot20 vs Bot25: Bot25 won
+[14:36:07.286] [2873/3900] Bot25 vs Bot20: Bot20 won
+[14:36:07.291] [2874/3900] Bot25 vs Bot20: Bot20 won
+[14:36:07.295] [2875/3900] Bot25 vs Bot20: Draw
+[14:36:07.300] [2876/3900] Bot20 vs Bot26: Draw
+[14:36:07.306] [2877/3900] Bot20 vs Bot26: Bot26 won
+[14:36:07.311] [2878/3900] Bot26 vs Bot20: Bot26 won
+[14:36:07.316] [2879/3900] Bot26 vs Bot20: Bot26 won
+[14:36:07.320] [2880/3900] Bot26 vs Bot20: Bot20 won
+[14:36:07.325] [2881/3900] Bot20 vs Bot27: Bot27 won
+[14:36:07.400] [2882/3900] Bot20 vs Bot27: Bot27 won
+[14:36:07.406] [2883/3900] Bot27 vs Bot20: Bot20 won
+[14:36:07.411] [2884/3900] Bot27 vs Bot20: Draw
+[14:36:07.415] [2885/3900] Bot27 vs Bot20: Draw
+[14:36:07.420] [2886/3900] Bot20 vs Bot28: Draw
+[14:36:07.426] [2887/3900] Bot20 vs Bot28: Bot28 won
+[14:36:07.431] [2888/3900] Bot28 vs Bot20: Draw
+[14:36:07.436] [2889/3900] Bot28 vs Bot20: Bot20 won
+[14:36:07.441] [2890/3900] Bot28 vs Bot20: Bot20 won
+[14:36:07.446] [2891/3900] Bot20 vs Bot29: Draw
+[14:36:07.451] [2892/3900] Bot20 vs Bot29: Bot29 won
+[14:36:07.456] [2893/3900] Bot29 vs Bot20: Draw
+[14:36:07.462] [2894/3900] Bot29 vs Bot20: Bot20 won
+[14:36:07.467] [2895/3900] Bot29 vs Bot20: Draw
+[14:36:07.471] [2896/3900] Bot20 vs Bot30: Bot30 won
+[14:36:07.547] [2897/3900] Bot20 vs Bot30: Draw
+[14:36:07.552] [2898/3900] Bot30 vs Bot20: Draw
+[14:36:07.558] [2899/3900] Bot30 vs Bot20: Draw
+[14:36:07.563] [2900/3900] Bot30 vs Bot20: Bot20 won
+[14:36:07.568] [2901/3900] Bot20 vs Bot31: Bot20 won
+[14:36:07.573] [2902/3900] Bot20 vs Bot31: Bot31 won
+[14:36:07.578] [2903/3900] Bot31 vs Bot20: Bot20 won
+[14:36:07.584] [2904/3900] Bot31 vs Bot20: Draw
+[14:36:07.589] [2905/3900] Bot31 vs Bot20: Bot20 won
+[14:36:07.594] [2906/3900] Bot20 vs Bot32: Bot32 won
+[14:36:07.599] [2907/3900] Bot20 vs Bot32: Bot20 won
+[14:36:07.604] [2908/3900] Bot32 vs Bot20: Bot20 won
+[14:36:07.610] [2909/3900] Bot32 vs Bot20: Draw
+[14:36:07.615] [2910/3900] Bot32 vs Bot20: Bot20 won
+[14:36:07.620] [2911/3900] Bot20 vs Bot33: Draw
+[14:36:07.626] [2912/3900] Bot20 vs Bot33: Bot33 won
+[14:36:07.631] [2913/3900] Bot33 vs Bot20: Draw
+[14:36:07.636] [2914/3900] Bot33 vs Bot20: Bot20 won
+[14:36:07.641] [2915/3900] Bot33 vs Bot20: Draw
+[14:36:07.646] [2916/3900] Bot20 vs Bot34: Bot34 won
+[14:36:07.652] [2917/3900] Bot20 vs Bot34: Bot34 won
+[14:36:07.657] [2918/3900] Bot34 vs Bot20: Draw
+[14:36:07.741] [2919/3900] Bot34 vs Bot20: Draw
+[14:36:07.747] [2920/3900] Bot34 vs Bot20: Draw
+[14:36:07.751] [2921/3900] Bot20 vs Bot35: Bot35 won
+[14:36:07.756] [2922/3900] Bot20 vs Bot35: Bot35 won
+[14:36:07.761] [2923/3900] Bot35 vs Bot20: Draw
+[14:36:07.766] [2924/3900] Bot35 vs Bot20: Bot20 won
+[14:36:07.771] [2925/3900] Bot35 vs Bot20: Bot35 won
+[14:36:07.776] [2926/3900] Bot20 vs Bot36: Draw
+[14:36:07.781] [2927/3900] Bot20 vs Bot36: Draw
+[14:36:07.785] [2928/3900] Bot36 vs Bot20: Bot20 won
+[14:36:07.791] [2929/3900] Bot36 vs Bot20: Bot20 won
+[14:36:07.795] [2930/3900] Bot36 vs Bot20: Bot36 won
+[14:36:07.800] [2931/3900] Bot20 vs Bot37: Bot37 won
+[14:36:07.805] [2932/3900] Bot20 vs Bot37: Bot37 won
+[14:36:07.810] [2933/3900] Bot37 vs Bot20: Draw
+[14:36:07.815] [2934/3900] Bot37 vs Bot20: Bot20 won
+[14:36:07.891] [2935/3900] Bot37 vs Bot20: Draw
+[14:36:07.896] [2936/3900] Bot20 vs Bot38: Draw
+[14:36:07.902] [2937/3900] Bot20 vs Bot38: Draw
+[14:36:07.907] [2938/3900] Bot38 vs Bot20: Bot20 won
+[14:36:07.912] [2939/3900] Bot38 vs Bot20: Bot20 won
+[14:36:07.916] [2940/3900] Bot38 vs Bot20: Draw
+[14:36:07.921] [2941/3900] Bot20 vs Bot39: Bot39 won
+[14:36:07.927] [2942/3900] Bot20 vs Bot39: Draw
+[14:36:07.932] [2943/3900] Bot39 vs Bot20: Bot39 won
+[14:36:07.938] [2944/3900] Bot39 vs Bot20: Bot20 won
+[14:36:07.943] [2945/3900] Bot39 vs Bot20: Draw
+[14:36:07.948] [2946/3900] Bot20 vs Bot40: Draw
+[14:36:07.953] [2947/3900] Bot20 vs Bot40: Bot40 won
+[14:36:07.958] [2948/3900] Bot40 vs Bot20: Bot20 won
+[14:36:07.963] [2949/3900] Bot40 vs Bot20: Bot20 won
+[14:36:07.968] [2950/3900] Bot40 vs Bot20: Bot40 won
+[14:36:07.973] [2951/3900] Bot21 vs Bot22: Bot22 won
+[14:36:07.979] [2952/3900] Bot21 vs Bot22: Draw
+[14:36:07.984] [2953/3900] Bot22 vs Bot21: Draw
+[14:36:07.990] [2954/3900] Bot22 vs Bot21: Bot22 won
+[14:36:07.995] [2955/3900] Bot22 vs Bot21: Bot21 won
+[14:36:08.001] [2956/3900] Bot21 vs Bot23: Draw
+[14:36:08.006] [2957/3900] Bot21 vs Bot23: Draw
+[14:36:08.011] [2958/3900] Bot23 vs Bot21: Draw
+[14:36:08.017] [2959/3900] Bot23 vs Bot21: Bot21 won
+[14:36:08.022] [2960/3900] Bot23 vs Bot21: Draw
+[14:36:08.027] [2961/3900] Bot21 vs Bot24: Bot24 won
+[14:36:08.032] [2962/3900] Bot21 vs Bot24: Bot24 won
+[14:36:08.038] [2963/3900] Bot24 vs Bot21: Draw
+[14:36:08.043] [2964/3900] Bot24 vs Bot21: Bot21 won
+[14:36:08.051] [2965/3900] Bot24 vs Bot21: Bot21 won
+[14:36:08.055] [2966/3900] Bot21 vs Bot25: Bot25 won
+[14:36:08.060] [2967/3900] Bot21 vs Bot25: Bot25 won
+[14:36:08.065] [2968/3900] Bot25 vs Bot21: Draw
+[14:36:08.070] [2969/3900] Bot25 vs Bot21: Bot21 won
+[14:36:08.075] [2970/3900] Bot25 vs Bot21: Bot21 won
+[14:36:08.080] [2971/3900] Bot21 vs Bot26: Draw
+[14:36:08.085] [2972/3900] Bot21 vs Bot26: Bot26 won
+[14:36:08.089] [2973/3900] Bot26 vs Bot21: Draw
+[14:36:08.094] [2974/3900] Bot26 vs Bot21: Bot21 won
+[14:36:08.099] [2975/3900] Bot26 vs Bot21: Bot21 won
+[14:36:08.104] [2976/3900] Bot21 vs Bot27: Draw
+[14:36:08.109] [2977/3900] Bot21 vs Bot27: Bot27 won
+[14:36:08.114] [2978/3900] Bot27 vs Bot21: Draw
+[14:36:08.189] [2979/3900] Bot27 vs Bot21: Bot21 won
+[14:36:08.195] [2980/3900] Bot27 vs Bot21: Bot21 won
+[14:36:08.199] [2981/3900] Bot21 vs Bot28: Bot28 won
+[14:36:08.204] [2982/3900] Bot21 vs Bot28: Draw
+[14:36:08.210] [2983/3900] Bot28 vs Bot21: Draw
+[14:36:08.215] [2984/3900] Bot28 vs Bot21: Bot28 won
+[14:36:08.219] [2985/3900] Bot28 vs Bot21: Draw
+[14:36:08.225] [2986/3900] Bot21 vs Bot29: Bot29 won
+[14:36:08.230] [2987/3900] Bot21 vs Bot29: Bot29 won
+[14:36:08.235] [2988/3900] Bot29 vs Bot21: Draw
+[14:36:08.240] [2989/3900] Bot29 vs Bot21: Bot21 won
+[14:36:08.245] [2990/3900] Bot29 vs Bot21: Draw
+[14:36:08.251] [2991/3900] Bot21 vs Bot30: Bot30 won
+[14:36:08.255] [2992/3900] Bot21 vs Bot30: Bot30 won
+[14:36:08.261] [2993/3900] Bot30 vs Bot21: Bot30 won
+[14:36:08.266] [2994/3900] Bot30 vs Bot21: Draw
+[14:36:08.271] [2995/3900] Bot30 vs Bot21: Bot21 won
+[14:36:08.276] [2996/3900] Bot21 vs Bot31: Bot31 won
+[14:36:08.281] [2997/3900] Bot21 vs Bot31: Draw
+[14:36:08.286] [2998/3900] Bot31 vs Bot21: Draw
+[14:36:08.291] [2999/3900] Bot31 vs Bot21: Draw
+[14:36:08.296] [3000/3900] Bot31 vs Bot21: Bot21 won
+[14:36:08.301] [3001/3900] Bot21 vs Bot32: Bot32 won
+[14:36:08.306] [3002/3900] Bot21 vs Bot32: Bot21 won
+[14:36:08.311] [3003/3900] Bot32 vs Bot21: Bot21 won
+[14:36:08.317] [3004/3900] Bot32 vs Bot21: Draw
+[14:36:08.322] [3005/3900] Bot32 vs Bot21: Bot21 won
+[14:36:08.327] [3006/3900] Bot21 vs Bot33: Draw
+[14:36:08.332] [3007/3900] Bot21 vs Bot33: Draw
+[14:36:08.337] [3008/3900] Bot33 vs Bot21: Bot21 won
+[14:36:08.342] [3009/3900] Bot33 vs Bot21: Draw
+[14:36:08.347] [3010/3900] Bot33 vs Bot21: Bot21 won
+[14:36:08.352] [3011/3900] Bot21 vs Bot34: Draw
+[14:36:08.428] [3012/3900] Bot21 vs Bot34: Draw
+[14:36:08.433] [3013/3900] Bot34 vs Bot21: Bot21 won
+[14:36:08.438] [3014/3900] Bot34 vs Bot21: Draw
+[14:36:08.444] [3015/3900] Bot34 vs Bot21: Draw
+[14:36:08.449] [3016/3900] Bot21 vs Bot35: Draw
+[14:36:08.454] [3017/3900] Bot21 vs Bot35: Draw
+[14:36:08.460] [3018/3900] Bot35 vs Bot21: Draw
+[14:36:08.465] [3019/3900] Bot35 vs Bot21: Draw
+[14:36:08.471] [3020/3900] Bot35 vs Bot21: Draw
+[14:36:08.477] [3021/3900] Bot21 vs Bot36: Draw
+[14:36:08.482] [3022/3900] Bot21 vs Bot36: Bot36 won
+[14:36:08.487] [3023/3900] Bot36 vs Bot21: Bot21 won
+[14:36:08.496] [3024/3900] Bot36 vs Bot21: Draw
+[14:36:08.501] [3025/3900] Bot36 vs Bot21: Bot36 won
+[14:36:08.512] [3026/3900] Bot21 vs Bot37: Bot37 won
+[14:36:08.587] [3027/3900] Bot21 vs Bot37: Bot37 won
+[14:36:08.593] [3028/3900] Bot37 vs Bot21: Bot21 won
+[14:36:08.598] [3029/3900] Bot37 vs Bot21: Bot21 won
+[14:36:08.602] [3030/3900] Bot37 vs Bot21: Bot21 won
+[14:36:08.607] [3031/3900] Bot21 vs Bot38: Bot21 won
+[14:36:08.612] [3032/3900] Bot21 vs Bot38: Bot38 won
+[14:36:08.617] [3033/3900] Bot38 vs Bot21: Bot21 won
+[14:36:08.622] [3034/3900] Bot38 vs Bot21: Bot38 won
+[14:36:08.626] [3035/3900] Bot38 vs Bot21: Draw
+[14:36:08.631] [3036/3900] Bot21 vs Bot39: Bot39 won
+[14:36:08.636] [3037/3900] Bot21 vs Bot39: Bot39 won
+[14:36:08.642] [3038/3900] Bot39 vs Bot21: Bot21 won
+[14:36:08.647] [3039/3900] Bot39 vs Bot21: Bot39 won
+[14:36:08.652] [3040/3900] Bot39 vs Bot21: Bot21 won
+[14:36:08.657] [3041/3900] Bot21 vs Bot40: Draw
+[14:36:08.662] [3042/3900] Bot21 vs Bot40: Draw
+[14:36:08.738] [3043/3900] Bot40 vs Bot21: Bot21 won
+[14:36:08.743] [3044/3900] Bot40 vs Bot21: Bot21 won
+[14:36:08.748] [3045/3900] Bot40 vs Bot21: Draw
+[14:36:08.753] [3046/3900] Bot22 vs Bot23: Bot23 won
+[14:36:08.758] [3047/3900] Bot22 vs Bot23: Draw
+[14:36:08.763] [3048/3900] Bot23 vs Bot22: Bot22 won
+[14:36:08.768] [3049/3900] Bot23 vs Bot22: Draw
+[14:36:08.773] [3050/3900] Bot23 vs Bot22: Draw
+[14:36:08.777] [3051/3900] Bot22 vs Bot24: Bot24 won
+[14:36:08.782] [3052/3900] Bot22 vs Bot24: Draw
+[14:36:08.787] [3053/3900] Bot24 vs Bot22: Bot22 won
+[14:36:08.793] [3054/3900] Bot24 vs Bot22: Bot22 won
+[14:36:08.798] [3055/3900] Bot24 vs Bot22: Bot22 won
+[14:36:08.803] [3056/3900] Bot22 vs Bot25: Draw
+[14:36:08.808] [3057/3900] Bot22 vs Bot25: Bot25 won
+[14:36:08.813] [3058/3900] Bot25 vs Bot22: Draw
+[14:36:08.818] [3059/3900] Bot25 vs Bot22: Bot22 won
+[14:36:08.823] [3060/3900] Bot25 vs Bot22: Bot22 won
+[14:36:08.828] [3061/3900] Bot22 vs Bot26: Draw
+[14:36:08.833] [3062/3900] Bot22 vs Bot26: Bot22 won
+[14:36:08.839] [3063/3900] Bot26 vs Bot22: Draw
+[14:36:08.844] [3064/3900] Bot26 vs Bot22: Bot22 won
+[14:36:08.850] [3065/3900] Bot26 vs Bot22: Draw
+[14:36:08.855] [3066/3900] Bot22 vs Bot27: Draw
+[14:36:08.861] [3067/3900] Bot22 vs Bot27: Draw
+[14:36:08.866] [3068/3900] Bot27 vs Bot22: Bot22 won
+[14:36:08.942] [3069/3900] Bot27 vs Bot22: Bot22 won
+[14:36:08.948] [3070/3900] Bot27 vs Bot22: Bot22 won
+[14:36:08.953] [3071/3900] Bot22 vs Bot28: Bot28 won
+[14:36:08.958] [3072/3900] Bot22 vs Bot28: Bot28 won
+[14:36:08.963] [3073/3900] Bot28 vs Bot22: Bot22 won
+[14:36:08.969] [3074/3900] Bot28 vs Bot22: Draw
+[14:36:08.974] [3075/3900] Bot28 vs Bot22: Draw
+[14:36:08.980] [3076/3900] Bot22 vs Bot29: Draw
+[14:36:08.985] [3077/3900] Bot22 vs Bot29: Bot29 won
+[14:36:08.991] [3078/3900] Bot29 vs Bot22: Bot22 won
+[14:36:08.996] [3079/3900] Bot29 vs Bot22: Bot29 won
+[14:36:09.001] [3080/3900] Bot29 vs Bot22: Bot22 won
+[14:36:09.007] [3081/3900] Bot22 vs Bot30: Draw
+[14:36:09.012] [3082/3900] Bot22 vs Bot30: Bot30 won
+[14:36:09.017] [3083/3900] Bot30 vs Bot22: Draw
+[14:36:09.022] [3084/3900] Bot30 vs Bot22: Bot22 won
+[14:36:09.027] [3085/3900] Bot30 vs Bot22: Draw
+[14:36:09.032] [3086/3900] Bot22 vs Bot31: Draw
+[14:36:09.036] [3087/3900] Bot22 vs Bot31: Draw
+[14:36:09.113] [3088/3900] Bot31 vs Bot22: Draw
+[14:36:09.118] [3089/3900] Bot31 vs Bot22: Bot22 won
+[14:36:09.122] [3090/3900] Bot31 vs Bot22: Bot22 won
+[14:36:09.128] [3091/3900] Bot22 vs Bot32: Draw
+[14:36:09.133] [3092/3900] Bot22 vs Bot32: Draw
+[14:36:09.138] [3093/3900] Bot32 vs Bot22: Bot22 won
+[14:36:09.143] [3094/3900] Bot32 vs Bot22: Bot22 won
+[14:36:09.148] [3095/3900] Bot32 vs Bot22: Bot22 won
+[14:36:09.153] [3096/3900] Bot22 vs Bot33: Draw
+[14:36:09.159] [3097/3900] Bot22 vs Bot33: Bot33 won
+[14:36:09.164] [3098/3900] Bot33 vs Bot22: Draw
+[14:36:09.168] [3099/3900] Bot33 vs Bot22: Draw
+[14:36:09.174] [3100/3900] Bot33 vs Bot22: Bot22 won
+[14:36:09.179] [3101/3900] Bot22 vs Bot34: Draw
+[14:36:09.184] [3102/3900] Bot22 vs Bot34: Bot34 won
+[14:36:09.189] [3103/3900] Bot34 vs Bot22: Bot22 won
+[14:36:09.193] [3104/3900] Bot34 vs Bot22: Bot34 won
+[14:36:09.199] [3105/3900] Bot34 vs Bot22: Draw
+[14:36:09.205] [3106/3900] Bot22 vs Bot35: Draw
+[14:36:09.211] [3107/3900] Bot22 vs Bot35: Bot35 won
+[14:36:09.216] [3108/3900] Bot35 vs Bot22: Draw
+[14:36:09.221] [3109/3900] Bot35 vs Bot22: Draw
+[14:36:09.227] [3110/3900] Bot35 vs Bot22: Bot22 won
+[14:36:09.232] [3111/3900] Bot22 vs Bot36: Bot22 won
+[14:36:09.237] [3112/3900] Bot22 vs Bot36: Draw
+[14:36:09.242] [3113/3900] Bot36 vs Bot22: Draw
+[14:36:09.317] [3114/3900] Bot36 vs Bot22: Draw
+[14:36:09.323] [3115/3900] Bot36 vs Bot22: Bot22 won
+[14:36:09.328] [3116/3900] Bot22 vs Bot37: Draw
+[14:36:09.333] [3117/3900] Bot22 vs Bot37: Draw
+[14:36:09.338] [3118/3900] Bot37 vs Bot22: Bot22 won
+[14:36:09.344] [3119/3900] Bot37 vs Bot22: Bot22 won
+[14:36:09.349] [3120/3900] Bot37 vs Bot22: Draw
+[14:36:09.354] [3121/3900] Bot22 vs Bot38: Draw
+[14:36:09.359] [3122/3900] Bot22 vs Bot38: Draw
+[14:36:09.365] [3123/3900] Bot38 vs Bot22: Draw
+[14:36:09.370] [3124/3900] Bot38 vs Bot22: Bot22 won
+[14:36:09.375] [3125/3900] Bot38 vs Bot22: Bot22 won
+[14:36:09.381] [3126/3900] Bot22 vs Bot39: Draw
+[14:36:09.386] [3127/3900] Bot22 vs Bot39: Bot39 won
+[14:36:09.392] [3128/3900] Bot39 vs Bot22: Draw
+[14:36:09.397] [3129/3900] Bot39 vs Bot22: Draw
+[14:36:09.472] [3130/3900] Bot39 vs Bot22: Draw
+[14:36:09.477] [3131/3900] Bot22 vs Bot40: Draw
+[14:36:09.482] [3132/3900] Bot22 vs Bot40: Bot40 won
+[14:36:09.487] [3133/3900] Bot40 vs Bot22: Bot22 won
+[14:36:09.492] [3134/3900] Bot40 vs Bot22: Draw
+[14:36:09.497] [3135/3900] Bot40 vs Bot22: Draw
+[14:36:09.502] [3136/3900] Bot23 vs Bot24: Bot24 won
+[14:36:09.506] [3137/3900] Bot23 vs Bot24: Draw
+[14:36:09.512] [3138/3900] Bot24 vs Bot23: Draw
+[14:36:09.517] [3139/3900] Bot24 vs Bot23: Bot23 won
+[14:36:09.521] [3140/3900] Bot24 vs Bot23: Bot23 won
+[14:36:09.526] [3141/3900] Bot23 vs Bot25: Bot25 won
+[14:36:09.531] [3142/3900] Bot23 vs Bot25: Draw
+[14:36:09.536] [3143/3900] Bot25 vs Bot23: Bot23 won
+[14:36:09.542] [3144/3900] Bot25 vs Bot23: Draw
+[14:36:09.547] [3145/3900] Bot25 vs Bot23: Bot23 won
+[14:36:09.622] [3146/3900] Bot23 vs Bot26: Bot23 won
+[14:36:09.627] [3147/3900] Bot23 vs Bot26: Bot26 won
+[14:36:09.632] [3148/3900] Bot26 vs Bot23: Bot23 won
+[14:36:09.637] [3149/3900] Bot26 vs Bot23: Draw
+[14:36:09.642] [3150/3900] Bot26 vs Bot23: Draw
+[14:36:09.646] [3151/3900] Bot23 vs Bot27: Bot27 won
+[14:36:09.651] [3152/3900] Bot23 vs Bot27: Draw
+[14:36:09.656] [3153/3900] Bot27 vs Bot23: Draw
+[14:36:09.661] [3154/3900] Bot27 vs Bot23: Bot23 won
+[14:36:09.666] [3155/3900] Bot27 vs Bot23: Draw
+[14:36:09.671] [3156/3900] Bot23 vs Bot28: Bot28 won
+[14:36:09.677] [3157/3900] Bot23 vs Bot28: Draw
+[14:36:09.682] [3158/3900] Bot28 vs Bot23: Bot23 won
+[14:36:09.686] [3159/3900] Bot28 vs Bot23: Bot23 won
+[14:36:09.692] [3160/3900] Bot28 vs Bot23: Bot23 won
+[14:36:09.697] [3161/3900] Bot23 vs Bot29: Bot29 won
+[14:36:09.702] [3162/3900] Bot23 vs Bot29: Draw
+[14:36:09.708] [3163/3900] Bot29 vs Bot23: Bot23 won
+[14:36:09.713] [3164/3900] Bot29 vs Bot23: Draw
+[14:36:09.718] [3165/3900] Bot29 vs Bot23: Draw
+[14:36:09.723] [3166/3900] Bot23 vs Bot30: Draw
+[14:36:09.728] [3167/3900] Bot23 vs Bot30: Draw
+[14:36:09.804] [3168/3900] Bot30 vs Bot23: Draw
+[14:36:09.810] [3169/3900] Bot30 vs Bot23: Bot23 won
+[14:36:09.814] [3170/3900] Bot30 vs Bot23: Bot30 won
+[14:36:09.819] [3171/3900] Bot23 vs Bot31: Draw
+[14:36:09.825] [3172/3900] Bot23 vs Bot31: Bot31 won
+[14:36:09.830] [3173/3900] Bot31 vs Bot23: Bot23 won
+[14:36:09.835] [3174/3900] Bot31 vs Bot23: Draw
+[14:36:09.840] [3175/3900] Bot31 vs Bot23: Bot23 won
+[14:36:09.845] [3176/3900] Bot23 vs Bot32: Bot32 won
+[14:36:09.850] [3177/3900] Bot23 vs Bot32: Bot32 won
+[14:36:09.855] [3178/3900] Bot32 vs Bot23: Bot32 won
+[14:36:09.861] [3179/3900] Bot32 vs Bot23: Draw
+[14:36:09.866] [3180/3900] Bot32 vs Bot23: Bot23 won
+[14:36:09.871] [3181/3900] Bot23 vs Bot33: Bot33 won
+[14:36:09.876] [3182/3900] Bot23 vs Bot33: Draw
+[14:36:09.952] [3183/3900] Bot33 vs Bot23: Draw
+[14:36:09.958] [3184/3900] Bot33 vs Bot23: Bot23 won
+[14:36:09.964] [3185/3900] Bot33 vs Bot23: Draw
+[14:36:09.969] [3186/3900] Bot23 vs Bot34: Bot34 won
+[14:36:09.975] [3187/3900] Bot23 vs Bot34: Draw
+[14:36:09.980] [3188/3900] Bot34 vs Bot23: Draw
+[14:36:09.985] [3189/3900] Bot34 vs Bot23: Bot23 won
+[14:36:09.990] [3190/3900] Bot34 vs Bot23: Bot23 won
+[14:36:09.996] [3191/3900] Bot23 vs Bot35: Draw
+[14:36:10.002] [3192/3900] Bot23 vs Bot35: Bot23 won
+[14:36:10.007] [3193/3900] Bot35 vs Bot23: Draw
+[14:36:10.012] [3194/3900] Bot35 vs Bot23: Bot23 won
+[14:36:10.017] [3195/3900] Bot35 vs Bot23: Bot23 won
+[14:36:10.022] [3196/3900] Bot23 vs Bot36: Draw
+[14:36:10.027] [3197/3900] Bot23 vs Bot36: Bot36 won
+[14:36:10.032] [3198/3900] Bot36 vs Bot23: Draw
+[14:36:10.037] [3199/3900] Bot36 vs Bot23: Draw
+[14:36:10.042] [3200/3900] Bot36 vs Bot23: Draw
+[14:36:10.047] [3201/3900] Bot23 vs Bot37: Draw
+[14:36:10.052] [3202/3900] Bot23 vs Bot37: Bot37 won
+[14:36:10.057] [3203/3900] Bot37 vs Bot23: Bot37 won
+[14:36:10.132] [3204/3900] Bot37 vs Bot23: Bot23 won
+[14:36:10.137] [3205/3900] Bot37 vs Bot23: Bot23 won
+[14:36:10.143] [3206/3900] Bot23 vs Bot38: Draw
+[14:36:10.148] [3207/3900] Bot23 vs Bot38: Bot38 won
+[14:36:10.153] [3208/3900] Bot38 vs Bot23: Draw
+[14:36:10.158] [3209/3900] Bot38 vs Bot23: Draw
+[14:36:10.163] [3210/3900] Bot38 vs Bot23: Draw
+[14:36:10.168] [3211/3900] Bot23 vs Bot39: Bot39 won
+[14:36:10.174] [3212/3900] Bot23 vs Bot39: Bot39 won
+[14:36:10.179] [3213/3900] Bot39 vs Bot23: Bot23 won
+[14:36:10.185] [3214/3900] Bot39 vs Bot23: Bot23 won
+[14:36:10.260] [3215/3900] Bot39 vs Bot23: Draw
+[14:36:10.266] [3216/3900] Bot23 vs Bot40: Draw
+[14:36:10.271] [3217/3900] Bot23 vs Bot40: Draw
+[14:36:10.276] [3218/3900] Bot40 vs Bot23: Draw
+[14:36:10.281] [3219/3900] Bot40 vs Bot23: Bot23 won
+[14:36:10.286] [3220/3900] Bot40 vs Bot23: Draw
+[14:36:10.291] [3221/3900] Bot24 vs Bot25: Draw
+[14:36:10.297] [3222/3900] Bot24 vs Bot25: Draw
+[14:36:10.302] [3223/3900] Bot25 vs Bot24: Draw
+[14:36:10.308] [3224/3900] Bot25 vs Bot24: Draw
+[14:36:10.313] [3225/3900] Bot25 vs Bot24: Draw
+[14:36:10.318] [3226/3900] Bot24 vs Bot26: Draw
+[14:36:10.323] [3227/3900] Bot24 vs Bot26: Draw
+[14:36:10.328] [3228/3900] Bot26 vs Bot24: Draw
+[14:36:10.333] [3229/3900] Bot26 vs Bot24: Draw
+[14:36:10.338] [3230/3900] Bot26 vs Bot24: Bot24 won
+[14:36:10.414] [3231/3900] Bot24 vs Bot27: Bot27 won
+[14:36:10.419] [3232/3900] Bot24 vs Bot27: Bot27 won
+[14:36:10.426] [3233/3900] Bot27 vs Bot24: Draw
+[14:36:10.431] [3234/3900] Bot27 vs Bot24: Bot24 won
+[14:36:10.435] [3235/3900] Bot27 vs Bot24: Draw
+[14:36:10.441] [3236/3900] Bot24 vs Bot28: Bot28 won
+[14:36:10.447] [3237/3900] Bot24 vs Bot28: Bot28 won
+[14:36:10.453] [3238/3900] Bot28 vs Bot24: Bot28 won
+[14:36:10.459] [3239/3900] Bot28 vs Bot24: Draw
+[14:36:10.465] [3240/3900] Bot28 vs Bot24: Bot24 won
+[14:36:10.470] [3241/3900] Bot24 vs Bot29: Bot29 won
+[14:36:10.475] [3242/3900] Bot24 vs Bot29: Bot29 won
+[14:36:10.481] [3243/3900] Bot29 vs Bot24: Bot29 won
+[14:36:10.489] [3244/3900] Bot29 vs Bot24: Draw
+[14:36:10.494] [3245/3900] Bot29 vs Bot24: Draw
+[14:36:10.499] [3246/3900] Bot24 vs Bot30: Bot30 won
+[14:36:10.504] [3247/3900] Bot24 vs Bot30: Draw
+[14:36:10.508] [3248/3900] Bot30 vs Bot24: Draw
+[14:36:10.513] [3249/3900] Bot30 vs Bot24: Bot24 won
+[14:36:10.590] [3250/3900] Bot30 vs Bot24: Draw
+[14:36:10.595] [3251/3900] Bot24 vs Bot31: Draw
+[14:36:10.600] [3252/3900] Bot24 vs Bot31: Bot31 won
+[14:36:10.606] [3253/3900] Bot31 vs Bot24: Draw
+[14:36:10.612] [3254/3900] Bot31 vs Bot24: Draw
+[14:36:10.616] [3255/3900] Bot31 vs Bot24: Draw
+[14:36:10.621] [3256/3900] Bot24 vs Bot32: Draw
+[14:36:10.626] [3257/3900] Bot24 vs Bot32: Bot32 won
+[14:36:10.632] [3258/3900] Bot32 vs Bot24: Bot24 won
+[14:36:10.637] [3259/3900] Bot32 vs Bot24: Draw
+[14:36:10.642] [3260/3900] Bot32 vs Bot24: Draw
+[14:36:10.647] [3261/3900] Bot24 vs Bot33: Bot33 won
+[14:36:10.652] [3262/3900] Bot24 vs Bot33: Bot33 won
+[14:36:10.657] [3263/3900] Bot33 vs Bot24: Bot24 won
+[14:36:10.662] [3264/3900] Bot33 vs Bot24: Bot24 won
+[14:36:10.668] [3265/3900] Bot33 vs Bot24: Draw
+[14:36:10.744] [3266/3900] Bot24 vs Bot34: Draw
+[14:36:10.749] [3267/3900] Bot24 vs Bot34: Draw
+[14:36:10.754] [3268/3900] Bot34 vs Bot24: Draw
+[14:36:10.758] [3269/3900] Bot34 vs Bot24: Draw
+[14:36:10.764] [3270/3900] Bot34 vs Bot24: Draw
+[14:36:10.769] [3271/3900] Bot24 vs Bot35: Bot35 won
+[14:36:10.774] [3272/3900] Bot24 vs Bot35: Draw
+[14:36:10.780] [3273/3900] Bot35 vs Bot24: Bot35 won
+[14:36:10.785] [3274/3900] Bot35 vs Bot24: Bot24 won
+[14:36:10.790] [3275/3900] Bot35 vs Bot24: Draw
+[14:36:10.795] [3276/3900] Bot24 vs Bot36: Draw
+[14:36:10.801] [3277/3900] Bot24 vs Bot36: Draw
+[14:36:10.806] [3278/3900] Bot36 vs Bot24: Bot24 won
+[14:36:10.811] [3279/3900] Bot36 vs Bot24: Draw
+[14:36:10.816] [3280/3900] Bot36 vs Bot24: Bot24 won
+[14:36:10.821] [3281/3900] Bot24 vs Bot37: Draw
+[14:36:10.827] [3282/3900] Bot24 vs Bot37: Bot37 won
+[14:36:10.832] [3283/3900] Bot37 vs Bot24: Draw
+[14:36:10.837] [3284/3900] Bot37 vs Bot24: Draw
+[14:36:10.913] [3285/3900] Bot37 vs Bot24: Draw
+[14:36:10.918] [3286/3900] Bot24 vs Bot38: Bot38 won
+[14:36:10.923] [3287/3900] Bot24 vs Bot38: Bot24 won
+[14:36:10.928] [3288/3900] Bot38 vs Bot24: Draw
+[14:36:10.933] [3289/3900] Bot38 vs Bot24: Bot24 won
+[14:36:10.939] [3290/3900] Bot38 vs Bot24: Bot24 won
+[14:36:10.944] [3291/3900] Bot24 vs Bot39: Draw
+[14:36:10.949] [3292/3900] Bot24 vs Bot39: Bot39 won
+[14:36:10.955] [3293/3900] Bot39 vs Bot24: Draw
+[14:36:10.960] [3294/3900] Bot39 vs Bot24: Bot24 won
+[14:36:10.965] [3295/3900] Bot39 vs Bot24: Bot24 won
+[14:36:10.970] [3296/3900] Bot24 vs Bot40: Bot40 won
+[14:36:10.976] [3297/3900] Bot24 vs Bot40: Draw
+[14:36:10.981] [3298/3900] Bot40 vs Bot24: Bot24 won
+[14:36:10.987] [3299/3900] Bot40 vs Bot24: Bot24 won
+[14:36:10.992] [3300/3900] Bot40 vs Bot24: Bot24 won
+[14:36:10.997] [3301/3900] Bot25 vs Bot26: Bot26 won
+[14:36:11.003] [3302/3900] Bot25 vs Bot26: Draw
+[14:36:11.015] [3303/3900] Bot26 vs Bot25: Draw
+[14:36:11.091] [3304/3900] Bot26 vs Bot25: Bot25 won
+[14:36:11.096] [3305/3900] Bot26 vs Bot25: Draw
+[14:36:11.101] [3306/3900] Bot25 vs Bot27: Draw
+[14:36:11.106] [3307/3900] Bot25 vs Bot27: Bot27 won
+[14:36:11.111] [3308/3900] Bot27 vs Bot25: Draw
+[14:36:11.116] [3309/3900] Bot27 vs Bot25: Draw
+[14:36:11.121] [3310/3900] Bot27 vs Bot25: Draw
+[14:36:11.127] [3311/3900] Bot25 vs Bot28: Bot28 won
+[14:36:11.132] [3312/3900] Bot25 vs Bot28: Bot28 won
+[14:36:11.137] [3313/3900] Bot28 vs Bot25: Bot28 won
+[14:36:11.142] [3314/3900] Bot28 vs Bot25: Bot25 won
+[14:36:11.147] [3315/3900] Bot28 vs Bot25: Draw
+[14:36:11.152] [3316/3900] Bot25 vs Bot29: Bot29 won
+[14:36:11.157] [3317/3900] Bot25 vs Bot29: Draw
+[14:36:11.162] [3318/3900] Bot29 vs Bot25: Draw
+[14:36:11.167] [3319/3900] Bot29 vs Bot25: Draw
+[14:36:11.172] [3320/3900] Bot29 vs Bot25: Bot25 won
+[14:36:11.177] [3321/3900] Bot25 vs Bot30: Bot30 won
+[14:36:11.182] [3322/3900] Bot25 vs Bot30: Draw
+[14:36:11.187] [3323/3900] Bot30 vs Bot25: Draw
+[14:36:11.192] [3324/3900] Bot30 vs Bot25: Draw
+[14:36:11.197] [3325/3900] Bot30 vs Bot25: Bot30 won
+[14:36:11.272] [3326/3900] Bot25 vs Bot31: Bot31 won
+[14:36:11.278] [3327/3900] Bot25 vs Bot31: Draw
+[14:36:11.283] [3328/3900] Bot31 vs Bot25: Draw
+[14:36:11.287] [3329/3900] Bot31 vs Bot25: Bot25 won
+[14:36:11.293] [3330/3900] Bot31 vs Bot25: Draw
+[14:36:11.298] [3331/3900] Bot25 vs Bot32: Draw
+[14:36:11.303] [3332/3900] Bot25 vs Bot32: Draw
+[14:36:11.308] [3333/3900] Bot32 vs Bot25: Draw
+[14:36:11.313] [3334/3900] Bot32 vs Bot25: Bot25 won
+[14:36:11.318] [3335/3900] Bot32 vs Bot25: Draw
+[14:36:11.323] [3336/3900] Bot25 vs Bot33: Draw
+[14:36:11.328] [3337/3900] Bot25 vs Bot33: Draw
+[14:36:11.334] [3338/3900] Bot33 vs Bot25: Draw
+[14:36:11.339] [3339/3900] Bot33 vs Bot25: Bot25 won
+[14:36:11.344] [3340/3900] Bot33 vs Bot25: Draw
+[14:36:11.349] [3341/3900] Bot25 vs Bot34: Draw
+[14:36:11.355] [3342/3900] Bot25 vs Bot34: Bot34 won
+[14:36:11.360] [3343/3900] Bot34 vs Bot25: Draw
+[14:36:11.365] [3344/3900] Bot34 vs Bot25: Bot25 won
+[14:36:11.370] [3345/3900] Bot34 vs Bot25: Draw
+[14:36:11.446] [3346/3900] Bot25 vs Bot35: Bot35 won
+[14:36:11.451] [3347/3900] Bot25 vs Bot35: Bot35 won
+[14:36:11.456] [3348/3900] Bot35 vs Bot25: Bot25 won
+[14:36:11.462] [3349/3900] Bot35 vs Bot25: Draw
+[14:36:11.467] [3350/3900] Bot35 vs Bot25: Draw
+[14:36:11.472] [3351/3900] Bot25 vs Bot36: Bot36 won
+[14:36:11.477] [3352/3900] Bot25 vs Bot36: Bot36 won
+[14:36:11.482] [3353/3900] Bot36 vs Bot25: Bot25 won
+[14:36:11.487] [3354/3900] Bot36 vs Bot25: Bot25 won
+[14:36:11.493] [3355/3900] Bot36 vs Bot25: Bot25 won
+[14:36:11.498] [3356/3900] Bot25 vs Bot37: Draw
+[14:36:11.509] [3357/3900] Bot25 vs Bot37: Draw
+[14:36:11.515] [3358/3900] Bot37 vs Bot25: Draw
+[14:36:11.520] [3359/3900] Bot37 vs Bot25: Bot25 won
+[14:36:11.526] [3360/3900] Bot37 vs Bot25: Draw
+[14:36:11.531] [3361/3900] Bot25 vs Bot38: Bot38 won
+[14:36:11.537] [3362/3900] Bot25 vs Bot38: Bot38 won
+[14:36:11.543] [3363/3900] Bot38 vs Bot25: Draw
+[14:36:11.548] [3364/3900] Bot38 vs Bot25: Bot25 won
+[14:36:11.624] [3365/3900] Bot38 vs Bot25: Bot25 won
+[14:36:11.632] [3366/3900] Bot25 vs Bot39: Draw
+[14:36:11.637] [3367/3900] Bot25 vs Bot39: Bot39 won
+[14:36:11.642] [3368/3900] Bot39 vs Bot25: Bot25 won
+[14:36:11.647] [3369/3900] Bot39 vs Bot25: Draw
+[14:36:11.652] [3370/3900] Bot39 vs Bot25: Bot39 won
+[14:36:11.657] [3371/3900] Bot25 vs Bot40: Bot40 won
+[14:36:11.661] [3372/3900] Bot25 vs Bot40: Draw
+[14:36:11.666] [3373/3900] Bot40 vs Bot25: Bot25 won
+[14:36:11.671] [3374/3900] Bot40 vs Bot25: Draw
+[14:36:11.676] [3375/3900] Bot40 vs Bot25: Bot25 won
+[14:36:11.681] [3376/3900] Bot26 vs Bot27: Bot27 won
+[14:36:11.686] [3377/3900] Bot26 vs Bot27: Bot27 won
+[14:36:11.691] [3378/3900] Bot27 vs Bot26: Bot26 won
+[14:36:11.696] [3379/3900] Bot27 vs Bot26: Draw
+[14:36:11.701] [3380/3900] Bot27 vs Bot26: Bot26 won
+[14:36:11.781] [3381/3900] Bot26 vs Bot28: Draw
+[14:36:11.819] [3382/3900] Bot26 vs Bot28: Bot26 won
+[14:36:11.824] [3383/3900] Bot28 vs Bot26: Bot26 won
+[14:36:11.830] [3384/3900] Bot28 vs Bot26: Draw
+[14:36:11.835] [3385/3900] Bot28 vs Bot26: Bot26 won
+[14:36:11.841] [3386/3900] Bot26 vs Bot29: Bot29 won
+[14:36:11.846] [3387/3900] Bot26 vs Bot29: Draw
+[14:36:11.852] [3388/3900] Bot29 vs Bot26: Draw
+[14:36:11.857] [3389/3900] Bot29 vs Bot26: Draw
+[14:36:11.865] [3390/3900] Bot29 vs Bot26: Bot29 won
+[14:36:11.870] [3391/3900] Bot26 vs Bot30: Draw
+[14:36:11.876] [3392/3900] Bot26 vs Bot30: Draw
+[14:36:11.881] [3393/3900] Bot30 vs Bot26: Draw
+[14:36:11.886] [3394/3900] Bot30 vs Bot26: Bot26 won
+[14:36:11.891] [3395/3900] Bot30 vs Bot26: Draw
+[14:36:11.896] [3396/3900] Bot26 vs Bot31: Draw
+[14:36:11.901] [3397/3900] Bot26 vs Bot31: Bot31 won
+[14:36:11.907] [3398/3900] Bot31 vs Bot26: Draw
+[14:36:11.912] [3399/3900] Bot31 vs Bot26: Draw
+[14:36:11.917] [3400/3900] Bot31 vs Bot26: Draw
+[14:36:11.922] [3401/3900] Bot26 vs Bot32: Draw
+[14:36:11.926] [3402/3900] Bot26 vs Bot32: Bot32 won
+[14:36:11.931] [3403/3900] Bot32 vs Bot26: Draw
+[14:36:11.937] [3404/3900] Bot32 vs Bot26: Bot26 won
+[14:36:11.942] [3405/3900] Bot32 vs Bot26: Bot26 won
+[14:36:11.947] [3406/3900] Bot26 vs Bot33: Bot33 won
+[14:36:11.952] [3407/3900] Bot26 vs Bot33: Bot33 won
+[14:36:12.027] [3408/3900] Bot33 vs Bot26: Draw
+[14:36:12.033] [3409/3900] Bot33 vs Bot26: Bot26 won
+[14:36:12.038] [3410/3900] Bot33 vs Bot26: Draw
+[14:36:12.045] [3411/3900] Bot26 vs Bot34: Bot34 won
+[14:36:12.050] [3412/3900] Bot26 vs Bot34: Bot34 won
+[14:36:12.055] [3413/3900] Bot34 vs Bot26: Draw
+[14:36:12.061] [3414/3900] Bot34 vs Bot26: Bot34 won
+[14:36:12.066] [3415/3900] Bot34 vs Bot26: Bot26 won
+[14:36:12.071] [3416/3900] Bot26 vs Bot35: Bot35 won
+[14:36:12.077] [3417/3900] Bot26 vs Bot35: Draw
+[14:36:12.089] [3418/3900] Bot35 vs Bot26: Draw
+[14:36:12.094] [3419/3900] Bot35 vs Bot26: Draw
+[14:36:12.099] [3420/3900] Bot35 vs Bot26: Draw
+[14:36:12.105] [3421/3900] Bot26 vs Bot36: Draw
+[14:36:12.110] [3422/3900] Bot26 vs Bot36: Bot26 won
+[14:36:12.116] [3423/3900] Bot36 vs Bot26: Draw
+[14:36:12.121] [3424/3900] Bot36 vs Bot26: Draw
+[14:36:12.127] [3425/3900] Bot36 vs Bot26: Draw
+[14:36:12.131] [3426/3900] Bot26 vs Bot37: Bot37 won
+[14:36:12.137] [3427/3900] Bot26 vs Bot37: Bot26 won
+[14:36:12.144] [3428/3900] Bot37 vs Bot26: Bot26 won
+[14:36:12.149] [3429/3900] Bot37 vs Bot26: Bot37 won
+[14:36:12.155] [3430/3900] Bot37 vs Bot26: Draw
+[14:36:12.160] [3431/3900] Bot26 vs Bot38: Bot38 won
+[14:36:12.165] [3432/3900] Bot26 vs Bot38: Bot38 won
+[14:36:12.170] [3433/3900] Bot38 vs Bot26: Draw
+[14:36:12.176] [3434/3900] Bot38 vs Bot26: Bot26 won
+[14:36:12.181] [3435/3900] Bot38 vs Bot26: Draw
+[14:36:12.186] [3436/3900] Bot26 vs Bot39: Bot39 won
+[14:36:12.192] [3437/3900] Bot26 vs Bot39: Bot26 won
+[14:36:12.197] [3438/3900] Bot39 vs Bot26: Bot26 won
+[14:36:12.202] [3439/3900] Bot39 vs Bot26: Draw
+[14:36:12.209] [3440/3900] Bot39 vs Bot26: Draw
+[14:36:12.214] [3441/3900] Bot26 vs Bot40: Bot40 won
+[14:36:12.219] [3442/3900] Bot26 vs Bot40: Bot26 won
+[14:36:12.225] [3443/3900] Bot40 vs Bot26: Draw
+[14:36:12.230] [3444/3900] Bot40 vs Bot26: Bot26 won
+[14:36:12.236] [3445/3900] Bot40 vs Bot26: Draw
+[14:36:12.311] [3446/3900] Bot27 vs Bot28: Draw
+[14:36:12.319] [3447/3900] Bot27 vs Bot28: Draw
+[14:36:12.325] [3448/3900] Bot28 vs Bot27: Bot28 won
+[14:36:12.330] [3449/3900] Bot28 vs Bot27: Draw
+[14:36:12.334] [3450/3900] Bot28 vs Bot27: Bot27 won
+[14:36:12.339] [3451/3900] Bot27 vs Bot29: Bot29 won
+[14:36:12.345] [3452/3900] Bot27 vs Bot29: Bot29 won
+[14:36:12.349] [3453/3900] Bot29 vs Bot27: Draw
+[14:36:12.354] [3454/3900] Bot29 vs Bot27: Bot29 won
+[14:36:12.360] [3455/3900] Bot29 vs Bot27: Draw
+[14:36:12.364] [3456/3900] Bot27 vs Bot30: Bot30 won
+[14:36:12.369] [3457/3900] Bot27 vs Bot30: Draw
+[14:36:12.375] [3458/3900] Bot30 vs Bot27: Draw
+[14:36:12.380] [3459/3900] Bot30 vs Bot27: Bot27 won
+[14:36:12.385] [3460/3900] Bot30 vs Bot27: Draw
+[14:36:12.390] [3461/3900] Bot27 vs Bot31: Draw
+[14:36:12.396] [3462/3900] Bot27 vs Bot31: Bot31 won
+[14:36:12.400] [3463/3900] Bot31 vs Bot27: Draw
+[14:36:12.405] [3464/3900] Bot31 vs Bot27: Bot27 won
+[14:36:12.411] [3465/3900] Bot31 vs Bot27: Bot27 won
+[14:36:12.486] [3466/3900] Bot27 vs Bot32: Bot32 won
+[14:36:12.491] [3467/3900] Bot27 vs Bot32: Draw
+[14:36:12.496] [3468/3900] Bot32 vs Bot27: Draw
+[14:36:12.501] [3469/3900] Bot32 vs Bot27: Bot27 won
+[14:36:12.506] [3470/3900] Bot32 vs Bot27: Draw
+[14:36:12.511] [3471/3900] Bot27 vs Bot33: Draw
+[14:36:12.515] [3472/3900] Bot27 vs Bot33: Bot27 won
+[14:36:12.520] [3473/3900] Bot33 vs Bot27: Draw
+[14:36:12.525] [3474/3900] Bot33 vs Bot27: Bot27 won
+[14:36:12.530] [3475/3900] Bot33 vs Bot27: Bot27 won
+[14:36:12.536] [3476/3900] Bot27 vs Bot34: Draw
+[14:36:12.541] [3477/3900] Bot27 vs Bot34: Bot34 won
+[14:36:12.546] [3478/3900] Bot34 vs Bot27: Draw
+[14:36:12.551] [3479/3900] Bot34 vs Bot27: Bot27 won
+[14:36:12.557] [3480/3900] Bot34 vs Bot27: Draw
+[14:36:12.561] [3481/3900] Bot27 vs Bot35: Draw
+[14:36:12.567] [3482/3900] Bot27 vs Bot35: Bot35 won
+[14:36:12.572] [3483/3900] Bot35 vs Bot27: Bot27 won
+[14:36:12.648] [3484/3900] Bot35 vs Bot27: Draw
+[14:36:12.653] [3485/3900] Bot35 vs Bot27: Draw
+[14:36:12.658] [3486/3900] Bot27 vs Bot36: Draw
+[14:36:12.663] [3487/3900] Bot27 vs Bot36: Draw
+[14:36:12.668] [3488/3900] Bot36 vs Bot27: Bot27 won
+[14:36:12.674] [3489/3900] Bot36 vs Bot27: Bot27 won
+[14:36:12.679] [3490/3900] Bot36 vs Bot27: Draw
+[14:36:12.684] [3491/3900] Bot27 vs Bot37: Draw
+[14:36:12.689] [3492/3900] Bot27 vs Bot37: Draw
+[14:36:12.694] [3493/3900] Bot37 vs Bot27: Draw
+[14:36:12.699] [3494/3900] Bot37 vs Bot27: Bot27 won
+[14:36:12.704] [3495/3900] Bot37 vs Bot27: Draw
+[14:36:12.709] [3496/3900] Bot27 vs Bot38: Bot38 won
+[14:36:12.714] [3497/3900] Bot27 vs Bot38: Bot38 won
+[14:36:12.719] [3498/3900] Bot38 vs Bot27: Bot27 won
+[14:36:12.724] [3499/3900] Bot38 vs Bot27: Bot38 won
+[14:36:12.730] [3500/3900] Bot38 vs Bot27: Bot38 won
+[14:36:12.736] [3501/3900] Bot27 vs Bot39: Draw
+[14:36:12.741] [3502/3900] Bot27 vs Bot39: Bot27 won
+[14:36:12.817] [3503/3900] Bot39 vs Bot27: Draw
+[14:36:12.822] [3504/3900] Bot39 vs Bot27: Bot27 won
+[14:36:12.828] [3505/3900] Bot39 vs Bot27: Bot27 won
+[14:36:12.833] [3506/3900] Bot27 vs Bot40: Bot27 won
+[14:36:12.841] [3507/3900] Bot27 vs Bot40: Draw
+[14:36:12.846] [3508/3900] Bot40 vs Bot27: Draw
+[14:36:12.851] [3509/3900] Bot40 vs Bot27: Draw
+[14:36:12.856] [3510/3900] Bot40 vs Bot27: Draw
+[14:36:12.861] [3511/3900] Bot28 vs Bot29: Bot28 won
+[14:36:12.866] [3512/3900] Bot28 vs Bot29: Draw
+[14:36:12.870] [3513/3900] Bot29 vs Bot28: Bot28 won
+[14:36:12.875] [3514/3900] Bot29 vs Bot28: Draw
+[14:36:12.880] [3515/3900] Bot29 vs Bot28: Draw
+[14:36:12.885] [3516/3900] Bot28 vs Bot30: Draw
+[14:36:12.890] [3517/3900] Bot28 vs Bot30: Draw
+[14:36:12.895] [3518/3900] Bot30 vs Bot28: Draw
+[14:36:12.970] [3519/3900] Bot30 vs Bot28: Bot28 won
+[14:36:12.976] [3520/3900] Bot30 vs Bot28: Bot28 won
+[14:36:12.981] [3521/3900] Bot28 vs Bot31: Bot31 won
+[14:36:12.986] [3522/3900] Bot28 vs Bot31: Bot31 won
+[14:36:12.991] [3523/3900] Bot31 vs Bot28: Draw
+[14:36:12.996] [3524/3900] Bot31 vs Bot28: Bot28 won
+[14:36:13.001] [3525/3900] Bot31 vs Bot28: Bot28 won
+[14:36:13.005] [3526/3900] Bot28 vs Bot32: Draw
+[14:36:13.011] [3527/3900] Bot28 vs Bot32: Bot32 won
+[14:36:13.017] [3528/3900] Bot32 vs Bot28: Draw
+[14:36:13.022] [3529/3900] Bot32 vs Bot28: Draw
+[14:36:13.027] [3530/3900] Bot32 vs Bot28: Draw
+[14:36:13.032] [3531/3900] Bot28 vs Bot33: Bot33 won
+[14:36:13.037] [3532/3900] Bot28 vs Bot33: Draw
+[14:36:13.042] [3533/3900] Bot33 vs Bot28: Draw
+[14:36:13.047] [3534/3900] Bot33 vs Bot28: Draw
+[14:36:13.123] [3535/3900] Bot33 vs Bot28: Draw
+[14:36:13.127] [3536/3900] Bot28 vs Bot34: Bot34 won
+[14:36:13.132] [3537/3900] Bot28 vs Bot34: Bot28 won
+[14:36:13.138] [3538/3900] Bot34 vs Bot28: Bot28 won
+[14:36:13.143] [3539/3900] Bot34 vs Bot28: Bot28 won
+[14:36:13.150] [3540/3900] Bot34 vs Bot28: Bot28 won
+[14:36:13.156] [3541/3900] Bot28 vs Bot35: Bot35 won
+[14:36:13.163] [3542/3900] Bot28 vs Bot35: Bot35 won
+[14:36:13.168] [3543/3900] Bot35 vs Bot28: Bot28 won
+[14:36:13.175] [3544/3900] Bot35 vs Bot28: Draw
+[14:36:13.180] [3545/3900] Bot35 vs Bot28: Bot28 won
+[14:36:13.186] [3546/3900] Bot28 vs Bot36: Draw
+[14:36:13.191] [3547/3900] Bot28 vs Bot36: Bot36 won
+[14:36:13.196] [3548/3900] Bot36 vs Bot28: Bot28 won
+[14:36:13.201] [3549/3900] Bot36 vs Bot28: Bot28 won
+[14:36:13.206] [3550/3900] Bot36 vs Bot28: Draw
+[14:36:13.211] [3551/3900] Bot28 vs Bot37: Draw
+[14:36:13.216] [3552/3900] Bot28 vs Bot37: Bot37 won
+[14:36:13.221] [3553/3900] Bot37 vs Bot28: Bot28 won
+[14:36:13.227] [3554/3900] Bot37 vs Bot28: Bot28 won
+[14:36:13.232] [3555/3900] Bot37 vs Bot28: Bot28 won
+[14:36:13.236] [3556/3900] Bot28 vs Bot38: Bot38 won
+[14:36:13.242] [3557/3900] Bot28 vs Bot38: Draw
+[14:36:13.247] [3558/3900] Bot38 vs Bot28: Bot28 won
+[14:36:13.253] [3559/3900] Bot38 vs Bot28: Draw
+[14:36:13.258] [3560/3900] Bot38 vs Bot28: Bot28 won
+[14:36:13.263] [3561/3900] Bot28 vs Bot39: Draw
+[14:36:13.268] [3562/3900] Bot28 vs Bot39: Bot39 won
+[14:36:13.345] [3563/3900] Bot39 vs Bot28: Draw
+[14:36:13.350] [3564/3900] Bot39 vs Bot28: Draw
+[14:36:13.355] [3565/3900] Bot39 vs Bot28: Bot28 won
+[14:36:13.361] [3566/3900] Bot28 vs Bot40: Bot40 won
+[14:36:13.366] [3567/3900] Bot28 vs Bot40: Draw
+[14:36:13.371] [3568/3900] Bot40 vs Bot28: Bot40 won
+[14:36:13.375] [3569/3900] Bot40 vs Bot28: Bot28 won
+[14:36:13.381] [3570/3900] Bot40 vs Bot28: Bot40 won
+[14:36:13.386] [3571/3900] Bot29 vs Bot30: Bot30 won
+[14:36:13.392] [3572/3900] Bot29 vs Bot30: Draw
+[14:36:13.397] [3573/3900] Bot30 vs Bot29: Bot29 won
+[14:36:13.402] [3574/3900] Bot30 vs Bot29: Bot29 won
+[14:36:13.408] [3575/3900] Bot30 vs Bot29: Bot29 won
+[14:36:13.413] [3576/3900] Bot29 vs Bot31: Bot31 won
+[14:36:13.418] [3577/3900] Bot29 vs Bot31: Draw
+[14:36:13.424] [3578/3900] Bot31 vs Bot29: Bot29 won
+[14:36:13.500] [3579/3900] Bot31 vs Bot29: Draw
+[14:36:13.505] [3580/3900] Bot31 vs Bot29: Bot29 won
+[14:36:13.513] [3581/3900] Bot29 vs Bot32: Draw
+[14:36:13.518] [3582/3900] Bot29 vs Bot32: Draw
+[14:36:13.523] [3583/3900] Bot32 vs Bot29: Draw
+[14:36:13.528] [3584/3900] Bot32 vs Bot29: Bot32 won
+[14:36:13.533] [3585/3900] Bot32 vs Bot29: Bot29 won
+[14:36:13.538] [3586/3900] Bot29 vs Bot33: Bot33 won
+[14:36:13.543] [3587/3900] Bot29 vs Bot33: Bot33 won
+[14:36:13.547] [3588/3900] Bot33 vs Bot29: Draw
+[14:36:13.552] [3589/3900] Bot33 vs Bot29: Bot29 won
+[14:36:13.558] [3590/3900] Bot33 vs Bot29: Bot29 won
+[14:36:13.563] [3591/3900] Bot29 vs Bot34: Bot34 won
+[14:36:13.567] [3592/3900] Bot29 vs Bot34: Bot34 won
+[14:36:13.572] [3593/3900] Bot34 vs Bot29: Draw
+[14:36:13.577] [3594/3900] Bot34 vs Bot29: Draw
+[14:36:13.582] [3595/3900] Bot34 vs Bot29: Draw
+[14:36:13.587] [3596/3900] Bot29 vs Bot35: Bot29 won
+[14:36:13.592] [3597/3900] Bot29 vs Bot35: Draw
+[14:36:13.667] [3598/3900] Bot35 vs Bot29: Draw
+[14:36:13.672] [3599/3900] Bot35 vs Bot29: Bot29 won
+[14:36:13.678] [3600/3900] Bot35 vs Bot29: Draw
+[14:36:13.682] [3601/3900] Bot29 vs Bot36: Draw
+[14:36:13.688] [3602/3900] Bot29 vs Bot36: Bot29 won
+[14:36:13.693] [3603/3900] Bot36 vs Bot29: Draw
+[14:36:13.697] [3604/3900] Bot36 vs Bot29: Draw
+[14:36:13.702] [3605/3900] Bot36 vs Bot29: Bot36 won
+[14:36:13.708] [3606/3900] Bot29 vs Bot37: Draw
+[14:36:13.712] [3607/3900] Bot29 vs Bot37: Bot37 won
+[14:36:13.718] [3608/3900] Bot37 vs Bot29: Draw
+[14:36:13.723] [3609/3900] Bot37 vs Bot29: Bot37 won
+[14:36:13.728] [3610/3900] Bot37 vs Bot29: Draw
+[14:36:13.733] [3611/3900] Bot29 vs Bot38: Bot38 won
+[14:36:13.737] [3612/3900] Bot29 vs Bot38: Bot38 won
+[14:36:13.743] [3613/3900] Bot38 vs Bot29: Draw
+[14:36:13.819] [3614/3900] Bot38 vs Bot29: Bot38 won
+[14:36:13.824] [3615/3900] Bot38 vs Bot29: Bot29 won
+[14:36:13.829] [3616/3900] Bot29 vs Bot39: Draw
+[14:36:13.834] [3617/3900] Bot29 vs Bot39: Draw
+[14:36:13.840] [3618/3900] Bot39 vs Bot29: Draw
+[14:36:13.845] [3619/3900] Bot39 vs Bot29: Bot29 won
+[14:36:13.850] [3620/3900] Bot39 vs Bot29: Draw
+[14:36:13.855] [3621/3900] Bot29 vs Bot40: Draw
+[14:36:13.860] [3622/3900] Bot29 vs Bot40: Bot40 won
+[14:36:13.866] [3623/3900] Bot40 vs Bot29: Bot29 won
+[14:36:13.871] [3624/3900] Bot40 vs Bot29: Bot29 won
+[14:36:13.876] [3625/3900] Bot40 vs Bot29: Draw
+[14:36:13.881] [3626/3900] Bot30 vs Bot31: Bot31 won
+[14:36:13.886] [3627/3900] Bot30 vs Bot31: Bot31 won
+[14:36:13.891] [3628/3900] Bot31 vs Bot30: Draw
+[14:36:13.897] [3629/3900] Bot31 vs Bot30: Draw
+[14:36:13.973] [3630/3900] Bot31 vs Bot30: Bot31 won
+[14:36:13.979] [3631/3900] Bot30 vs Bot32: Bot30 won
+[14:36:13.984] [3632/3900] Bot30 vs Bot32: Bot30 won
+[14:36:13.989] [3633/3900] Bot32 vs Bot30: Bot30 won
+[14:36:13.994] [3634/3900] Bot32 vs Bot30: Draw
+[14:36:14.000] [3635/3900] Bot32 vs Bot30: Bot30 won
+[14:36:14.005] [3636/3900] Bot30 vs Bot33: Draw
+[14:36:14.011] [3637/3900] Bot30 vs Bot33: Bot33 won
+[14:36:14.016] [3638/3900] Bot33 vs Bot30: Draw
+[14:36:14.021] [3639/3900] Bot33 vs Bot30: Bot30 won
+[14:36:14.026] [3640/3900] Bot33 vs Bot30: Draw
+[14:36:14.032] [3641/3900] Bot30 vs Bot34: Draw
+[14:36:14.042] [3642/3900] Bot30 vs Bot34: Draw
+[14:36:14.047] [3643/3900] Bot34 vs Bot30: Bot30 won
+[14:36:14.051] [3644/3900] Bot34 vs Bot30: Bot30 won
+[14:36:14.057] [3645/3900] Bot34 vs Bot30: Draw
+[14:36:14.133] [3646/3900] Bot30 vs Bot35: Bot35 won
+[14:36:14.137] [3647/3900] Bot30 vs Bot35: Draw
+[14:36:14.143] [3648/3900] Bot35 vs Bot30: Bot30 won
+[14:36:14.147] [3649/3900] Bot35 vs Bot30: Bot30 won
+[14:36:14.152] [3650/3900] Bot35 vs Bot30: Draw
+[14:36:14.158] [3651/3900] Bot30 vs Bot36: Draw
+[14:36:14.163] [3652/3900] Bot30 vs Bot36: Draw
+[14:36:14.168] [3653/3900] Bot36 vs Bot30: Draw
+[14:36:14.172] [3654/3900] Bot36 vs Bot30: Draw
+[14:36:14.177] [3655/3900] Bot36 vs Bot30: Draw
+[14:36:14.182] [3656/3900] Bot30 vs Bot37: Bot37 won
+[14:36:14.186] [3657/3900] Bot30 vs Bot37: Bot37 won
+[14:36:14.192] [3658/3900] Bot37 vs Bot30: Draw
+[14:36:14.197] [3659/3900] Bot37 vs Bot30: Bot37 won
+[14:36:14.201] [3660/3900] Bot37 vs Bot30: Bot30 won
+[14:36:14.207] [3661/3900] Bot30 vs Bot38: Bot38 won
+[14:36:14.281] [3662/3900] Bot30 vs Bot38: Draw
+[14:36:14.287] [3663/3900] Bot38 vs Bot30: Draw
+[14:36:14.292] [3664/3900] Bot38 vs Bot30: Bot30 won
+[14:36:14.297] [3665/3900] Bot38 vs Bot30: Bot30 won
+[14:36:14.303] [3666/3900] Bot30 vs Bot39: Draw
+[14:36:14.309] [3667/3900] Bot30 vs Bot39: Bot39 won
+[14:36:14.314] [3668/3900] Bot39 vs Bot30: Draw
+[14:36:14.319] [3669/3900] Bot39 vs Bot30: Draw
+[14:36:14.324] [3670/3900] Bot39 vs Bot30: Bot39 won
+[14:36:14.329] [3671/3900] Bot30 vs Bot40: Draw
+[14:36:14.334] [3672/3900] Bot30 vs Bot40: Draw
+[14:36:14.338] [3673/3900] Bot40 vs Bot30: Bot40 won
+[14:36:14.344] [3674/3900] Bot40 vs Bot30: Draw
+[14:36:14.349] [3675/3900] Bot40 vs Bot30: Bot40 won
+[14:36:14.354] [3676/3900] Bot31 vs Bot32: Draw
+[14:36:14.360] [3677/3900] Bot31 vs Bot32: Bot32 won
+[14:36:14.436] [3678/3900] Bot32 vs Bot31: Draw
+[14:36:14.441] [3679/3900] Bot32 vs Bot31: Draw
+[14:36:14.450] [3680/3900] Bot32 vs Bot31: Bot31 won
+[14:36:14.462] [3681/3900] Bot31 vs Bot33: Draw
+[14:36:14.467] [3682/3900] Bot31 vs Bot33: Bot33 won
+[14:36:14.472] [3683/3900] Bot33 vs Bot31: Bot31 won
+[14:36:14.478] [3684/3900] Bot33 vs Bot31: Bot33 won
+[14:36:14.483] [3685/3900] Bot33 vs Bot31: Draw
+[14:36:14.488] [3686/3900] Bot31 vs Bot34: Draw
+[14:36:14.494] [3687/3900] Bot31 vs Bot34: Draw
+[14:36:14.502] [3688/3900] Bot34 vs Bot31: Bot31 won
+[14:36:14.508] [3689/3900] Bot34 vs Bot31: Draw
+[14:36:14.514] [3690/3900] Bot34 vs Bot31: Draw
+[14:36:14.520] [3691/3900] Bot31 vs Bot35: Draw
+[14:36:14.528] [3692/3900] Bot31 vs Bot35: Bot35 won
+[14:36:14.533] [3693/3900] Bot35 vs Bot31: Draw
+[14:36:14.538] [3694/3900] Bot35 vs Bot31: Draw
+[14:36:14.543] [3695/3900] Bot35 vs Bot31: Draw
+[14:36:14.549] [3696/3900] Bot31 vs Bot36: Bot36 won
+[14:36:14.554] [3697/3900] Bot31 vs Bot36: Bot36 won
+[14:36:14.560] [3698/3900] Bot36 vs Bot31: Draw
+[14:36:14.565] [3699/3900] Bot36 vs Bot31: Bot31 won
+[14:36:14.641] [3700/3900] Bot36 vs Bot31: Draw
+[14:36:14.647] [3701/3900] Bot31 vs Bot37: Bot37 won
+[14:36:14.652] [3702/3900] Bot31 vs Bot37: Bot37 won
+[14:36:14.660] [3703/3900] Bot37 vs Bot31: Draw
+[14:36:14.664] [3704/3900] Bot37 vs Bot31: Draw
+[14:36:14.669] [3705/3900] Bot37 vs Bot31: Bot31 won
+[14:36:14.674] [3706/3900] Bot31 vs Bot38: Bot38 won
+[14:36:14.679] [3707/3900] Bot31 vs Bot38: Draw
+[14:36:14.684] [3708/3900] Bot38 vs Bot31: Draw
+[14:36:14.689] [3709/3900] Bot38 vs Bot31: Draw
+[14:36:14.694] [3710/3900] Bot38 vs Bot31: Draw
+[14:36:14.698] [3711/3900] Bot31 vs Bot39: Bot39 won
+[14:36:14.703] [3712/3900] Bot31 vs Bot39: Bot39 won
+[14:36:14.709] [3713/3900] Bot39 vs Bot31: Bot31 won
+[14:36:14.713] [3714/3900] Bot39 vs Bot31: Draw
+[14:36:14.718] [3715/3900] Bot39 vs Bot31: Bot31 won
+[14:36:14.794] [3716/3900] Bot31 vs Bot40: Draw
+[14:36:14.798] [3717/3900] Bot31 vs Bot40: Draw
+[14:36:14.803] [3718/3900] Bot40 vs Bot31: Bot40 won
+[14:36:14.808] [3719/3900] Bot40 vs Bot31: Bot31 won
+[14:36:14.813] [3720/3900] Bot40 vs Bot31: Bot40 won
+[14:36:14.817] [3721/3900] Bot32 vs Bot33: Bot33 won
+[14:36:14.822] [3722/3900] Bot32 vs Bot33: Bot33 won
+[14:36:14.827] [3723/3900] Bot33 vs Bot32: Bot32 won
+[14:36:14.832] [3724/3900] Bot33 vs Bot32: Draw
+[14:36:14.837] [3725/3900] Bot33 vs Bot32: Bot32 won
+[14:36:14.842] [3726/3900] Bot32 vs Bot34: Bot32 won
+[14:36:14.847] [3727/3900] Bot32 vs Bot34: Bot34 won
+[14:36:14.852] [3728/3900] Bot34 vs Bot32: Bot32 won
+[14:36:14.857] [3729/3900] Bot34 vs Bot32: Draw
+[14:36:14.862] [3730/3900] Bot34 vs Bot32: Draw
+[14:36:14.867] [3731/3900] Bot32 vs Bot35: Bot35 won
+[14:36:14.942] [3732/3900] Bot32 vs Bot35: Bot35 won
+[14:36:14.948] [3733/3900] Bot35 vs Bot32: Bot32 won
+[14:36:14.953] [3734/3900] Bot35 vs Bot32: Bot35 won
+[14:36:14.958] [3735/3900] Bot35 vs Bot32: Bot32 won
+[14:36:14.963] [3736/3900] Bot32 vs Bot36: Draw
+[14:36:14.968] [3737/3900] Bot32 vs Bot36: Draw
+[14:36:14.974] [3738/3900] Bot36 vs Bot32: Bot36 won
+[14:36:14.979] [3739/3900] Bot36 vs Bot32: Bot32 won
+[14:36:14.984] [3740/3900] Bot36 vs Bot32: Bot32 won
+[14:36:14.989] [3741/3900] Bot32 vs Bot37: Draw
+[14:36:14.995] [3742/3900] Bot32 vs Bot37: Bot32 won
+[14:36:15.000] [3743/3900] Bot37 vs Bot32: Draw
+[14:36:15.006] [3744/3900] Bot37 vs Bot32: Bot32 won
+[14:36:15.011] [3745/3900] Bot37 vs Bot32: Draw
+[14:36:15.017] [3746/3900] Bot32 vs Bot38: Bot32 won
+[14:36:15.022] [3747/3900] Bot32 vs Bot38: Draw
+[14:36:15.027] [3748/3900] Bot38 vs Bot32: Bot32 won
+[14:36:15.032] [3749/3900] Bot38 vs Bot32: Bot32 won
+[14:36:15.037] [3750/3900] Bot38 vs Bot32: Bot32 won
+[14:36:15.043] [3751/3900] Bot32 vs Bot39: Draw
+[14:36:15.048] [3752/3900] Bot32 vs Bot39: Bot32 won
+[14:36:15.053] [3753/3900] Bot39 vs Bot32: Bot32 won
+[14:36:15.128] [3754/3900] Bot39 vs Bot32: Bot32 won
+[14:36:15.134] [3755/3900] Bot39 vs Bot32: Draw
+[14:36:15.139] [3756/3900] Bot32 vs Bot40: Bot40 won
+[14:36:15.144] [3757/3900] Bot32 vs Bot40: Bot40 won
+[14:36:15.150] [3758/3900] Bot40 vs Bot32: Bot32 won
+[14:36:15.155] [3759/3900] Bot40 vs Bot32: Bot32 won
+[14:36:15.161] [3760/3900] Bot40 vs Bot32: Draw
+[14:36:15.166] [3761/3900] Bot33 vs Bot34: Bot34 won
+[14:36:15.174] [3762/3900] Bot33 vs Bot34: Bot34 won
+[14:36:15.179] [3763/3900] Bot34 vs Bot33: Bot33 won
+[14:36:15.184] [3764/3900] Bot34 vs Bot33: Draw
+[14:36:15.189] [3765/3900] Bot34 vs Bot33: Draw
+[14:36:15.194] [3766/3900] Bot33 vs Bot35: Draw
+[14:36:15.198] [3767/3900] Bot33 vs Bot35: Draw
+[14:36:15.203] [3768/3900] Bot35 vs Bot33: Bot33 won
+[14:36:15.208] [3769/3900] Bot35 vs Bot33: Draw
+[14:36:15.283] [3770/3900] Bot35 vs Bot33: Bot33 won
+[14:36:15.288] [3771/3900] Bot33 vs Bot36: Bot33 won
+[14:36:15.293] [3772/3900] Bot33 vs Bot36: Draw
+[14:36:15.298] [3773/3900] Bot36 vs Bot33: Draw
+[14:36:15.303] [3774/3900] Bot36 vs Bot33: Bot33 won
+[14:36:15.308] [3775/3900] Bot36 vs Bot33: Draw
+[14:36:15.313] [3776/3900] Bot33 vs Bot37: Draw
+[14:36:15.318] [3777/3900] Bot33 vs Bot37: Draw
+[14:36:15.323] [3778/3900] Bot37 vs Bot33: Bot33 won
+[14:36:15.328] [3779/3900] Bot37 vs Bot33: Draw
+[14:36:15.332] [3780/3900] Bot37 vs Bot33: Draw
+[14:36:15.337] [3781/3900] Bot33 vs Bot38: Draw
+[14:36:15.342] [3782/3900] Bot33 vs Bot38: Draw
+[14:36:15.347] [3783/3900] Bot38 vs Bot33: Draw
+[14:36:15.352] [3784/3900] Bot38 vs Bot33: Bot33 won
+[14:36:15.357] [3785/3900] Bot38 vs Bot33: Bot33 won
+[14:36:15.361] [3786/3900] Bot33 vs Bot39: Bot39 won
+[14:36:15.366] [3787/3900] Bot33 vs Bot39: Bot39 won
+[14:36:15.371] [3788/3900] Bot39 vs Bot33: Draw
+[14:36:15.448] [3789/3900] Bot39 vs Bot33: Bot33 won
+[14:36:15.453] [3790/3900] Bot39 vs Bot33: Bot33 won
+[14:36:15.458] [3791/3900] Bot33 vs Bot40: Draw
+[14:36:15.463] [3792/3900] Bot33 vs Bot40: Draw
+[14:36:15.468] [3793/3900] Bot40 vs Bot33: Bot33 won
+[14:36:15.473] [3794/3900] Bot40 vs Bot33: Bot40 won
+[14:36:15.478] [3795/3900] Bot40 vs Bot33: Draw
+[14:36:15.482] [3796/3900] Bot34 vs Bot35: Draw
+[14:36:15.487] [3797/3900] Bot34 vs Bot35: Bot35 won
+[14:36:15.492] [3798/3900] Bot35 vs Bot34: Bot35 won
+[14:36:15.497] [3799/3900] Bot35 vs Bot34: Draw
+[14:36:15.502] [3800/3900] Bot35 vs Bot34: Draw
+[14:36:15.508] [3801/3900] Bot34 vs Bot36: Draw
+[14:36:15.513] [3802/3900] Bot34 vs Bot36: Draw
+[14:36:15.517] [3803/3900] Bot36 vs Bot34: Bot34 won
+[14:36:15.522] [3804/3900] Bot36 vs Bot34: Draw
+[14:36:15.528] [3805/3900] Bot36 vs Bot34: Bot34 won
+[14:36:15.533] [3806/3900] Bot34 vs Bot37: Draw
+[14:36:15.537] [3807/3900] Bot34 vs Bot37: Bot37 won
+[14:36:15.613] [3808/3900] Bot37 vs Bot34: Draw
+[14:36:15.618] [3809/3900] Bot37 vs Bot34: Bot34 won
+[14:36:15.623] [3810/3900] Bot37 vs Bot34: Bot34 won
+[14:36:15.629] [3811/3900] Bot34 vs Bot38: Draw
+[14:36:15.634] [3812/3900] Bot34 vs Bot38: Draw
+[14:36:15.639] [3813/3900] Bot38 vs Bot34: Bot34 won
+[14:36:15.644] [3814/3900] Bot38 vs Bot34: Draw
+[14:36:15.649] [3815/3900] Bot38 vs Bot34: Draw
+[14:36:15.655] [3816/3900] Bot34 vs Bot39: Bot39 won
+[14:36:15.660] [3817/3900] Bot34 vs Bot39: Bot39 won
+[14:36:15.665] [3818/3900] Bot39 vs Bot34: Draw
+[14:36:15.670] [3819/3900] Bot39 vs Bot34: Draw
+[14:36:15.676] [3820/3900] Bot39 vs Bot34: Draw
+[14:36:15.682] [3821/3900] Bot34 vs Bot40: Draw
+[14:36:15.687] [3822/3900] Bot34 vs Bot40: Bot34 won
+[14:36:15.692] [3823/3900] Bot40 vs Bot34: Bot34 won
+[14:36:15.766] [3824/3900] Bot40 vs Bot34: Bot40 won
+[14:36:15.771] [3825/3900] Bot40 vs Bot34: Bot34 won
+[14:36:15.776] [3826/3900] Bot35 vs Bot36: Draw
+[14:36:15.780] [3827/3900] Bot35 vs Bot36: Draw
+[14:36:15.786] [3828/3900] Bot36 vs Bot35: Bot35 won
+[14:36:15.791] [3829/3900] Bot36 vs Bot35: Draw
+[14:36:15.795] [3830/3900] Bot36 vs Bot35: Draw
+[14:36:15.800] [3831/3900] Bot35 vs Bot37: Draw
+[14:36:15.805] [3832/3900] Bot35 vs Bot37: Draw
+[14:36:15.810] [3833/3900] Bot37 vs Bot35: Draw
+[14:36:15.815] [3834/3900] Bot37 vs Bot35: Draw
+[14:36:15.820] [3835/3900] Bot37 vs Bot35: Draw
+[14:36:15.825] [3836/3900] Bot35 vs Bot38: Bot38 won
+[14:36:15.830] [3837/3900] Bot35 vs Bot38: Draw
+[14:36:15.834] [3838/3900] Bot38 vs Bot35: Bot35 won
+[14:36:15.839] [3839/3900] Bot38 vs Bot35: Draw
+[14:36:15.918] [3840/3900] Bot38 vs Bot35: Draw
+[14:36:15.924] [3841/3900] Bot35 vs Bot39: Draw
+[14:36:15.929] [3842/3900] Bot35 vs Bot39: Bot39 won
+[14:36:15.935] [3843/3900] Bot39 vs Bot35: Bot35 won
+[14:36:15.940] [3844/3900] Bot39 vs Bot35: Draw
+[14:36:15.948] [3845/3900] Bot39 vs Bot35: Bot35 won
+[14:36:15.953] [3846/3900] Bot35 vs Bot40: Draw
+[14:36:15.957] [3847/3900] Bot35 vs Bot40: Bot40 won
+[14:36:15.962] [3848/3900] Bot40 vs Bot35: Bot35 won
+[14:36:15.967] [3849/3900] Bot40 vs Bot35: Draw
+[14:36:15.972] [3850/3900] Bot40 vs Bot35: Bot35 won
+[14:36:15.977] [3851/3900] Bot36 vs Bot37: Bot37 won
+[14:36:15.981] [3852/3900] Bot36 vs Bot37: Bot37 won
+[14:36:15.986] [3853/3900] Bot37 vs Bot36: Draw
+[14:36:15.991] [3854/3900] Bot37 vs Bot36: Bot36 won
+[14:36:15.997] [3855/3900] Bot37 vs Bot36: Draw
+[14:36:16.001] [3856/3900] Bot36 vs Bot38: Bot38 won
+[14:36:16.006] [3857/3900] Bot36 vs Bot38: Draw
+[14:36:16.011] [3858/3900] Bot38 vs Bot36: Draw
+[14:36:16.087] [3859/3900] Bot38 vs Bot36: Draw
+[14:36:16.092] [3860/3900] Bot38 vs Bot36: Bot38 won
+[14:36:16.097] [3861/3900] Bot36 vs Bot39: Bot39 won
+[14:36:16.102] [3862/3900] Bot36 vs Bot39: Draw
+[14:36:16.107] [3863/3900] Bot39 vs Bot36: Draw
+[14:36:16.112] [3864/3900] Bot39 vs Bot36: Draw
+[14:36:16.117] [3865/3900] Bot39 vs Bot36: Bot36 won
+[14:36:16.128] [3866/3900] Bot36 vs Bot40: Draw
+[14:36:16.133] [3867/3900] Bot36 vs Bot40: Bot40 won
+[14:36:16.138] [3868/3900] Bot40 vs Bot36: Draw
+[14:36:16.143] [3869/3900] Bot40 vs Bot36: Bot36 won
+[14:36:16.148] [3870/3900] Bot40 vs Bot36: Draw
+[14:36:16.153] [3871/3900] Bot37 vs Bot38: Bot38 won
+[14:36:16.158] [3872/3900] Bot37 vs Bot38: Bot38 won
+[14:36:16.163] [3873/3900] Bot38 vs Bot37: Bot37 won
+[14:36:16.168] [3874/3900] Bot38 vs Bot37: Bot37 won
+[14:36:16.173] [3875/3900] Bot38 vs Bot37: Draw
+[14:36:16.178] [3876/3900] Bot37 vs Bot39: Bot39 won
+[14:36:16.183] [3877/3900] Bot37 vs Bot39: Draw
+[14:36:16.188] [3878/3900] Bot39 vs Bot37: Bot37 won
+[14:36:16.193] [3879/3900] Bot39 vs Bot37: Draw
+[14:36:16.199] [3880/3900] Bot39 vs Bot37: Bot37 won
+[14:36:16.204] [3881/3900] Bot37 vs Bot40: Draw
+[14:36:16.209] [3882/3900] Bot37 vs Bot40: Draw
+[14:36:16.214] [3883/3900] Bot40 vs Bot37: Draw
+[14:36:16.219] [3884/3900] Bot40 vs Bot37: Bot37 won
+[14:36:16.224] [3885/3900] Bot40 vs Bot37: Draw
+[14:36:16.229] [3886/3900] Bot38 vs Bot39: Draw
+[14:36:16.234] [3887/3900] Bot38 vs Bot39: Draw
+[14:36:16.240] [3888/3900] Bot39 vs Bot38: Bot38 won
+[14:36:16.245] [3889/3900] Bot39 vs Bot38: Bot38 won
+[14:36:16.250] [3890/3900] Bot39 vs Bot38: Bot38 won
+[14:36:16.255] [3891/3900] Bot38 vs Bot40: Bot40 won
+[14:36:16.331] [3892/3900] Bot38 vs Bot40: Draw
+[14:36:16.336] [3893/3900] Bot40 vs Bot38: Draw
+[14:36:16.342] [3894/3900] Bot40 vs Bot38: Draw
+[14:36:16.347] [3895/3900] Bot40 vs Bot38: Draw
+[14:36:16.352] [3896/3900] Bot39 vs Bot40: Bot39 won
+[14:36:16.358] [3897/3900] Bot39 vs Bot40: Draw
+[14:36:16.364] [3898/3900] Bot40 vs Bot39: Draw
+[14:36:16.369] [3899/3900] Bot40 vs Bot39: Bot40 won
+[14:36:16.374] [3900/3900] Bot40 vs Bot39: Draw
+[14:36:16.374] === Game Ended ===
