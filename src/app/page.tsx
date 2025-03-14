@@ -22,7 +22,7 @@ export default async function Home() {
 
   return (
       <div className="min-h-screen bg-gray-900 text-white pt-16">
-        <main className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+        <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h1 className="text-5xl tracking-tight font-extrabold sm:text-6xl md:text-7xl mb-4">
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
@@ -47,16 +47,16 @@ export default async function Home() {
             <SortableTable results={results} />
           </div>
         </main>
-        <div className="text-center pb-16">
+        {/* <div className="text-center pb-16">
           <Link
               href="/matches"
               className="inline-block px-6 py-3 text-base font-medium rounded-md text-white bg-purple-600 hover:bg-purple-700 transition-colors"
           >
             View Matches
           </Link>
-        </div>
+        </div> */}
         <footer className="bg-gray-800">
-          <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8 mt-16">
             <div className="text-center">
               <p className="text-base text-gray-400">
                 © 2024 Tank of War Tournament. All rights reserved.
